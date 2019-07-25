@@ -1,0 +1,842 @@
+country,str,LatLong_raw3,Lat,Long,Freq
+Florida,"Florida  FL,Floarida,Florid,Florida,Florida Shitati,Florida suyu,Floridae,Floride,Florido,Florinta,Floryda,Fl...28.7505408-82.5000976",28.7505408-82.5000976,28,-82,1059
+New South Wales,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,41,-74,495
+Queensland,"Queensland  Kvinslend,QLD,Queensland,Shtat Kvinslend,State of Queensland,<U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>,<U+0428><U+0442><U+0430><U+0442> <U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>-20.0145.0","ueensland  Kvinslend,QLD,Queensland,Shtat Kvinslend,State of Queensland,<U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>,<U+0428><U+0442><U+0430><U+0442> <U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>-20.0145.0",-20,145,320
+Hawaii,"Hawaii  Aloha State,Awayi,Chabae,Gavai,Gavaj,Gavaji,Gavajlar,Gavajs'ki ostrovi,Gavajzar,Gavayi,Gaway adalary...20.78785-156.38612",20.78785-156.38612,20,-156,307
+California,"California  Akeehashiih Hahoodzo,Akééháshi´i´h Hahoodzo,Albion,Alta California,CA,Calafornia,Calafòrnia,Calif,Ca...37.2502247-119.7512643",37.2502247-119.7512643,37,-119,297
+KwaZulu-Natal,"KwaZulu-Natal  HaZulu-Natal,Hazolo-Natala,KwaZulu-Natal,KwaZulu-Natala,KwaZulu-Natali,Kwazulu-Natal,Natal,Province ...-29.030.0",-29.030.0,-29,30,215
+Western Cape Province,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,-34,20,195
+Western Australia,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,-25,122,193
+Eastern Cape Province,"Eastern Asia  Asia Oriental,Asia orientale,Asie de l'Est,Eastern Asia,Ostasien,Rytu Azija,Rytu Azija,Skhidna Azija...32.24997445586331114.609375",32.24997445586331114.60,-32,26,161
+South Carolina,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",33,-90,161
+North Carolina,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",35,-90,107
+South Australia,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",-30,135,104
+Victoria,"Victoria  Shtat Viktorija,State of Victoria,VIC,Victoria,Viktorija,Vitoria,Vitória,<U+0412><U+0438><U+043A><U+0442><U+043E><U+0440><U+0438><U+044F>,<U+0428><U+0442><U+0430><U+0442> <U+0412><U+0438><U+043A><U+0442><U+043E><U+0440><U+0438><U+044F>-37.0145.0","ictoria  Shtat Viktorija,State of Victoria,VIC,Victoria,Viktorija,Vitoria,Vitória,<U+0412><U+0438><U+043A><U+0442><U+043E><U+0440><U+0438><U+044F>,<U+0428><U+0442><U+0430><U+0442> <U+0412><U+0438><U+043A><U+0442><U+043E><U+0440><U+0438><U+044F>-37.0145.0",-37,145,90
+Texas,"Texas  Akalii Bikeyah,Akalii Bikéyah,Estado de Texas,Estado de la Estrella Solitaria,Kekeka,Lone Star State...31.2504424-99.2506061",31.2504424-99.2506061,31,-99,76
+Pernambuco,"Pernambuco  Estado de Pernambuco,PE,Pernamboch,Pernambouc,Pernambucensis,Pernambuco,Pernambuco osariik,Pernambuc...-8.333333-37.75",-46.083333,-8,-37,74
+North Island,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",-35,174,70
+Torres Strait,Torres  -10.57928442333755142.2205924987793,orres  -10.57928442333755142.2205924987793,-9,142,70
+New Jersey,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,40,-74,54
+Tasmania,"Tasmania  Shtat Tasmanija,State of Tasmania,TAS,Tasmania,Tasmanie,Tasmanien,Tasmanija,Tasmânia,Van Diemen's La...-42.0147.0",-42.0147.0,-42,147,42
+South Island,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",-45,168,41
+New York,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,41,-74,32
+Oregon,"Oregon  'Olekona,Beaver State,New Albion,O-let-kong,O-le<U+030D>t-kông,OR,Oogin Hahoodzo,Oregao,Oregon,Oregon Shita...44.0001313-120.5013876",44.0001313-120.5013876,44,-120,30
+Abaco Islands,"Central Abaco District  Central Abaco,Central Abaco District26.43917-77.12972","entral Abaco District  Central Abaco,Central Abaco District26.43917-77.12972",26,-77,28
+Northern Territory,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,-20,134,23
+Central Province,"Central Africa  Africa Central,Africa centrale,Afrique centrale,Central Africa,Central'na Afrika,Central'naja Afrika...-2.0210651187669924.697265625",-2.0210651187669924.6,-10,148,22
+Havana Province,"Havana  A Habana,Abana,Gavana,Gavanae,Gavane,Gorad Gavana,HAV,Habana,Hafana,Hahvaxnaz,Havan,Havana,Havanna,H...23.133019745980196-82.38304138183594",23.133019745980196-82.3830413,23,-82,19
+Virginia,"Virginia  Bhirginia,Bijiniyah Hahoodzo,Bijíniyah Hahoodzo,Commonwealth of Virginia,Firginia,Old Dominion,Sadru...37.5481160131894-77.4467468261719",37.5481160131894-77.4467468,37,-77,19
+Massachusetts,"Massachusetts  Bay State,Commonwealth of Massachusetts,MA,Ma-sat-chu-set,Makakukeka,Masachoset,Masachosèt,Masachous...42.3656470028119-71.1083221435547",42.3656470028119-71.10,42,-71,18
+South Province,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",-21,165,17
+Gaza,Gaza  31.5106534.46411,aza  31.5106534.46411,-23,33,16
+Madang Province,"Madang  Friedrich Wilhelms Harbour,Friedrich-Wilhelmshafen,MAG,Madang,<U+041C><U+0430><U+0434><U+0430><U+043D><U+0433>-5.22152145.78695","adang  Friedrich Wilhelms Harbour,Friedrich-Wilhelmshafen,MAG,Madang,<U+041C><U+0430><U+0434><U+0430><U+043D><U+0433>-5.22152145.78695",-5,145,16
+Puerto Rico,"Puerto Plata  POP,Port Plata,Puerto Plata,San Antonio de Guerra,San Felipe de Puerto Plata,San-Felipe-de-Puehrto-P...19.79343728023457-70.6883955001831",19.79343728023457-70.68,19,-70,16
+Alabama,"Alabama  'Alapama,A-la-pa-ma,AL,Alabama,Alabama Shitati,Alabama suyu,Alabamae,Alabamm-a,Alabamo,Alampama,Alav...32.7504062-86.7502625",32.7504062-86.7502625,32,-86,15
+Georgia,"Georgia  A Chairtbheil,An tSeoirsia,Cheorchia,Djiordjiya,Dzordzija,Gah-lu-gek-a,Geolgia,Georgaen,Georgia,Geor...41.99998143.499905",41.99998143.499905,42,-83,15
+Louisiana,"Louisiana  Estado de Louisiana,LA,Loisiana,Louisiana,Louisiana osariik,Louisiana suyu,Louisiane,Louisiann-a,Lou...31.000467-92.0003987",31.000467-92.0003987,31,-92,15
+New Ireland Province,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,40,-74,15
+Veracruz,"Veracruz  Estado Libre y Soberano de Veracruz de Ignacio de la Llave,Estado de Veracruz,Estado de Veracruz-Lla...19.3333333-96.6666667",19.3333333-96.6666667,19,-96,15
+Guerrero,"Guerrero  Estado de Guerrero,Estat de Guerrero,GRO,Guerrero,ge lei luo zhou,gelelo ju,gerero zhou,<U+30B2><U+30EC><U+30FC><U+30ED><U+5DDE>,<U+683C><U+96F7><U+7F85><U+5DDE>,<U+AC8C>...17.6666667-100.0",17.6666667-100.0,18,-100,14
+Khuzestan Province,"Khuzestan  Chuzestan,Huzestano,Khusistan,Khuzestan,Khuzestan Province,Khuzestán,Khuzistao,Khuziston,Khuzistão,T...31.549.0",31.549.0,,,13
+Luzon Island,"Luzon  Insula Luzon,Louzon,Lucon,Luconia,Luson,Luson araly,Lusona,Lusonas,Luzon,Luzono,Luzón,Luçon,Lúson,Pu...16.0121.0",16.0121.0,,,13
+Adriatic Sea,"Adriatic Sea  Adriaticheskoe more,Adriatichne more,Adriatiko,Adriatisches Meer,Adrijos jura,Adrijos jura,Deti i Ad...43.016.0",43.016.0,,,12
+North Province,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,12
+Quintana Roo,"Quintana Roo  Estado de Quintana Roo,Q. Roo,Quintana,Quintana Roo,Quintana Roo osariik,ROO,Territorio de Quintana ...19.666667-88.25",19.666667-88.25,,,12
+Malampa Province,"Norsup  NUS,Norsoup,Norsup,Norsuup,<U+041D><U+043E><U+0440><U+0441><U+0443><U+043F>-16.065361868117588167.39713668823242","orsup  NUS,Norsoup,Norsup,Norsuup,<U+041D><U+043E><U+0440><U+0441><U+0443><U+043F>-16.065361868117588167.39713668823242",,,11
+Mediterranean Sea,"Mediterranean Region  Akdeniz Bolgesi,Akdeniz Bölgesi36.78713134.220013","editerranean Region  Akdeniz Bolgesi,Akdeniz Bölgesi36.78713134.220013",,,11
+Rio de Janeiro,"Rio de Janeiro  Ciutat de Rio de Janeiro,Gorad Rya-deh-Zhanehjra,RIO,Rio,Rio De Janeiro,Rio d Janeiro,Rio de Janeiro...-22.90642-43.18223",-66.08865,,,11
+Tyrrhenian Sea,"Tyrrhenian Sea  Mar Tirreno,Mare Tirreno,Mare Tyrrhenum,Mer Tyrrhenienne,Mer Tyrrhénienne,Tirenu jura,Tirrens'ke mor...40.012.0",40.012.0,,,11
+Baja California,"Baja California  BC,BCN,Baja California,Basse-Californie du Nord,Distrito Norte Baja California,Estado Libre y Sobera...30.0-115.0",30.0-115.0,,,10
+Grand Bahama Island,"Grand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2","rand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2",,,10
+ Primorje-Gorski Kotar County,Sarou7.91.1666667,arou7.91.1666667,,,9
+Basrah,"Basra  Al Basrah,Al Basrah,Basra,Basra Governorate,Basrah,Liwa' al Basrah,Liwa’ al Basrah,Muhafazat al Basr...30.41666747.416667",30.41666747.416667,,,9
+Bougainville (North Solomons),"Bougainville  Bougainville,Bougainville District,Bougainville Province,Kieta District,North Solomons,North Solomon...-6.0155.0",-6.0155.0,,,9
+Eastern Province,"Eastern Asia  Asia Oriental,Asia orientale,Asie de l'Est,Eastern Asia,Ostasien,Rytu Azija,Rytu Azija,Skhidna Azija...32.24997445586331114.609375",32.24997445586331114.60,,,9
+Red Sea,Red River Delta  21.03498105.8455,ed River Delta  21.03498105.8455,,,9
+Society Islands,"Geographical Society Ø  Geographical Society Island,Geographical Society O,Geographical Society Ø72.95-23.25","eographical Society Ø  Geographical Society Island,Geographical Society O,Geographical Society Ø72.95-23.25",,,9
+Tamil Nadu,"Chennai  Cenaj,Cenajo,Cenajus,Cenay,Cennai,Cennaj,Chenaj,Chennai,Chennai - cennai,Chennai - <U+0B9A><U+0BC6><U+0BA9><U+0BCD><U+0BA9><U+0BC8>,Chennaj,Cs...13.087838534507580.2784729003906",13.087838534507580.278472900,,,9
+"Admiralty Islands, Manus Province",Admiralty Peak  Admiralty Peak-54.2197222-36.8330556,dmiralty Peak  Admiralty Peak-54.2197222-36.8330556,,,8
+Binh Dinh Province,"Hòa Bình  Hao Binh,Hoa Bin,Hoa Binh,Hòa Bình,Thanh Pho Hoa Binh,Thành Ph<U+1ED1> Hòa Bình20.817166105.33759","òa Bình  Hao Binh,Hoa Bin,Hoa Binh,Hòa Bình,Thanh Pho Hoa Binh,Thành Ph<U+1ED1> Hòa Bình20.817166105.33759",,,8
+Canary Islands,"Canary Islands  Archipielago Canario,Archipielago de Las Canarias,Archipiélago Canario,Canarias,Canaries,Canarische ...28.0-15.5",28.0-15.5,,,8
+Kingston Parish,"Kingston  KIN,Kin'nkston,Kingston,jing si dui,kingseuteon,kingusuton,kyngstwn,<U+039A><U+03AF><U+03BD><U+03B3><U+03BA>st<U+03BF><U+03BD>,<U+041A><U+0438><U+043D><U+0433><U+0441><U+0442><U+043E><U+043D>,<U+06A9><U+06CC><U+0646><U+06AF><U+0633><U+062A><U+0648><U+0646>,<U+30AD><U+30F3><U+30B0><U+30B9>...17.9970194353704-76.7935752868652",17.9970194353704-76.7935752,,,8
+Maputo Province,"Maputo  Can Pfumo,Gorad Maputu,Kapfumo,Lourenco Marques,Lourenço Marques,MPM,Mabuto,Mabutu,Mapouto,Maputo,Ma...-25.9655300846010632.58321762084961",-25.9655300846010632.58321762,,,8
+Maryland,"Maryland  MD,Ma-li-lan,Marialand,Marianland,Marieland,Mariland,Marilando,Mary-Land,Maryaland,Marylan,Maryland,...39.000388-76.749969",39.000388-76.749969,,,8
+Milne Bay Province,"Milne Bay Province  Milne Bay,Milne Bay Province-10.552621801948721150.31494140625","ilne Bay Province  Milne Bay,Milne Bay Province-10.552621801948721150.31494140625",,,8
+Morobe Province,"Morobe Province  Morobe,Morobe District,Morobe Province-7.01060113428403146.96720123291016","orobe Province  Morobe,Morobe District,Morobe Province-7.01060113428403146.96720123291016",,,8
+New Britain,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,8
+Viti Levu Island,"Fiji  Bidji,Feeje,Fichi,Fici,Ficiyuaens,Ficiyuäns,FidIi,Fidi,Fidji,Fidjieyjar,Fidj·i,Fidschi,Fidsi,Fidsí,F...-18.0178.0",-18.0178.0,,,8
+West Bengal,"West  Far West,Western United States51.52603957655882-131.1607270082519","est  Far West,Western United States51.52603957655882-131.1607270082519",,,8
+Aden,"Aden  Aden,Aden Governorate,Aden Municipality,Al Muhafazah al Ula,Al Mu<U+1E29>afaz¸ah al Ulá,Baladiyat `Adan,Bal...12.83333344.916667",12.83333344.916667,,,7
+Andros Islands,"San Andros  SAQ,San Andros,San Andros Bahama Village25.066667-78.05","an Andros  SAQ,San Andros,San Andros Bahama Village25.066667-78.05",,,7
+Caribbean Sea,"Caribbean  Caraibe,Caraibi,Caraïbe,Caribbean,Caribe,Karibi,Karibik,Kariby,alkaryby,karibu de fang,<U+041A><U+0430><U+0440><U+0438><U+0431><U+0438>,<U+041A><U+0430><U+0440><U+0438><U+0431><U+044B>...20.385825381874263-72.333984375",20.385825381874263-72.3339,,,7
+Delaware,"Delaware  DE,Delauaare,Delauare,Delaue""r,Delavar,Delavaria,Delavaro,Delavehr,Delaver,Delavera,Delaveras,Delave...39.0003906-75.4999224",39.0003906-75.4999224,,,7
+Galapagos Islands,"Provincia de Galápagos  Archipielago de Colon,Archipielago de Galapagos,Archipiélago de Colón,Archipiélago de Galápagos,Gala...-0.6701507351859187-90.8734130859375",-0.670150735,,,7
+Karun River,"Karun County  Karoun,Karun County31.2761848.64174","arun County  Karoun,Karun County31.2761848.64174",,,7
+Mirs Bay ,"Khairpur  Khaipur,Khairpur,Khairpur Mir's,Khairpur Mirs,Khairpur Mir’s,Khairpur Mirs,Khajrpura,<U+0425><U+0430><U+0439><U+0440><U+043F><U+0443><U+0440><U+0430>27.52948468.759153","hairpur  Khaipur,Khairpur,Khairpur Mir's,Khairpur Mirs,Khairpur Mir’s,Khairpur Mirs,Khajrpura,<U+0425><U+0430><U+0439><U+0440><U+043F><U+0443><U+0440><U+0430>27.52948468.759153",,,7
+Rhode Island,"Providence  Gorad Providehns,PVD,Provedensos,Provid""ns,Providence,Providens,Providensa,Providensas,Providentia,P...41.8239891-71.4128343",41.8239891-71.4128343,,,7
+Sicily,"Sicily  Sicile,Sicilia,Sicily,Sikelia,Sizilien,S<U+03B9><U+03BA>e<U+03BB><U+03AF>a37.0738404230959615.279042720794678","icily  Sicile,Sicilia,Sicily,Sikelia,Sizilien,S<U+03B9><U+03BA>e<U+03BB><U+03AF>a37.0738404230959615.279042720794678",,,7
+South Sinai Peninsula,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,7
+West New Britain Province,"West  Far West,Western United States51.52603957655882-131.1607270082519","est  Far West,Western United States51.52603957655882-131.1607270082519",,,7
+Bali,"Bali  Bali,Bali Local Government Area8.15541310.968526","ali  Bali,Bali Local Government Area8.15541310.968526",,,6
+Bimini Islands,"Bimini  BIM,Bimini,Bimini District,Biminis25.70444-79.28889","imini  BIM,Bimini,Bimini District,Biminis25.70444-79.28889",,,6
+Cap Vert Peninsula,"Cap-Haïtien  CAP,Cabo Haitiano,Cap Haitien,Cap-Francais,Cap-Français,Cap-Haitien,Cap-Haïtien,Cape Haitien,Cape Ha...19.759383-72.198151",19.759383-72.198151,,,6
+Coast Province,"Gold Coast  City of Gold Coast,Costa Dorada,Gold,Gold Coast,Gold Koust,OOL,gorudokosuto,huang jin hai an,<U+0413><U+043E><U+043B><U+0434> <U+041A><U+043E>...-28.00029153.430878",-28.00029153.430878,,,6
+Connecticut,"Connecticut  CT,Conecticut,Coneticute,Connecticut,Connecticut suyu,Connecticuta,Constitution State,K""nektik""t,Kan...41.6670439-72.6664819",41.6670439-72.6664819,,,6
+Ehime Prefecture,"Ehime  Ehime,Ehime Ken,Ehime Prefecture,Ehime-ken,ai yuan,ai yuan xian,ehime,ehime hyeon,ehimeken,<U+3048><U+3072><U+3081>,<U+3048><U+3072><U+3081><U+3051><U+3093>...33.616667132.85",33.616667132.85,,,6
+Guantanamo Province,"Guantánamo  GAO,Guantanama,Guantanamo,Guantánamo,Guatanamo,guantanamo,<U+0413><U+0443><U+0430><U+043D><U+0442><U+0430><U+043D><U+0430><U+043C><U+0430>,<U+0413><U+0443><U+0430><U+043D><U+0442><U+0430><U+043D><U+0430><U+043C><U+043E>,<U+05D2><U+05D5><U+05D0><U+05E0><U+05D8><U+05E0><U+05DE><U+05D5>,<U+30B0><U+30A2><U+30F3><U+30BF><U+30CA><U+30E2>20.1444444-75.2091667","uantánamo  GAO,Guantanama,Guantanamo,Guantánamo,Guatanamo,guantanamo,<U+0413><U+0443><U+0430><U+043D><U+0442><U+0430><U+043D><U+0430><U+043C><U+0430>,<U+0413><U+0443><U+0430><U+043D><U+0442><U+0430><U+043D><U+0430><U+043C><U+043E>,<U+05D2><U+05D5><U+05D0><U+05E0><U+05D8><U+05E0><U+05DE><U+05D5>,<U+30B0><U+30A2><U+30F3><U+30BF><U+30CA><U+30E2>20.1444444-75.2091667",,,6
+Hamilton,Hamilton  -37.7833333175.2833333,amilton  -37.7833333175.2833333,,,6
+Inhambane Province,"Inhambane Province  Distrito de Inhambane,Inhambane,Intendencia de Inhambane,Intendência de Inhambane,Provincia de Inham...-23.034.5",-23.034.5,,,6
+Loyalty Islands,"Wé  Oue,Oué,We,Wé-20.9168692821121167.264614105225","é  Oue,Oué,We,Wé-20.9168692821121167.264614105225",,,6
+Mississippi,"Mississippi  Estado de Mississippi,Ipinle Mississippi,MS,Magnolia State,Mesesepe,Met-si-si-pi,Me<U+030D>t-sî-sî-pí,Mikik...32.7504114-89.750357",32.7504114-89.750357,,,6
+New Providence Island,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,6
+Shatt-al-Arab River,"Shatt al ArabArvand Rud,Arvand Rud,Basra River,Basra Rud,River Shatt al `Arab,Shat ul Arab,Shatt al `Arab,Shatt e...29.94035788481329548.59596252441406",29.94035788481329548.595,,,6
+Tamaulipas,"Tamaulipas  Estado de Tamaulipas,TAM,Tamaulipas,Tamps,ta mao li pa si zhou,tamauripasu zhou,<U+0422><U+0430><U+043C><U+0430><U+0443><U+043B><U+0438><U+043F><U+0430><U+0441>,<U+30BF><U+30DE><U+30A6><U+30EA><U+30D1><U+30B9><U+5DDE>,<U+5854>...24.0-98.75",24.0-98.75,,,6
+Tuamotus,,,,,6
+Exuma Islands,"Exuma District  Exuma,Exuma District23.56944-75.88417","xuma District  Exuma,Exuma District23.56944-75.88417",,,5
+Limpopo River,"Limpopo  IPhondo yaLimpopo,Kgaolo ya Limpopo,Limpopas,Limpopo,Limpopo Province,Limpopo Provinse,Limpopo Provi...-24.029.5",-24.029.5,,,5
+Madang,Madang  Friedrich-Wilhelmshafen-5.233667145.788895,adang  Friedrich-Wilhelmshafen-5.233667145.788895,,,5
+Maranhão,"Maranhão  Estado de Maranhao,Estado de Maranhão,Estado do Maranhao,Estado do Maranhão,Estat de Maranhao,Estat ...-5.0-45.0",-50,,,5
+Taveuni,,,,,5
+US Virgin Islands,Pacific Northwest  Cascadia45.99696-118.49854,acific Northwest  Cascadia45.99696-118.49854,,,5
+Vava'u,"Vava‘u  Vava'u,Vava`u,Vava`u Islands Division,Vava‘u,Vava‘u Islands Division,Vava’u-18.666667-174.0","ava‘u  Vava'u,Vava`u,Vava`u Islands Division,Vava‘u,Vava‘u Islands Division,Vava’u-18.666667-174.0",,,5
+Western Area,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,5
+Western Province,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,5
+"22ºN, 88ºE","Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,4
+Banaadir Region,"Mogadishu  Gorad Magadysha,MGQ,Magadiscio,Maqdishu,Mogadiisho,Mogadis,Mogadisas,Mogadischu,Mogadiscio,Mogadish,...2.0371145.34375",2.0371145.34375,,,4
+Catalonia,"Catalonia  Catalogna,Catalogne,Catalonha,Catalonia,Catalonie,Catalonië,Cataluna,Catalunha,Catalunya,Cataluña,Co...41.82045509614031.86767578125",41.82045509614031.86767578,,,4
+Colima,"Colima  COL,Colima,Colima osariik,Estado de Colima,Estat de Colima,Etat de Colima,ke li ma zhou,korima zhou,...19.133333-103.9",19.133333-103.9,,,4
+Cook Islands,"ChicagoCHI,Cekaga,Chi-ka-ko,Chi-kâ-kô,Chicago,Chicagu,Chikago,Cikaga,Cikago,Cikaqo,E-Chicago,Gorad Chykaga,...41.850033-87.6500523",41.850033-87.6500523,,,4
+Cornwall,Cornwall18.489304890704343-77.8101637775408,ornwall18.489304890704343-77.8101637775408,,,4
+Eleuthera,,,,,4
+Guerro,GuerrouGuerrou16.8645606-11.977824,uerrouGuerrou16.8645606-11.977824,,,4
+Liguria,"Liguria  Li-ku-li-a,Li-kú-lî-â,Ligouria,Ligueria,Liguerje,Liguri,Liguria,Ligurie,Ligurien,Ligurija,Ligurio,Li...44.58.8333333",44.58.8333333,,,4
+"New Ireland Province, Bismarck Archipelago","New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,4
+New Territories,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,4
+Nova Scotia,"Nova Iguaçu  Nova Iguacu,Nova Iguassu,Nova Iguassú,Nova Iguasu,Nova Iguaçu,Nova Iguaçú,Nova-Iguasu,nobaiguasu,nob...-22.75916667-43.45111111",-66.21027778,,,4
+Saint-Denis,Saint-Denis  Saint-Denis44.23324.2524,aint-Denis  Saint-Denis44.23324.2524,,,4
+Saint-Gilles,Saint-Gilles  46.49901423560266-71.37729545829478,aint-Gilles  46.49901423560266-71.37729545829478,,,4
+Saint-Paul,Saint Paul  Saint Paul15.35-61.3833333,aint Paul  Saint Paul15.35-61.3833333,,,4
+Sardinia,"Sardinia (Roman province)  Cerdena (provincia romana),Cerdeña (provincia romana),Sardaigne (province romaine),Sardegna (provinc...39.212737529982899.134273529052734",39.2127375,,,4
+Sinai Peninsula,"South Sinai  Janub Sina',Janub Sina’,Muhafazat Janub Sina',Mu<U+1E29>afaz¸at Janub Sina’,South Sinai,jnwb syna<U+02BE>,<U+062C><U+0646><U+0648><U+0628> <U+0633><U+064A><U+0646>...29.033.8",29.033.8,,,4
+Tuscany,"Tuscany  An Tuscain,An Tuscáin,Region de Toscana,Región de Toscana,Taskana,Thok-su-kha-nap,Thok-s<U+1E73>^-khà-na<U+030D>p,...43.416666711.0",43.416666711.0,,,4
+Vanua Levu,"Vanua Levu  Sandalwood Island,Vanua Levu,Vanua-Levu,Vostrau Vanua-Levu,banualebu seom,banuarebu dao,fanwa lyfw,v...-16.55179.25",-16.55179.25,,,4
+Vita Levu,Vita BukvaVita Bukva44.07833621.661423,ita BukvaVita Bukva44.07833621.661423,,,4
+Zadar County,"ZadarChadra,Gorad Zadar,Iadera,ZAD,Zadar,Zadara,Zadaras,Zantar,Zara,jadaleu,zadar,zadari,zadaru,zdar,zha ...44.119722215.2422222",44.119722215.2422222,,,4
+" Split-Dalmatia Count,",Sarou7.91.1666667,arou7.91.1666667,,,3
+"Abau Sub District, Central Province",Abau Airport  ABW-10.17965148.70416,bau Airport  ABW-10.17965148.70416,,,3
+Alicante,"Alicante  Alacant,Alacante,Alicant,Alicante,Province of Alicante,Provincia d'Alacant,Provincia de Alicante,Pro...38.5-0.5",38.5-0.5,,,3
+Bahia,"Bahia  BA,Bahia,Bahía,Baia,Baía,Estado da Bahia,Estado de Bahia-12.0-42.0","ahia  BA,Bahia,Bahía,Baia,Baía,Estado da Bahia,Estado de Bahia-12.0-42.0",,,3
+Cádiz,"Cadiz  Cadice,Cadix,Cadiz,Cádiz,Provincia de Cadis,Provincia de Cadiz,Provincia de Cádiz,Província de Cadis...36.5-5.75",36.5-5.75,,,3
+Calabria,"Calabria  Bruttium,Calabbria,Calabre,Calabria,Calabrie,Calabrien,Calabrië,Calavria,Calàbria,Calábria,Categoria...39.016.5",39.016.5,,,3
+Cocos Island,"Cocos Island Airport  CCK,YPCC-12.18833396.833889","ocos Island Airport  CCK,YPCC-12.18833396.833889",,,3
+Corfu Island,"Corfu  CFU,Corcyra,Corfou,Corfu,Corfù,Corfú,Kerkira,Kerkyra,Korfu,Krf,Kérkyra,ke ji la shi,keleukila,keruki...39.62069419.91975",39.62069419.91975,,,3
+Devon,Devon18.165947972921863-77.52507067092198,evon18.165947972921863-77.52507067092198,,,3
+Eniwetok Atoll,"Enewetak  Atol Eniwetok,BABACOOTE WW2,ENT,Enewetak,Eniuetakku,Eniwetak,Eniwetakku-to,Eniwetakku-to,Eniwetok,Fr...11.3515330504512162.341773509979",11.3515330504512162.3417735,,,3
+Fernando de Noronha,San Fernando  San Fernando10.279694-61.468351,an Fernando  San Fernando10.279694-61.468351,,,3
+Grand'Anse,"Grandans  Departement de la Grand'Anse,Depatman Grandans,Département de la Grand’Anse,Grand'Anse,Grandans,Gran...18.5-74.083333",18.5-74.083333,,,3
+Guadalcanal Province,"Honiara  HIR,Honiara,Honiaro,Khoniara,Oniara,ho ni xa ra,honiala,honiara,huo ni ya la,hwnyara,<U+039F><U+03BD><U+03B9><U+03AC><U+03C1>a,<U+0425><U+043E><U+043D><U+0438><U+0430><U+0440><U+0430>,...-9.4333333159.95",-9.4333333159.95,,,3
+Guanacaste,"Provincia de Guanacaste  Guanacaste,Guanacasti,Provincia de Guanacaste10.5-85.25","rovincia de Guanacaste  Guanacaste,Guanacasti,Provincia de Guanacaste10.5-85.25",,,3
+Guerrrero,"Guerrero  Estado de Guerrero,Estat de Guerrero,GRO,Guerrero,ge lei luo zhou,gelelo ju,gerero zhou,<U+30B2><U+30EC><U+30FC><U+30ED><U+5DDE>,<U+683C><U+96F7><U+7F85><U+5DDE>,<U+AC8C>...17.6666667-100.0",17.6666667-100.0,,,3
+Gulf of Panama,"Gulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875","ulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875",,,3
+Hong Kong,"Changwat Mae Hong Son  Changwat Mae Hong Son,Mae Hong Son,Mae Hong Sorn,Mae Rong Son,Mae Rong Sorn,Maehongsorn,Mao Hong Son...18.7597.9166667",18.7597.916666,,,3
+Isle of Wight,"Puerto Rico  Boluchen,Borequem,Borichen,Borichena,Boricua,Borigua,Boriken,Borikén,Boringquen,Borinquen,Boriquen,B...18.2493993-66.5010052",18.2493993-66.5010052,,,3
+Istria County,"Istria  Istarska,Istarska Zupanija,Istarska Županija,Istria,Istrien,iseuteula ju,<U+C774><U+C2A4><U+D2B8><U+B77C> <U+C8FC>45.2513.9166667","stria  Istarska,Istarska Zupanija,Istarska Županija,Istria,Istrien,iseuteula ju,<U+C774><U+C2A4><U+D2B8><U+B77C> <U+C8FC>45.2513.9166667",,,3
+Java,,,,,3
+La Libertad,"La Paz  A Paz,Chukiyawu,Chuqi Yapu,Chuqiyapu,Ciudad La Paz,Gorad La-Pas,LPB,La Pas,La Pasas,La Paz,La-Pas,La...-16.5-68.15",-84.65,,,3
+Lake Nicaragua (fresh water),"Salt Lake City  Cathair Salt Lake,Civitas Lacus Salsi,Gorad Solt-Lehjk-Sici,Kota Salt Lake,Lungsod ng Salt Lake,SLC,...40.7607794-111.8910474",40.7607794-111.891047,,,3
+Louisiade Archipelago,Louisiade Archipelago  Louisiade Archipelago-11.2153.0,ouisiade Archipelago  Louisiade Archipelago-11.2153.0,,,3
+Manila,Manila6.213378374058891-75.57324245193287,anila6.213378374058891-75.57324245193287,,,3
+Mombasa,Mombasa  Mombasa-4.0239.66667,ombasa  Mombasa-4.0239.66667,,,3
+New York ,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,3
+Northern Taiwan,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,3
+Okayama Prefecture,"Okayama  OKJ,Okajama,Okayama,Okayama-shi,Okayamashi,gang shan,gang shan shi,okayama,okayama si,okayamashi,<U+041E><U+043A><U+0430>...34.65133.933333",34.65133.933333,,,3
+Primorje-Gorski Kotar County ,"Rijeka  Estado libre de Fiume,Fiume,Fkumen,Flumen Sancti Viti,RJK,Reka,Rieka,Rijeka,Rijeko,Reka,Sankt Veit a...45.3267314.44241",45.3267314.44241,,,3
+Red Sea State,Red River Delta  21.03498105.8455,ed River Delta  21.03498105.8455,,,3
+Saint-Gilles-les-Bains,Saint-Gilles-les-Bois  Saint-Gilles-les-Bois48.64972222222222-3.102777777777778,aint-Gilles-les-Bois  Saint-Gilles-les-Bois48.64972222222222-3.102777777777778,,,3
+Saint-Leu,"Saint-Leu  Sen Le,Sen-Le,sn lw  rywnywn,<U+0421><U+0435><U+043D> <U+041B><U+0435>,<U+0421><U+0435><U+043D>-<U+041B><U+0435>,<U+0633><U+0646> <U+0644><U+0648><U+060C> <U+0631><U+0626><U+0648><U+0646><U+06CC><U+0648><U+0646>,<U+0633><U+06CC><U+0646><U+0679>-<U+0644><U+0648><U+060C> <U+0631><U+0627><U+0646><U+0648><U+06BA>-21.1555.2833333","aint-Leu  Sen Le,Sen-Le,sn lw  rywnywn,<U+0421><U+0435><U+043D> <U+041B><U+0435>,<U+0421><U+0435><U+043D>-<U+041B><U+0435>,<U+0633><U+0646> <U+0644><U+0648><U+060C> <U+0631><U+0626><U+0648><U+0646><U+06CC><U+0648><U+0646>,<U+0633><U+06CC><U+0646><U+0679>-<U+0644><U+0648><U+060C> <U+0631><U+0627><U+0646><U+0648><U+06BA>-21.1555.2833333",,,3
+Saint-Pierre,Commune de Saint-Pierre  Saint-Pierre46.7833333-56.2,ommune de Saint-Pierre  Saint-Pierre46.7833333-56.2,,,3
+Santiago de Cuba Province,"Santiago  Ciles Santjagas,CiudadSantiago,SCL,Sanctiacobi,Sant'jago,Santiago,Santiago de Chile,Santiago de Xile...-33.456937736669424-70.64826965332031",-104.1051377,,,3
+Sinaloa,"Sinaloa  Estado de Sinaloa,SIN,Sinaloa,shinaroa zhou,xi na luo ya zhou,<U+30B7><U+30CA><U+30ED><U+30A2><U+5DDE>,<U+932B><U+90A3><U+7F85><U+4E9E><U+5DDE>25.0-107.5","inaloa  Estado de Sinaloa,SIN,Sinaloa,shinaroa zhou,xi na luo ya zhou,<U+30B7><U+30CA><U+30ED><U+30A2><U+5DDE>,<U+932B><U+90A3><U+7F85><U+4E9E><U+5DDE>25.0-107.5",,,3
+St. Andrew Parish,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,3
+St. Johns Reef,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,3
+The Exuma Cays,"The Valley  De Balei,El Valle,Gorad Vali,La-Valo,The Valley,Vali,Valis,Valley,Valli,bare,d wly,deobaelli,dy wyly...18.2170409282136-63.0578327178955",18.2170409282136-63.05783,,,3
+Trinidad,"TrinidadMunicipio de Trinidad,Trinidad5.3477778-71.2019444","rinidadMunicipio de Trinidad,Trinidad5.3477778-71.2019444",,,3
+Tuamotos,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,3
+Tutuila Island,Tutuila-18.95-169.9,utuila-18.95-169.9,,,3
+Upolu Island,"Upolu  Ojolava,Opoloo,Upolu,Upolu Island,Upolu To,Upolu Tó,Vostrau Upolu,awpwlw,upollu seom,uporu dao,wu bo...-13.9166667-171.75",-185.6666667,,,3
+Vava’u,"Vava‘u  Vava'u,Vava`u,Vava`u Islands Division,Vava‘u,Vava‘u Islands Division,Vava’u-18.666667-174.0","ava‘u  Vava'u,Vava`u,Vava`u Islands Division,Vava‘u,Vava‘u Islands Division,Vava’u-18.666667-174.0",,,3
+Vera Cruz,"Dili  DIL,Delhi,Dilhi,Dili,Dili khot,Dilis,Dilli,Dilly,Dilo,Dily,Díli,Gorad Dyli,Nova Dili,Ntili,di li,dil...-8.5586111125.5736111",-8.5586111125.5736111,,,3
+Viti Levu,"Fiji  Bidji,Feeje,Fichi,Fici,Ficiyuaens,Ficiyuäns,FidIi,Fidi,Fidji,Fidjieyjar,Fidj·i,Fidschi,Fidsi,Fidsí,F...-18.0178.0",-18.0178.0,,,3
+Vitu Levu,Vitu9.4694444-70.4083333,itu9.4694444-70.4083333,,,3
+Westerm Australia,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,3
+Western Caroline Islands,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,3
+Westmoreland Parish,"Westmoreland  Parish of Westmoreland,Westmoreland,Westmoreland Parish,Westmorland18.2333333-78.15","estmoreland  Parish of Westmoreland,Westmoreland,Westmoreland Parish,Westmorland18.2333333-78.15",,,3
+Yasawa Islands,Yasawa Trough-16.6666667176.6666667,asawa Trough-16.6666667176.6666667,,,3
+Zamboanga del Sur Province,"Zamboanga International Airport  Aeroporto internazionale di Zamboanga,Aeropuerto Internacional de Zamboanga,Aerorport international ...6.92242122.06042",6.92,,,3
+ Split-Dalmatia County,Sarou7.91.1666667,arou7.91.1666667,,,2
+1000 miles west of Hawaii,"Sofia  Gorad Safija,SOF,Serdica,Sofi,Sofia,Sofiae,Sofie,Sofii,Sofij,Sofija,Sofija osh,Sofijo,Sofio,Sofiya,S...42.697513528180523.324146270752",42.697513528180523.32414627075,,,2
+Alagoas,"Alagoas  AL,Alagoas,Estado de Alagoas-9.583333-36.416667","lagoas  AL,Alagoas,Estado de Alagoas-9.583333-36.416667",,,2
+Alinglaplap Atoll,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,2
+Anzoategui,"Anzoátegui  Anzoategui,Anzoátegui,Estado Anzoategui,Estado Anzoátegui9.0-64.333333","nzoátegui  Anzoategui,Anzoátegui,Estado Anzoategui,Estado Anzoátegui9.0-64.333333",,,2
+Ascension Island,"Georgetown  ASI,Corctaun,Dzhordzhtaun,Dzordztaun,Dzordztauna,Dzordztaunas,Džordžtauna,Džordžtaunas,Georgetown,Ge...-7.928611-14.411944",-22.340555,,,2
+Berry Islands,"Berry Islands District  Berry Islands,Berry Islands District,Distretto di Berry Islands,Nichollstown and Berry Islands Distr...25.72111-77.83139",25.72111-77.8,,,2
+Between Hawaii & Wake Island,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,2
+Bora Bora,"Bora Bora  BOB,Bola-bola,Bora Bora,Bora-Bora,Borabora Island,Faanui,Ile Bora-Bora,Ilha de Bora Bora,Insula Bora...-16.49667-151.74067",-168.23734,,,2
+Caicos Bank,"Middle Caicos Airport  MBMC,MDS21.8258-71.8025","iddle Caicos Airport  MBMC,MDS21.8258-71.8025",,,2
+Camaguey Province,"Camagüey  CMW,Camagueey,Camaguey,Camagüey,Kamaguehj,Kamaguej,Puerto Principe,kamaguei,<U+041A><U+0430><U+043C><U+0430><U+0433><U+0443><U+0435><U+0439>,<U+041A><U+0430><U+043C><U+0430><U+0433><U+0443><U+044D><U+0439>,<U+05E7><U+05DE><U+05D0><U+05D2><U+05D5><U+05D0>...21.3808333-77.9169444",21.3808333-77.9169444,,,2
+Canal Zone,"El CanalCanal,El Canal20.7-75.3","l CanalCanal,El Canal20.7-75.3",,,2
+Cat Cay,"Chad  Caad,Caadi,Cad,Cada,Cadas,Cadi,Cado,Chad,Chad - Tchad,Chade,Chadi,Ciad,Cjad,Colonie du Chad,Csad,Csá...15.019.0",15.019.0,,,2
+Cheshire,"Cheshire  CHW,Cheshire,Zakhidnij Cheshir i Chester,Zapadnyj Cheshir i Chester,<U+0417><U+0430><U+043F><U+0430><U+0434><U+043D><U+044B><U+0439> <U+0427><U+0435><U+0448><U+0438><U+0440> <U+0438> <U+0427><U+0435><U+0441><U+0442><U+0435><U+0440>,<U+0417><U+0430><U+0445><U+0456><U+0434><U+043D><U+0438><U+0439>...53.1635196381204-2.73594501564777",53.1635196381204-2.73594501,,,2
+Colon Province,"Colón  Aspinwall,Ciudad de Colon,Ciudad de Colón,Colon,Colón,Kolon,Kolona,Kolonas,ONX,gao lang,ke long,koll...9.354507-79.900109",9.354507-79.900109,,,2
+Colón Province,"Colón  Aspinwall,Ciudad de Colon,Ciudad de Colón,Colon,Colón,Kolon,Kolona,Kolonas,ONX,gao lang,ke long,koll...9.354507-79.900109",9.354507-79.900109,,,2
+Corfu,"Nomós Kerkýras  Corfu,Kerkira,Kerkyra,Korfu,Kérkira,Kérkyra,Nomos Kerkiras,Nomos Kerkyras,Nomós Kerkíras,<U+039A><U+03AD><U+03C1><U+03BA><U+03C5><U+03C1>a,<U+039D><U+03BF>µ...39.666666719.75",39.666666719.75,,,2
+Côte d'Azur ,"Ivory Coast  Aibari Kwas,Aibori Kot,Akte Elephantodontos,Akte Elephantostou,An Costa Eabhair,An Cósta Eabhair,Aod...8.0-5.5",8.0-5.5,,,2
+Cumberland,Cumberland18.105224388872696-77.41616873752429,umberland18.105224388872696-77.41616873752429,,,2
+d’Étang-Salé,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,2
+Dodecanese Islands,"Dodecanese  Dhodhekanisos,Dhodhekánisos,Dimos Ko,Dodecanese,Dodekanesane,Dodekanesene,Dodekanisa,Dodekanisos,Dod...36.84330727.148093",36.84330727.148093,,,2
+Dorset,Dorset  -41.04788589477539147.7316665649414,orset  -41.04788589477539147.7316665649414,,,2
+Duke of York Islands,"Duque de Caxias  Caxias,Duke de Kashijas,Duke de Kasijasas,Duke de Kašijasas,Duki di Kashias,Duki di Kasias,Duki-di-K...-22.78555556-43.31166667",-66.09715556,,,2
+East coast,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,2
+East Java,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,2
+East New Britain Province,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,2
+East Sepik,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,2
+Eastern  Province,"Eastern Asia  Asia Oriental,Asia orientale,Asie de l'Est,Eastern Asia,Ostasien,Rytu Azija,Rytu Azija,Skhidna Azija...32.24997445586331114.609375",32.24997445586331114.60,,,2
+Eastern Caroline Islands,"Eastern Asia  Asia Oriental,Asia orientale,Asie de l'Est,Eastern Asia,Ostasien,Rytu Azija,Rytu Azija,Skhidna Azija...32.24997445586331114.609375",32.24997445586331114.60,,,2
+English Channel,"English River  English River,La Riviere Anglaise,La Rivière Anglaise,Riviere Anglaise-4.6117591200248155.454092025756836","nglish River  English River,La Riviere Anglaise,La Rivière Anglaise,Riviere Anglaise-4.6117591200248155.454092025756836",,,2
+Gilbert Islands,"Gilbert  Gilbert,Gilbertas,Gilburt,gilbarta,gilbeoteu,girubato,gylbrt,gylbrt  aryzwna,ji er bo te,<U+0413><U+0438><U+043B><U+0431><U+0435><U+0440><U+0442>,<U+0413><U+0438><U+043B>...33.3528264-111.789027",33.3528264-111.789027,,,2
+Grand Canary Island,"Grand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2","rand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2",,,2
+Grand Terre,"Grand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2","rand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2",,,2
+Great Exuma Island,"Great NamaqualandGreat Nama Land,Great Namaqualand,Grosz-Nama-Land-26.017.0","reat NamaqualandGreat Nama Land,Great Namaqualand,Grosz-Nama-Land-26.017.0",,,2
+Gulf Province,"Gulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875","ulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875",,,2
+Holquin Province,"Holguín  Gorad Ol'gin,HOG,Holginas,Holguin,Holguín,Holquin,Ol'gin,Olgin,ao er jin,olgini,orugin,'wlgyn,<U+0413><U+043E><U+0440><U+0430><U+0434> ...20.8872222-76.2630556",20.8872222-76.2630556,,,2
+Honiara,"Honiara  Capital Territory,Honiara,Honiara City,Territoire Capitale-9.441667159.966667","oniara  Capital Territory,Honiara,Honiara City,Territoire Capitale-9.441667159.966667",,,2
+Hoogly River,"The HooglyThe Hooghly,The Hoogly,The Hugli-22.35149.7166667","he HooglyThe Hooghly,The Hoogly,The Hugli-22.35149.7166667",,,2
+Hua Hin,"Hualien City  HUN,Hua Lien Kang,Hua-lien,Hua-lien-chiang,Hua-lien-hsien,Hua-lien-shih,Hualian,Hualian Shi,Hualien,...23.9769444121.6044444",23.9769444121.6044444,,,2
+Inhambe Province,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,2
+Ionian Sea,"Ionian Islands  Iles Ioniennes,Ionia Nisia,Ionian Islands,Ionische Inseln,Isole Ionie,ionia jedo ju,Îles Ioniennes,<U+0399>...37.7929936083479520.783051266933427",37.7929936083479520.7,,,2
+Kadavu,"Kadavu  Kadavu,Province de Kadavu-18.99331178.22021","adavu  Kadavu,Province de Kadavu-18.99331178.22021",,,2
+Lau Group,"Laos  Kingdom of Laos,Lane Xang,Lanxang,Lao,Lao PDR,Lao People's Democratic Republic,Lao People’s Democrat...18.0105.0",18.0105.0,,,2
+Ligurian Sea,Ligurian CanyonLigurian Trough43.758.5833333,igurian CanyonLigurian Trough43.758.5833333,,,2
+Limón Province,"Puerto Limón  Ciudad de Limon,Ciudad de Limón,LIO,Limon,Limonas,Limón,Pouerto Limon,Provincia de Limon,Provinsi Li...9.99074-83.03596",9.99074-83.03596,,,2
+Luzon,Luzón  41.0337126837802-2.27394403694595,uzón  41.0337126837802-2.27394403694595,,,2
+Maharashtra,"Maharashtra  MH,Maarastra,Macharastra,Maharashtra,Maharastra,Maharastro,Maharasztra,Maharastro,Maharastra,Maharaš...19.576.0",19.576.0,,,2
+Makira-Ulawa Province,"Makira-Ulawa Province  Makira,Makira Province,Province de Makira-Ulawa-10.557514161.785171","akira-Ulawa Province  Makira,Makira Province,Province de Makira-Ulawa-10.557514161.785171",,,2
+Malaga,"Málaga  Malaga,Málaga6.70748099999999-72.7710239999999","álaga  Malaga,Málaga6.70748099999999-72.7710239999999",,,2
+Matanzas Province (north coast),"Matanzas  Gorad Matansas,Matansas,Matansasas,Matanzas,QMA,San Carlos y San Severino de Matanzas,VRO,ma tan sa ...23.0411111-81.5775",23.0411111-81.5775,,,2
+Miyako,"Miyako-shiMiyaho-shi,Miyako,Miyako-machi,Miyako-shi,gong gu,gong gu shi,miyakoshi,<U+307F><U+3084><U+3053><U+3057>,<U+5BAE><U+53E4>,<U+5BAE><U+53E4><U+5E02>39.657237141.851436","iyako-shiMiyaho-shi,Miyako,Miyako-machi,Miyako-shi,gong gu,gong gu shi,miyakoshi,<U+307F><U+3084><U+3053><U+3057>,<U+5BAE><U+53E4>,<U+5BAE><U+53E4><U+5E02>39.657237141.851436",,,2
+Miyako Island,"Miyako-rettoMiyako Group,Miyako Gunto,Miyako-retto,Miyako-retto,Miyako-shoto,Miyako-shoto,Taipinsan Group24.4125.0","iyako-rettoMiyako Group,Miyako Gunto,Miyako-retto,Miyako-retto,Miyako-shoto,Miyako-shoto,Taipinsan Group24.4125.0",,,2
+Montserrado,"Montserrado County  Montserrado,Montserrado County6.5-10.566667","ontserrado County  Montserrado,Montserrado County6.5-10.566667",,,2
+Near Puntarenas,"Near Islands  Bliihi Islands,Bliinies Islands,Blijni Islands,Blijnies Islands,Blizhnie Islands,Blizhnie ostrova,Bl...52.8005556173.1316667",52.8005556173.1316667,,,2
+New Georgia,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,2
+New Ireland,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,2
+New Providence District,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,2
+Newfoundland,"Newfoundland and Labrador  NL,New Foundland - Labrador,Newfoundland,Newfoundland & Labrador,Newfoundland and Labrador,Newfoundl...52.0-56.0",52.0-56.0,,,2
+North Carolina ,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,2
+Northern Territory ,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,2
+Nueva Esparta,"Villa Nueva  Vil'ja-Nuehva,Vilja Nueva,Viljanueva,Villa Nueva,bi ya nu ai wa,wya nwywa  gwatymala,<U+0412><U+0438><U+043B><U+044C><U+044F>-<U+041D><U+0443><U+044D><U+0432><U+0430>,<U+0412><U+0438><U+043B>...14.525125-90.585437",14.525125-90.585437,,,2
+Nuku'alofa,,,,,2
+Oaxaca,"Oaxaca  Estado de Oaxaca,Estat dOaxaca,Etat de Oaxaca,Guaxaca,OAX,Oaxaca,Oaxaca osariik,Oxaca,oahaka zhou,wa...17.0-96.5",17.0-96.5,,,2
+Off Libya,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,2
+Off the coast of West Africa,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,2
+Orissa,"Odisha  OR,Odisha,Orissa,State of Odisha,State of Orissa20.584.41667","disha  OR,Odisha,Orissa,State of Odisha,State of Orissa20.584.41667",,,2
+Out Islands,"Out Skerries AirportEGOU,OUK,Out Skerries Airport60.42517-0.75121","ut Skerries AirportEGOU,OUK,Out Skerries Airport60.42517-0.75121",,,2
+Paget,"Paget  Crow Lane,Paget,Paget Parish32.2783333-64.7816667","aget  Crow Lane,Paget,Paget Parish32.2783333-64.7816667",,,2
+Palawan,Province of Palawan  Palawan10.0118.75,rovince of Palawan  Palawan10.0118.75,,,2
+Palmyra Atoll,"Palmyra AtollAtol Palmyra,Atoll Pal'mira,Atolon Palmira,Atolon Palmyra,Atolón Palmira,Atolón Palmyra,BRUSH WW2,Br...5.875-162.055",5.875-162.055,,,2
+Phoenix Islands,"Phoenix  East Phoenix,Feniks,Fenikso,Finiks,Finiksa,Finiksas,Finiksos,Foinix,Féniks,Finiksa,Gorad Finiks,Hell...33.4483771-112.0740373",33.4483771-112.0740373,,,2
+Praslin,Praslin13.884693372702928-60.89649779226628,raslin13.884693372702928-60.89649779226628,,,2
+Ralik Archipelago,"Ralik Chain  Groupe de Ralik,Ralic,Ralick Chain,Ralick Gruppe,Ralik Chain,Ralik-Kette,Rarikku,Rarikku Chen,Rarikk...8.0167.0",8.0167.0,,,2
+Rangoon,"Rangoon  Rangoon,Rangoon Division,Region de Yangon,Région de Yangon,Yangon,Yangon Division,Yangon Region17.096.166667","angoon  Rangoon,Rangoon Division,Region de Yangon,Région de Yangon,Yangon,Yangon Division,Yangon Region17.096.166667",,,2
+Rio Grande de Norte,"Rio de Janeiro  Ciutat de Rio de Janeiro,Gorad Rya-deh-Zhanehjra,RIO,Rio,Rio De Janeiro,Rio d Janeiro,Rio de Janeiro...-22.90642-43.18223",-66.08865,,,2
+Rocha,"Departamento de Rocha  Departamento de Rocha,Rocha-34.0-54.0","epartamento de Rocha  Departamento de Rocha,Rocha-34.0-54.0",,,2
+Saint-Benoit,"Saint-Benoît  Saint-Benoit,Saint-Benoît,Sant Beneset,Sen-Benua,sheng bang wa,<U+0421><U+0435><U+043D>-<U+0411><U+0435><U+043D><U+0443><U+0430>,<U+0633><U+06CC><U+0646><U+0679>-<U+0628><U+0646><U+0648><U+0679><U+060C> <U+0627><U+0644><U+067E><U+0633>-<U+062F><U+06D2>-<U+06C1><U+0648><U+062A><U+06D2>-<U+067E><U+0631><U+0648>...43.9672222222222266.725555555555555",43.9672222222222266.725,,,2
+Saint-Benoît,"Saint-Benoît  Saint-Benoit,Saint-Benoît,Sant Beneset,Sen-Benua,sheng bang wa,<U+0421><U+0435><U+043D>-<U+0411><U+0435><U+043D><U+0443><U+0430>,<U+0633><U+06CC><U+0646><U+0679>-<U+0628><U+0646><U+0648><U+0679><U+060C> <U+0627><U+0644><U+067E><U+0633>-<U+062F><U+06D2>-<U+06C1><U+0648><U+062A><U+06D2>-<U+067E><U+0631><U+0648>...43.9672222222222266.725555555555555",43.9672222222222266.725,,,2
+Saint-Joseph,Saint Joseph  Saint Joseph15.4333333-61.4333333,aint Joseph  Saint Joseph15.4333333-61.4333333,,,2
+Saint-Philippe,Saint-Philippe46.339461803-72.547718983,aint-Philippe46.339461803-72.547718983,,,2
+San Blas Islands,"San José  Gorad San-Khaseh,SJO,San Chose,San Chose,San Hose,San Jose,San Jose de Costa Rica,San Jose i Costa R...9.9333333-84.0833333",9.9333333-84.0833333,,,2
+Sea of Japan,"Black Sea Region  Karadeniz Bolgesi,Karadeniz Bölgesi41.25206436.960735","lack Sea Region  Karadeniz Bolgesi,Karadeniz Bölgesi41.25206436.960735",,,2
+South Devon,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,2
+Southland,Southland CountySouthland-46.0168.6666667,outhland CountySouthland-46.0168.6666667,,,2
+St Michael Parish,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,2
+Sussex,Sussex50.9166667-0.0833333,ussex50.9166667-0.0833333,,,2
+Taitung ,"Taitung City  GJai GJong,Taidong,Taitung,Tchaj-tung,Táidong,tai dong,Ðài Ðông,<U+53F0><U+6771>22.7583121.1444","aitung City  GJai GJong,Taidong,Taitung,Tchaj-tung,Táidong,tai dong,Ðài Ðông,<U+53F0><U+6771>22.7583121.1444",,,2
+Tongapatu Group,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,2
+Torres Strait ,Torres  -10.57928442333755142.2205924987793,orres  -10.57928442333755142.2205924987793,,,2
+Valencia,"Valencia  Municipio de Valencia,Valencia8.233498-76.214283","alencia  Municipio de Valencia,Valencia8.233498-76.214283",,,2
+Venice Province,"Venice  Benatky,Benetia,Benetke,Benezia,Benátky,Feneyjar,V'nise,VCE,Velence,Venecia,Venecia - Venezia,Veneci...45.437134214790412.332650434521076",45.437134214790412.3326504345,,,2
+Veracruz ,"Veracruz  Estado Libre y Soberano de Veracruz de Ignacio de la Llave,Estado de Veracruz,Estado de Veracruz-Lla...19.3333333-96.6666667",19.3333333-96.6666667,,,2
+Victoria ,"Victoria  Biktoria,Fiktoria,Gorad Viktoryja,Mahe,Mahé,Port Victoria,Victoria,Victoria pa Seychellane,Victoria ...-4.6200155.45501",-4.6200155.45501,,,2
+Villa Clara Province,"Villa Canales  Villa Anales,Villa Canales14.482848-90.534251","illa Canales  Villa Anales,Villa Canales14.482848-90.534251",,,2
+Wakayama Prefecture,"WakayamaVakajama,Wakayama,Wakayama-shi,Wakayamashi,he ge shan,he ge shan shi,wakayama,wakayamashi,<U+0412><U+0430><U+043A><U+0430><U+044F><U+043C><U+0430>,<U+308F><U+304B>...34.233333135.166667",34.233333135.166667,,,2
+Washington,WashingtonWashington38.9667772-77.041366,ashingtonWashington38.9667772-77.041366,,,2
+West End,"West  Far West,Western United States51.52603957655882-131.1607270082519","est  Far West,Western United States51.52603957655882-131.1607270082519",,,2
+Western Area ,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,2
+ Kikori River mouth,Sarou7.91.1666667,arou7.91.1666667,,,1
+ La Libertad,Sarou7.91.1666667,arou7.91.1666667,,,1
+ Lau Province,Sarou7.91.1666667,arou7.91.1666667,,,1
+ Loyalty Islands,Sarou7.91.1666667,arou7.91.1666667,,,1
+ Manila Bay,Sarou7.91.1666667,arou7.91.1666667,,,1
+ New Jersey,Sarou7.91.1666667,arou7.91.1666667,,,1
+ North Carolina,Sarou7.91.1666667,arou7.91.1666667,,,1
+ Nusa Tenggara,Sarou7.91.1666667,arou7.91.1666667,,,1
+ Upolu Island,Sarou7.91.1666667,arou7.91.1666667,,,1
+"""Head of the Gulf""",Circular Head Council  Circular Head Council-41.019914627075195145.0836639404297,ircular Head Council  Circular Head Council-41.019914627075195145.0836639404297,,,1
+(Southwestern Pacific),"Southwestern Region  Jugozapaden region,Rajoni jugperendimor,Rajoni jugperëndimor,Southwestern Statistical Region,<U+0408><U+0443><U+0433><U+043E><U+0437><U+0430><U+043F>...41.273220.948213",41.273220.948213,,,1
+04.05N-13.23W,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+"1,000 miles east of Hawaii",,,,,1
+"10ºS, 142ºE",,,,,1
+12 miles off the north coast,"Paris 12 Reuilly  12e Arrondissement,12eme Arr,12eme arrondissement,12ème Arr,12ème arrondissement,Arrondissement de R...48.84122.3876",48.84122.3876,,,1
+150 miles offshore,"EbayeEpja,Epja,Ibae8.77478769005341167.7391880750656","bayeEpja,Epja,Ibae8.77478769005341167.7391880750656",,,1
+165  miles from Bermuda,"Kostel  Kostel,Obcina Kostel,Obcina Kostel45.48944414.871111","ostel  Kostel,Obcina Kostel,Obcina Kostel45.48944414.871111",,,1
+180 miles southeast of Okinawa,Likiep9.82510988668808169.310646057129,ikiep9.82510988668808169.310646057129,,,1
+18S / 50E,D'Or Punta Del Mar (Over 18'S Only )39.520200522.484429896,'Or Punta Del Mar (Over 18'S Only )39.520200522.484429896,,,1
+"19S, 178?E",,,,,1
+"2 to 3 miles off Taboguilla Island, Pacific Ocean","Le Lamentin  Lamentin,Le Lamanten,Le Lamenten,Le Lamentin,Le-Lamanten,lw lmwntn,<U+039B>e <U+039B>aµe<U+03BD>t<U+03AD><U+03BD>,<U+041B><U+0435> <U+041B><U+0430><U+043C><U+0430><U+043D><U+0442><U+0435><U+043D>,<U+041B><U+0435>-<U+041B><U+0430><U+043C><U+0430><U+043D><U+0442>...14.613412-60.999643",14.613412-60.999643,,,1
+200 nm southeast of Manila,"Kopavogur  Gorad Koupavagur,Kopavog,Kopavogi,Kopavogs,Kopavogsbaer,Kopavogskaupstadur,Kopavogur,Kopavonkour,Kou...64.11233546338572-21.91298246383667",64.11233546338572-21.91298,,,1
+25 km off the coast of Iran & 483km from mouth of Persian Gulf,"Erdenet  Ehrdehneht,Ehrdehneht khot,Erdenet,Erdenetas,Gorad Ehrdehneht,ardenaita,ardnt,e er deng te,eleudenet...49.0333333104.0833333",49.0333333104.0833333,,,1
+"250 miles southwest of O'ahu, Hawaii",Kingman Reef  6.38354-162.37537,ingman Reef  6.38354-162.37537,,,1
+30 nm from Singapore,"Gulu  Gul,Gulu,Nkoulou,ULU,gu lu,gullu,gulu,gwlw,G<U+03BA><U+03BF><U+03C5><U+03BB><U+03BF><U+03CD>,<U+0413><U+0443><U+043B>,<U+0413><U+0443><U+043B><U+0443>,<U+05D2><U+05D5><U+05DC><U+05D5>,<U+06AF><U+0648><U+0644><U+0648>,<U+10D2><U+10E3><U+10DA><U+10E3>,<U+53E4><U+76E7>,<U+AD74><U+B8E8>2.77456932.29899","ulu  Gul,Gulu,Nkoulou,ULU,gu lu,gullu,gulu,gwlw,G<U+03BA><U+03BF><U+03C5><U+03BB><U+03BF><U+03CD>,<U+0413><U+0443><U+043B>,<U+0413><U+0443><U+043B><U+0443>,<U+05D2><U+05D5><U+05DC><U+05D5>,<U+06AF><U+0648><U+0644><U+0648>,<U+10D2><U+10E3><U+10DA><U+10E3>,<U+53E4><U+76E7>,<U+AD74><U+B8E8>2.77456932.29899",,,1
+300 miles east of Luzon,"Coast Province  Coast,Coast Province,Coast Region-3.039.5","oast Province  Coast,Coast Province,Coast Region-3.039.5",,,1
+300 miles east of Mauritius,"Coast Province  Coast,Coast Province,Coast Region-3.039.5","oast Province  Coast,Coast Province,Coast Region-3.039.5",,,1
+300 miles east of St. Thomas (Virgin Islands),"Coast Province  Coast,Coast Province,Coast Region-3.039.5","oast Province  Coast,Coast Province,Coast Region-3.039.5",,,1
+300 miles from Antigua,"Coast Province  Coast,Coast Province,Coast Region-3.039.5","oast Province  Coast,Coast Province,Coast Region-3.039.5",,,1
+330 to 350 miles east of Wake Island,"NamdrikNamdik,Namorik,Nam¸dik5.59943570874847168.102815151215","amdrikNamdik,Namorik,Nam¸dik5.59943570874847168.102815151215",,,1
+"33N, 68W","Delaware Airpark  33N,Delaware Airpark,Delaware Airport39.2176415-75.5959794","elaware Airpark  33N,Delaware Airpark,Delaware Airport39.2176415-75.5959794",,,1
+35º39 : 165º8',"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+40 miles off Grand Bahama Island,"Boumerdas  Bou-Merdes,Boumerdas,Bumerdes,Cite de Boumerdes,Cité de Boumerdes,Le Rocher Noir,Roche Noire,Rocher ...36.766392044547853.4771728515625",36.766392044547853.4771728,,,1
+40 miles south of Naples ,"Boumerdas  Bou-Merdes,Boumerdas,Bumerdes,Cite de Boumerdes,Cité de Boumerdes,Le Rocher Noir,Roche Noire,Rocher ...36.766392044547853.4771728515625",36.766392044547853.4771728,,,1
+400 miles southeast of Sri Lanka,"Eastern  Aust-Kenya,Eastern,Eastern Province,OEstprovinsen,Ost-Kenya,Östprovinsen,Øst-Kenya0.038.0","astern  Aust-Kenya,Eastern,Eastern Province,OEstprovinsen,Ost-Kenya,Östprovinsen,Øst-Kenya0.038.0",,,1
+5aint-Denis,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+60 miles north of San Domingo in the West Indies,"Gardabya Airport  HLGD,SRX31.063499450716.5949993134","ardabya Airport  HLGD,SRX31.063499450716.5949993134",,,1
+600 nm west of the Canary Islands,"Akureyri  AEY,Agireiri,Akirejri,Akjurejri,Akourefri,Akuereyri,Akureiris,Akurejri,Akureyrar,Akureyri,Aküreyri,G...65.6835305998405-18.0877983570099",65.6835305998405-18.0877983,,,1
+740 miles SE of Tarawa Atoll,"Portsmouth  Portsmouth,Portsmut,bwrtsmwth,pocheumeoseu,potsumasu,pu ci mao si,pwrtsmwt,pwrtsmwth  wyrjynya,<U+041F><U+043E><U+0440><U+0442><U+0441>...36.8354258-76.2982742",36.8354258-76.2982742,,,1
+800 miles from land,"Selfoss  Arborg,Gorad Sel'fas,Sel'foss,Selfos,Selfosas,Selfoss,Selfossi,sai er fu si,selaphasa,selposeu,seruf...63.933108-20.997117",63.933108-20.997117,,,1
+9.35N 79.35W,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+"Abau Subdistrict,Central Province",Abau Airport  ABW-10.17965148.70416,bau Airport  ABW-10.17965148.70416,,,1
+Adana Province,"Adana  ADA,Adana,Adane,Adanë,Adhanah,Antiocheia,Edene,Gorad Adana,a da na,adana,adnt,xa da na,yadana,<U+0386>da<U+03BD>a,...37.001666735.3288889",37.001666735.3288889,,,1
+Ahirkapi coast,"Ahirkapi Burnu  Ahirkapi Burnu,Ahirkapu Burnu,Ahirkapu Point,Ahirkapu Burnu,Ahirkapi Burnu,Seraglio Burnu,Seraglio H...41.00575128.985105",41.00575128.985105,,,1
+Aichi Prefecture,"NagoyaNGO,Nagoia,Nagoja,Nagojo,Nagoya,Nagoya City,Nagoya-shi,ming gu wu,ming gu wu shi,na ngoa ya,naghwya,...35.1814727966958136.906409561634",35.1814727966958136.90640956163,,,1
+Alaska,"Alaska  'Alaka,A-la-su-ka,AK,Alaeksa,Alakskak,Alaksu,Alasca,Alaschka,Alaska,Alaska suyu,Alasko,Alaszka,Alesk...64.0002778-150.0002778",64.0002778-150.0002778,,,1
+Alicante Province,"Alicante  A-li-kham-thit,ALC,Akra Leuke,Alacant,Alakanto,Alicant,Alicante,Alicanti,Alikante,Alikante,Alíkante,...38.3451735357475-0.481488704681396",38.3451735357475-0.48148870,,,1
+Alifu Alifu Atoll,Dhidhdhoo  Dhidhdhoo6.88744173.114022,hidhdhoo  Dhidhdhoo6.88744173.114022,,,1
+Alpes Maritime,"Nice  Gorad Nica,NCE,Nica,Nicaea,Nicc,Nicca,Niccae,Nice,Nicea,Nico,Nikaia,Nis,Nisa,Nissa,Nissa Maritima,Ni...43.7031261041867.26608276367188",43.7031261041867.26608276367188,,,1
+Altagracia Province,"Provincia de La Altagracia  La Altagracia,Provincia de La Altagracia18.5833333-68.6333333","rovincia de La Altagracia  La Altagracia,Provincia de La Altagracia18.5833333-68.6333333",,,1
+Ambergris Caye,"Ambergris Cay  Cay Ambergris,Cayo Ambergris,San Pedro Island18.047623521149546-87.92289733886719","mbergris Cay  Cay Ambergris,Cayo Ambergris,San Pedro Island18.047623521149546-87.92289733886719",,,1
+Amirante Islands,"Amirante RidgeAmirante Bank,Amirante Banks,Amirantes Bank-6.053.1666667","mirante RidgeAmirante Bank,Amirante Banks,Amirantes Bank-6.053.1666667",,,1
+Anatolia,,,,,1
+Ancona Province,"Ancona  AOI,Ancona,Ancone,Anconn-a,Ancône,Ankona,an ke na,ankona,<U+0410><U+043D><U+043A><U+043E><U+043D><U+0430>,<U+30A2><U+30F3><U+30B3><U+30FC><U+30CA>,<U+5B89><U+79D1><U+7EB3>43.5941992857827413.503370407651147","ncona  AOI,Ancona,Ancone,Anconn-a,Ancône,Ankona,an ke na,ankona,<U+0410><U+043D><U+043A><U+043E><U+043D><U+0430>,<U+30A2><U+30F3><U+30B3><U+30FC><U+30CA>,<U+5B89><U+79D1><U+7EB3>43.5941992857827413.503370407651147",,,1
+Andalucia,"Andalusia  An Andaluis,An Andalúis,Andalosia,Andalosie,Andalousi,Andalousia,Andalousie,Andalouzia,Andalucia,And...37.6-4.5",37.6-4.5,,,1
+Andaman Islands,"Port Blair  Gorad Port-Blehr,IXZ,Port Blair,Port Bler,Port Bleras,Port-Blehr,Port-Bler,Portus Blairensis,bu lai ...11.6661392.74635",11.6661392.74635,,,1
+Andikira Fokithes,"Kólpos AntíkyrasAndikira Bay,Andikiron Kolpos,Andíkira Bay,Andíkiron Kólpos,Bay of Aspra Spitia,Gulf of Andikira,Gul...38.33333322.65",38.33333322.65,,,1
+Anjouan,"Ndzuwani  Anjouan,Anjwan,Anjwan,Hanzwan,Hanzwan,Ile Autonome d'Anjouan,Ndzuwani,anjwan,hnzwan,Île Autonome d’A...-12.2544.416667",-12.2544.416667,,,1
+Antalya Province,"Antalya  AYT,Adalia,Antal'ja,Antalia,Antalija,Antaliya,Antaliyah,Antalja,Antalya,Antayla,Antália,Atali,Attale...36.90811830.695565",36.90811830.695565,,,1
+Antarctic Ocean,"Antarctic, The  Antarctic Continent,Antarctic  The,Yr Antarctig-90.00.0","ntarctic, The  Antarctic Continent,Antarctic  The,Yr Antarctig-90.00.0",,,1
+Antibes,Antibes  43.5800000000000057.123055555555555,ntibes  43.5800000000000057.123055555555555,,,1
+Antofagasta Province,"Antofagasta  ANF,Antafagasta,Antofagast,Antofagasta,Antuofagasta,an tuo fa jia si ta,antaphagasta,antofagasuta,an...-23.652357-70.395402",-94.047759,,,1
+Antsiranana Province,"Antsiranana  Anceranana,Antseranana,Antsirana,Antsiranana,Antsirane,Antsiran¨ana,DIE,Diego Soarez,Diego-Suarez,Di...-12.3173249.29188",-12.3173249.29188,,,1
+Apolima Strait,"Apolima Island  Apolima,Apolima Island-13.823768-172.15118","polima Island  Apolima,Apolima Island-13.823768-172.15118",,,1
+Argyll,"Argyllshire  Argyll,Argyll County,County of Argyll56.25-5.25","rgyllshire  Argyll,Argyll County,County of Argyll56.25-5.25",,,1
+Argyllshire,"Argyllshire  Argyll,Argyll County,County of Argyll56.25-5.25","rgyllshire  Argyll,Argyll County,County of Argyll56.25-5.25",,,1
+Arran,"Arrans  Aran,Arran,Arrans,a er lang,<U+0410><U+0440><U+0430><U+043D>,<U+0410><U+0440><U+0440><U+0430><U+043D>,<U+963F><U+5C14><U+6717>47.695833333333334.318611111111111","rrans  Aran,Arran,Arrans,a er lang,<U+0410><U+0440><U+0430><U+043D>,<U+0410><U+0440><U+0440><U+0430><U+043D>,<U+963F><U+5C14><U+6717>47.695833333333334.318611111111111",,,1
+Ascension Bay,"Georgetown  ASI,Corctaun,Dzhordzhtaun,Dzordztaun,Dzordztauna,Dzordztaunas,Džordžtauna,Džordžtaunas,Georgetown,Ge...-7.928611-14.411944",-22.340555,,,1
+Atsumi peninsula,Atsumi-gun  Atsumi-gun34.63886137.29374,tsumi-gun  Atsumi-gun34.63886137.29374,,,1
+Attica,"Attica  Attica,Attika,Attiki,Attique,atiki ju,<U+0391>tt<U+03B9><U+03BA><U+03AE>,<U+C544><U+D2F0><U+D0A4> <U+C8FC>37.920367835943523.9035034179688","ttica  Attica,Attika,Attiki,Attique,atiki ju,<U+0391>tt<U+03B9><U+03BA><U+03AE>,<U+C544><U+D2F0><U+D0A4> <U+C8FC>37.920367835943523.9035034179688",,,1
+Aulong Island,"AulongEnglishmen's Beach,Rock Islands,Ulong Islands7.2782190032596134.286478757858","ulongEnglishmen's Beach,Rock Islands,Ulong Islands7.2782190032596134.286478757858",,,1
+Ba Ria-Vung Tau  Province,"Europe  Avrupa,Chau Au,Châu Âu,Eiropa,El viejo continente,Eropa,Eurohpa,Eurohpá,Euroopa,Eurooppa,Europa,Euro...48.69096039092559.140625",48.69096039092559.140625,,,1
+Baatan,"Banten  Bantam,Bantan,Banten,Bantena,Bantenas,Bantén,Pravincyja Bantehn,Propinsi Banten,Provinco Banteno,Pro...-6.5106.25",-6.5106.25,,,1
+Baie de Sainte-Marie,"Baie-Mahault  Bai-Mao,Baie-Mahault,Baj Mao,La Baie Mahault,bay-maww,khlyj myw,<U+0411><U+0430><U+0457>-<U+041C><U+0430><U+043E>,<U+0411><U+0430><U+0458> <U+041C><U+0430><U+043E>,<U+0628><U+0627><U+064A>-<U+0645><U+0627><U+0624><U+0648>,<U+062E><U+0644><U+06CC><U+062C> <U+0645><U+0626><U+0648>16.267382-61.585431","aie-Mahault  Bai-Mao,Baie-Mahault,Baj Mao,La Baie Mahault,bay-maww,khlyj myw,<U+0411><U+0430><U+0457>-<U+041C><U+0430><U+043E>,<U+0411><U+0430><U+0458> <U+041C><U+0430><U+043E>,<U+0628><U+0627><U+064A>-<U+0645><U+0627><U+0624><U+0648>,<U+062E><U+0644><U+06CC><U+062C> <U+0645><U+0626><U+0648>16.267382-61.585431",,,1
+Baja California Sur,"Baja California  BC,BCN,Baja California,Basse-Californie du Nord,Distrito Norte Baja California,Estado Libre y Sobera...30.0-115.0",30.0-115.0,,,1
+Balearics,,,,,1
+Balneário Camboriú,"Balneário CamboriúBalneario,Balneario Camboriu,Balneario Camboriú,Balneariu-Kamboriu,Balneário,Balneário Camboriú,Camb...-26.99055556-48.63472222",-75.62455556,,,1
+Bandar Ma’shur sea inlet,"Bandar Seri Begawan  BWN,Banda Seri,Bandar Seri Begauan,Bandar Seri Begavan,Bandar Seri Begavanas,Bandar Seri Begawan,Ban...4.89035114.94006",4.89035114.94006,,,1
+Bardestrand,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Barlavento Islands,"Barlavento Islands  Barlavento Islands,Ilhas do Barlavento16.583333-24.333333","arlavento Islands  Barlavento Islands,Ilhas do Barlavento16.583333-24.333333",,,1
+Basrah City,"Basra  Al Basrah,Al Basrah,Al-Basra,BSR,Bacora,Basora,Basra,Basrah,Bassora,Bassorah,Bassra,Baçorá,Busra,Bus...30.5085247.7804",30.5085247.7804,,,1
+Batanes Provine,Province of Batanes  Batanes20.457975121.994099,rovince of Batanes  Batanes20.457975121.994099,,,1
+Batangas province,"BatangasBatangas,Batangas City,<U+0411><U+0430><U+0442><U+0430><U+043D><U+0433><U+0430><U+0441>13.7567121.0584","atangasBatangas,Batangas City,<U+0411><U+0430><U+0442><U+0430><U+043D><U+0433><U+0430><U+0441>13.7567121.0584",,,1
+Bay Islands,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bay of Bengal,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bay of Biscay,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bay of Campeche,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bay of Fundy,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bay of Maputo,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bay of Maputu,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bay of Monaco,"Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883",18.47116-77.91883,,,1
+Bayelsa State,"Bayelsa State  Bayelsa,Bayelsa State4.756.0833333","ayelsa State  Bayelsa,Bayelsa State4.756.0833333",,,1
+Beaufonds,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Bélep Islands,Bélep  -19.733333163.666667,élep  -19.733333163.666667,,,1
+Bernardino Strait near Gulf of Leyte,"San Bernardino  Kaampu`u,SBD,SBT,San Bernandino,San Bernardino,San-Bernardino,saenbeoneodino,san byrnardynw  kalyfwr...34.1083449-117.2897652",34.1083449-117.289765,,,1
+Between Australia & USA,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Beira & Maputo,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Comores & Madagascar,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between DR and Puerto Rico,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between England & South Africa,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+"Between Hastings & Fairlight, Sussex",Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Hawaii and U.S.A.,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Honiara & Isabel Island,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Kwajalein Atoll & Johnston Island,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between New Ireland & New Britain,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Noumea & Sydney,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Perth & Colombo,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Somalia & Yemen,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Between Southampton & Canary Islands,Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+"Between Timor & Darwin, Australia",Lac In Between47.27450708393-74.913497515954,ac In Between47.27450708393-74.913497515954,,,1
+Bikini Atoll,"Bikini Atoll  Atol Bikini,Atol de Bikini,Atoll Bikini,Atollo di Bikini,Atolon Bikini,Atolón Bikini,BII,Bigini,Biki...11.5833333165.3833333",11.5833333165.3833333,,,1
+Bimini,"Bimini  BIM,Bimini,Bimini District,Biminis25.70444-79.28889","imini  BIM,Bimini,Bimini District,Biminis25.70444-79.28889",,,1
+Bird Island,"V. C. Bird International Airport  ANU,Antigua Airport,Antigua Flygplats,Flughafen VC Bird International,Lapangan Terbang Antarabangsa ...17.136749-61.792667",17,,,1
+Biserta,"Bissert  Beesert,Bisert,Bisser,Bissert,bi sai er,bysr,bysyrt,<U+0411><U+0438><U+0441><U+0435><U+0440><U+0442>,<U+0411><U+0438><U+0441><U+0441><U+0435><U+0440>,<U+0411><U+0456><U+0441><U+0441><U+0435><U+0440>,<U+0628><U+064A><U+0633><U+064A><U+0631><U+062A>,<U+0628><U+06CC><U+0633><U+0631>,<U+6BD4><U+585E><U+5C14>48.941944444444447.023611111111111","issert  Beesert,Bisert,Bisser,Bissert,bi sai er,bysr,bysyrt,<U+0411><U+0438><U+0441><U+0435><U+0440><U+0442>,<U+0411><U+0438><U+0441><U+0441><U+0435><U+0440>,<U+0411><U+0456><U+0441><U+0441><U+0435><U+0440>,<U+0628><U+064A><U+0633><U+064A><U+0631><U+062A>,<U+0628><U+06CC><U+0633><U+0631>,<U+6BD4><U+585E><U+5C14>48.941944444444447.023611111111111",,,1
+Black River,"Black Sea Region  Karadeniz Bolgesi,Karadeniz Bölgesi41.25206436.960735","lack Sea Region  Karadeniz Bolgesi,Karadeniz Bölgesi41.25206436.960735",,,1
+Boa Vista Island,"Boa Vista  BVB,Boa Vista,Boa Vista (Roraima),Boa Vista do Rio Branco,Boa Višta,Boa-Vista,<U+0411><U+043E><U+0430>-<U+0412><U+0438><U+0441><U+0442><U+0430>,<U+05D1><U+05D5><U+05D0><U+05D4> <U+05D5><U+05D9><U+05E1><U+05D8><U+05D4>2.819722222-60.67333333","oa Vista  BVB,Boa Vista,Boa Vista (Roraima),Boa Vista do Rio Branco,Boa Višta,Boa-Vista,<U+0411><U+043E><U+0430>-<U+0412><U+0438><U+0441><U+0442><U+0430>,<U+05D1><U+05D5><U+05D0><U+05D4> <U+05D5><U+05D9><U+05E1><U+05D8><U+05D4>2.819722222-60.67333333",,,1
+Bocas,,,,,1
+Bocas del Toro,"Provincia de Bocas del Toro  Bocas del Toro,Provincia de Bocas del Toro9.25-82.65","rovincia de Bocas del Toro  Bocas del Toro,Provincia de Bocas del Toro9.25-82.65",,,1
+Bocas del Toro Province,"Provincia de Bocas del Toro  Bocas del Toro,Provincia de Bocas del Toro9.25-82.65","rovincia de Bocas del Toro  Bocas del Toro,Provincia de Bocas del Toro9.25-82.65",,,1
+"Boi Island, Victoria",Sant Boi de LlobregatSant Boi de Llobregat41.34356682799742.03659057617188,ant Boi de LlobregatSant Boi de Llobregat41.34356682799742.03659057617188,,,1
+Bois-Blanc ,"Rempart de Bois BlancRempart de Bois Blanc,Rempart du Bois-Blanc-21.21019355.773722","empart de Bois BlancRempart de Bois Blanc,Rempart du Bois-Blanc-21.21019355.773722",,,1
+Bonin Islands,"Bonin TrenchBonin Trough,Bonin-Graben,Iduz-Boninskiy Zhelob,Izu-Bonin Trench,Ogasawara Trench24.206889622398143.6572265625","onin TrenchBonin Trough,Bonin-Graben,Iduz-Boninskiy Zhelob,Izu-Bonin Trench,Ogasawara Trench24.206889622398143.6572265625",,,1
+Brindisi Province,"Brindisi  BDS,Brindisi,Brindizi,Brinnese,Brundisium,Brìndisi,brindisi,burindiji,<U+0411><U+0440><U+0438><U+043D><U+0434><U+0438><U+0437><U+0438>,<U+092C><U+094D><U+0930><U+093F><U+0902><U+0921><U+093F><U+0938><U+093F>,<U+30D6><U+30EA><U+30F3><U+30C7><U+30A3><U+30B8>40.63214535142691417.936065964306756","rindisi  BDS,Brindisi,Brindizi,Brinnese,Brundisium,Brìndisi,brindisi,burindiji,<U+0411><U+0440><U+0438><U+043D><U+0434><U+0438><U+0437><U+0438>,<U+092C><U+094D><U+0930><U+093F><U+0902><U+0921><U+093F><U+0938><U+093F>,<U+30D6><U+30EA><U+30F3><U+30C7><U+30A3><U+30B8>40.63214535142691417.93606596430675",,,1
+British Colombia,"British West Indies  BWI,British West Indies18.0-68.0","ritish West Indies  BWI,British West Indies18.0-68.0",,,1
+Brittany,"United Kingdom  Ahendiman Nkabom,An Riocht Aontaithe,An Rioghachd Aonaichte,An Rìoghachd Aonaichte,An Ríocht Aontait...54.75844423584778-2.6953116059303284",54.75844423584778-2.6,,,1
+Buenos Aires Province,"Buenos Aires  BUE,Baires,Bonaero,Bonaeropolis,Bonaëropolis,Bos Aires,Bouenos Aires,Bouonezar,Bouonézâr,Buehnos Ajr...-34.6131488101425-58.3772277832031",-92.98314881,,,1
+Bwagaoia,,,,,1
+Cabo San Lucas,"Cabo Delgado Province  Cabo Delgado,Distrito de Cabo Delgado,Intendencia de Cabo Delgado,Intendência de Cabo Delgado,Provin...-12.539.4",-12.539.4,,,1
+Calvados Archipelago,"Calvados  Calvados,Departement du Calvados,Département du Calvados49.090113-0.306082","alvados  Calvados,Departement du Calvados,Département du Calvados49.090113-0.306082",,,1
+Camiguin Island,"Camiguin  CGM,Camiguin,Camiguin Island,Camiguín,kamigin zhou,<U+30AB><U+30DF><U+30AE><U+30F3><U+5DDE>9.2283124.7315","amiguin  CGM,Camiguin,Camiguin Island,Camiguín,kamigin zhou,<U+30AB><U+30DF><U+30AE><U+30F3><U+5DDE>9.2283124.7315",,,1
+Cap-Vert Peninsula,"Cabo Verde  An Rinn Ghlas,Azua ti Kapo-Vere,Azûâ tî Kâpo-Vêre,Bisanga bya Kapev<U+025B>r<U+025B>,Bizinga by'e Kepu Veredi,Cabo...16.0-24.0",16.0-24.0,,,1
+Cape Coast,"Cape Town  Altepetl In Cabo,Ar Chab,CPT,Cape Toun,Cape Town,Cidade do Cabo,Cita del Cap,Citati du Capu,Citati d...-33.92583918.423218",-33.92583918.423218,,,1
+Cape Haitien,"Cape Town  Altepetl In Cabo,Ar Chab,CPT,Cape Toun,Cape Town,Cidade do Cabo,Cita del Cap,Citati du Capu,Citati d...-33.92583918.423218",-33.92583918.423218,,,1
+Carabobo,"Carabobo  Carabobo,Estado Carabobo10.1666667-68.0833333","arabobo  Carabobo,Estado Carabobo10.1666667-68.0833333",,,1
+Cargados Carajos Shoals (St. Brandon),"Cargados Carajos  Cargados Carajos,Cargados-Carajos-Inseln,Ecueils des Cargados Carajos,Kargados Karakhos,Kargados-Kar...-16.633333359.6333333",-16.633333359.63333,,,1
+Caribbean Coast,"Caribbean  Caraibe,Caraibi,Caraïbe,Caribbean,Caribe,Karibi,Karibik,Kariby,alkaryby,karibu de fang,<U+041A><U+0430><U+0440><U+0438><U+0431><U+0438>,<U+041A><U+0430><U+0440><U+0438><U+0431><U+044B>...20.385825381874263-72.333984375",20.385825381874263-72.3339,,,1
+Caroline Islands,"Caroline IslandsCaroline Islands,Eastern Caroline Islands,Islas Carolinas,Islas Poniente,Isles Carolines,Karolinen,K...7.2099147.94189",7.2099147.94189,,,1
+Carpathian Sea,"Carpathian Mountains  Carpates,Carpathian Mountains,Carpathians,Carpatii,Carpatos,Carpazi,Carpazzi,Carpatii,Cárpatos,Karpa...47.025.5",47.025.5,,,1
+Casamance,,,,,1
+Castellón,"Castellon  Castello,Castellon,Castelló,Castellón,Provincia de Castello,Provincia de Castellon,Provincia de Cast...40.1666667-0.1666667",40.1666667-0.1666667,,,1
+Catalunya,"Catalonia  Catalogna,Catalogne,Catalonha,Catalonia,Catalonie,Catalonië,Cataluna,Catalunha,Catalunya,Cataluña,Co...41.82045509614031.86767578125",41.82045509614031.86767578,,,1
+"Cavite Province, Luzon","Cavite CityBandar Cavite,Cavite,Cavite City,Cavite Lakanbalen,Ciudad ti Cavite,Dakbayan sa Cavite,Kavite,Lungso...14.48369120.898784",14.48369120.898784,,,1
+Cay Sal Bank,"Mangrove Cay  Mangrove Cay,Mangrove Cay District24.16-77.78028","angrove Cay  Mangrove Cay,Mangrove Cay District24.16-77.78028",,,1
+Central Philippines,"Central Africa  Africa Central,Africa centrale,Afrique centrale,Central Africa,Central'na Afrika,Central'naja Afrika...-2.0210651187669924.697265625",-2.0210651187669924.6,,,1
+Central Tuamotu,"Central Africa  Africa Central,Africa centrale,Afrique centrale,Central Africa,Central'na Afrika,Central'naja Afrika...-2.0210651187669924.697265625",-2.0210651187669924.6,,,1
+Chatham Islands,"Savannah  Gorad Savana,SAV,Sarannah,Savana,Savanah,Savanna,Savannah,Sawanna,Yamacraw,sa fan na,saban'na,sabhan...32.0835407-81.0998342",32.0835407-81.0998342,,,1
+Chatham Islands ,"Savannah  Gorad Savana,SAV,Sarannah,Savana,Savanah,Savanna,Savannah,Sawanna,Yamacraw,sa fan na,saban'na,sabhan...32.0835407-81.0998342",32.0835407-81.0998342,,,1
+"Chatham Islands, east of New  Zealand","Savannah  Gorad Savana,SAV,Sarannah,Savana,Savanah,Savanna,Savannah,Sawanna,Yamacraw,sa fan na,saban'na,sabhan...32.0835407-81.0998342",32.0835407-81.0998342,,,1
+"Chieti, Province","Chieti  Chieta,Chieti,K'eti,Teate,kieti,<U+041A><U+044C><U+0435><U+0442><U+0438>,<U+30AD><U+30A8><U+30FC><U+30C6><U+30A3>42.3482714.16494","hieti  Chieta,Chieti,K'eti,Teate,kieti,<U+041A><U+044C><U+0435><U+0442><U+0438>,<U+30AD><U+30A8><U+30FC><U+30C6><U+30A3>42.3482714.16494",,,1
+Chungnam,"Chungcheongnam-do  Ch'ungch'ong,Ch'ungch'ong-namdo,Ch'ungnam,Chhung-chheng South,Chungcheong Namdo,Chungcheongnam-do,Ch...36.5127.0",36.5127.0,,,1
+Cienfuegos Province,"CienfuegosCFG,Cienfuegos,Gorad S'enfuehgas,S'enfuegos,S'enfuehgos,Sjenfuegos,Sjenfuegosas,seiyn fwy kos,shienf...22.14957-80.44662",22.14957-80.44662,,,1
+Cikobia Island (north of Vanua Levu),Cikobia BasinThikombia Basin-15.25179.6,ikobia BasinThikombia Basin-15.25179.6,,,1
+Clarendon,"Clarendon  Clarendon,Parish of Clarendon17.9833333-77.3","larendon  Clarendon,Parish of Clarendon17.9833333-77.3",,,1
+Clearwater Bay,"Clearwater  CLW,Clearwater,Clearwater Harbor,Kliruoter,Klirvoter,Klirvoteris,Kliuruotur,ke li er wo te,keullieow...27.9658533-82.8001026",27.9658533-82.8001026,,,1
+Colon,"Departamento de Colón  Colon,Colón,Departamento de Colon,Departamento de Colón15.75-85.6666667","epartamento de Colón  Colon,Colón,Departamento de Colon,Departamento de Colón15.75-85.6666667",,,1
+Conakry Region,"Conakry  CKY,Conacri,Conakry,Konakri,Konakrio,Konakris,Konakry,ke na ke li,konakeuli,konakuri,<U+039A><U+03CC><U+03BD>a<U+03BA><U+03C1><U+03B9>,<U+041A><U+043E><U+043D><U+0430><U+043A><U+0440><U+0438>...9.537949753673535-13.677291870117188",9.537949753673535-13.6772918,,,1
+Congreve Channel,"Congreve ParkCongreve Park,Congrove Park17.95-76.9","ongreve ParkCongreve Park,Congrove Park17.95-76.9",,,1
+Conservatória District,Conservatória-22.28944444-43.9275,onservatória-22.28944444-43.9275,,,1
+Cook islans,"ChicagoCHI,Cekaga,Chi-ka-ko,Chi-kâ-kô,Chicago,Chicagu,Chikago,Cikaga,Cikago,Cikaqo,E-Chicago,Gorad Chykaga,...41.850033-87.6500523",41.850033-87.6500523,,,1
+Cook Strait,"ChicagoCHI,Cekaga,Chi-ka-ko,Chi-kâ-kô,Chicago,Chicagu,Chikago,Cikaga,Cikago,Cikaqo,E-Chicago,Gorad Chykaga,...41.850033-87.6500523",41.850033-87.6500523,,,1
+Coquimbo,"Coquimbo Region  Coquimbo,Coquimbo Region,Cuarta Region,Cuarta Región,IV Region,IV Región,Region de Coquimbo,Región d...-30.75-71.0",-101.75,,,1
+Corfu ,"Corfu  CFU,Corcyra,Corfou,Corfu,Corfù,Corfú,Kerkira,Kerkyra,Korfu,Krf,Kérkyra,ke ji la shi,keleukila,keruki...39.62069419.91975",39.62069419.91975,,,1
+Corregidor Island,Corregidor Island  Corregidor Island14.38738120.57705,orregidor Island  Corregidor Island14.38738120.57705,,,1
+Cortés,"Departamento de Cortés  Cortes,Cortés,Departamento de Cortes,Departamento de Cortés15.4166667-88.0","epartamento de Cortés  Cortes,Cortés,Departamento de Cortes,Departamento de Cortés15.4166667-88.0",,,1
+Costa Blanca,"Ivory Coast  Aibari Kwas,Aibori Kot,Akte Elephantodontos,Akte Elephantostou,An Costa Eabhair,An Cósta Eabhair,Aod...8.0-5.5",8.0-5.5,,,1
+Côte d'Azur  ,"Ivory Coast  Aibari Kwas,Aibori Kot,Akte Elephantodontos,Akte Elephantostou,An Costa Eabhair,An Cósta Eabhair,Aod...8.0-5.5",8.0-5.5,,,1
+County Cork,"Sinoe County  Sino County,Sinoe,Sinoe County5.333333-8.766667","inoe County  Sino County,Sinoe,Sinoe County5.333333-8.766667",,,1
+CUBA,"Cuba  Ciwba,Cu Ba,Cu-ba,Cuba,Cubba,Cúba,Isla Juana,Kiba,Kioba,Kiobà,Kiuba,Kiumba,Kiupa,Kouba,Kuba,Kuba nut...22.0-79.5",22.0-79.5,,,1
+Curacao,"Curaçao  CUR,Country of Curacao,Country of Curaçao,Curacao,Curazao,Curaçao,Kjurasao,Korsou,Kourasao,Kòrsou,Pa...12.166667-68.966667",12.166667-68.966667,,,1
+Cyclades,"Nomós Kykládon  Cicladele,Ciclades,Cyclades,Cyklady,Cíclades,Kiklad Adalari,Kiklad Adalari,Kikladhes,Kikladi,Kiklady...37.416666724.9166667",37.416666724.9166667,,,1
+Cyclades archipelago,"Cyclades Islands, Naxos Airport  JNX,LGNX37.079722222222225.3669444444444","yclades Islands, Naxos Airport  JNX,LGNX37.079722222222225.3669444444444",,,1
+Cyrenaica,,,,,1
+Dar-es-Salaam ,"Dar es Salaam  DAR,Dar Es Salaam,Dar Es Salam,Dar es Salaam,Dar es Salam,Dar es Salamas,Dar es Salams,Dar es Salám,...-6.82348889918827339.269514083862305",-6.82348889918827339.2,,,1
+Delagoa Bay,Delagoa ReserveDelagoa Reserve-34.031799151.117905,elagoa ReserveDelagoa Reserve-34.031799151.117905,,,1
+Delta,Delta  -19.934144442623-47.8043504918033,elta  -19.934144442623-47.8043504918033,,,1
+Demerara County,"Georgetown  Demerara,Dzhordzhtaun,Dzordztaun,Dzordztauna,Dzordztaunas,Dzordztauns,Džordžtaun,Džordžtauna,Džordžt...6.804483851419782-58.155269622802734",6.804483851419782-58.1552,,,1
+Dubai,Dubai24.9408850027926555.3869700984771,ubai24.9408850027926555.3869700984771,,,1
+East Flores,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,1
+East New Britain,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,1
+East of the Gulf of Aqaba,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,1
+East Wall,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,1
+East Yorkshire,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,1
+Easter Ross,"Albatross CordilleraCape Adare-Easter Island Ridge,East Pacific Rise,Easter Island Cordillera,Easter Island Rise,Easter ...-45.0-115.0",-160,,,1
+Eastern Cape  Province,"Eastern Asia  Asia Oriental,Asia orientale,Asie de l'Est,Eastern Asia,Ostasien,Rytu Azija,Rytu Azija,Skhidna Azija...32.24997445586331114.609375",32.24997445586331114.60,,,1
+Eastern Catalona,"Eastern Asia  Asia Oriental,Asia orientale,Asie de l'Est,Eastern Asia,Ostasien,Rytu Azija,Rytu Azija,Skhidna Azija...32.24997445586331114.609375",32.24997445586331114.60,,,1
+Edinburgh,"Edinburgh  City of Edinburgh,Dun Eideann,Dùn Èideann,EDH,Edinburgh55.9497284685701-3.19333076477051","dinburgh  City of Edinburgh,Dun Eideann,Dùn Èideann,EDH,Edinburgh55.9497284685701-3.19333076477051",,,1
+Elqui Province,"Provincia de Elqui  Elqui,Provincia de Elqui-29.735883-70.644553","rovincia de Elqui  Elqui,Provincia de Elqui-29.735883-70.644553",,,1
+Enroute from Suez to Aden (Yemen),,,,,1
+Eronogo Region,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Essequibo,,,,,1
+Estuaire Province,"Libreville  Gorad Librehvil',LBV,Libarwil,Liberopolis,Librefille,Librevil,Librevil',Librevila,Librevilis,Librevi...0.39241483978909539.453563690185547",0.39241483978909539.45356,,,1
+Exumas,,,,,1
+Fernando Po Island,San Fernando  San Fernando10.279694-61.468351,an Fernando  San Fernando10.279694-61.468351,,,1
+Fife,"Fife  FIF,Faifas,Fajf,Feevey,Fif Scir,Fif Scir,Fifa,Fife,Fife Region,Fiobha,Foibhe,Fìobha,fa fu,faifu,fayf...56.25-3.1666667",56.25-3.1666667,,,1
+Fishing Grounds,Cheta<U+0457>bi Fishing Port37.066287.38543,heta<U+0457>bi Fishing Port37.066287.38543,,,1
+Florida ,"Florida  FL,Floarida,Florid,Florida,Florida Shitati,Florida suyu,Floridae,Floride,Florido,Florinta,Floryda,Fl...28.7505408-82.5000976",28.7505408-82.5000976,,,1
+Florida Straits,"Florida  FL,Floarida,Florid,Florida,Florida Shitati,Florida suyu,Floridae,Floride,Florido,Florinta,Floryda,Fl...28.7505408-82.5000976",28.7505408-82.5000976,,,1
+Foveaux Strait,Foveaux ParkFoveaux Park-33.8116151.018707,oveaux ParkFoveaux Park-33.8116151.018707,,,1
+French Southern Territories,"French Southern Territories  Anyiehe Franseme nutome,Criocha Deisceartacha na Fraince,Críocha Deisceartacha na Fraince,De franske...-43.067.0",-43.067.,,,1
+Fujairah Emirate,"Al Fujairah City  Al Fujairah City,Al Fujayrah,Al-Fudjayra,Al-Fujayrah' emiraat,FJR,Fudschaira,Fudzhejra,Fujaira,Fujai...25.11641256.341408",25.11641256.341408,,,1
+Galica,"Galicia  A Galiza,An Ghailis,An Ghailís,Comunidad Autonoma de Galicia,Comunidad Autónoma de Galicia,Comunidad...42.7550795450721-7.8662109375",42.7550795450721-7.866210937,,,1
+Galicia,"Galicia  A Galiza,An Ghailis,An Ghailís,Comunidad Autonoma de Galicia,Comunidad Autónoma de Galicia,Comunidad...42.7550795450721-7.8662109375",42.7550795450721-7.866210937,,,1
+Ganges-Brahmaputra delta,"Ganges DeltaDelta of the Ganges,Ganges Delta,Ganges-Brahmaputra Delta,Gangetic delta23.089.0","anges DeltaDelta of the Ganges,Ganges Delta,Ganges-Brahmaputra Delta,Gangetic delta23.089.0",,,1
+Genoa  Province,"Genoa  Cenova,Dzenova,Dženova,GOA,Genes,Genoa,Genova,Genovo,Genua,Genuja,Genès,Genúa,Gènova,Génova,Gênes,Ja...44.404788.94439",44.404788.94439,,,1
+Genoa Province,"Genoa  Cenova,Dzenova,Dženova,GOA,Genes,Genoa,Genova,Genovo,Genua,Genuja,Genès,Genúa,Gènova,Génova,Gênes,Ja...44.404788.94439",44.404788.94439,,,1
+Georges Bank,"St. George's  Fort Royal,Georgetown,Grenada City,Lewis,Port Louis,Port Royal,Saint George,Saint George's,Saint Geo...12.05288-61.75226",12.05288-61.75226,,,1
+Gibraltar,"Gibraltar  Calpe,Calpis,Cebelitarik,Cebelitarik,Chibraltar,C<U+0259>b<U+0259>li-Tariq,Dgibraltar,Dgibrâltar,Djibraltar,Gibart...36.1333333-5.35",36.1333333-5.35,,,1
+Golfo de Venezia,"Equatorial Guinea  'Ekueta Kini,AEkvatorial Guinea,AEkvatorialguinea,AEquatoriaal-Guinea,AEquatorialguinea,An Ghuine Mh...1.710.5",1.710.5,,,1
+Golfo di Genova in the Ligurian Sea,"Equatorial Guinea  'Ekueta Kini,AEkvatorial Guinea,AEkvatorialguinea,AEquatoriaal-Guinea,AEquatorialguinea,An Ghuine Mh...1.710.5",1.710.5,,,1
+Gran Canaria,"Las Palmas de Gran Canaria  Kanaria Handiko Las Palmas,LPA,Las Palmas,Las Palmas de G.C.,Las Palmas de Gran Canaria,Las Palmas d...28.099727-15.41343",28.099727,,,1
+Granada,"Grenada  Colony of Grenada,GND,Garnaad,Gelenad<U+025B>,Gerenada,Giranaadaa,Giriinaada,Girnada,Granada,Granada - Gren...12.1166667-61.6666667",12.1166667-61.6666667,,,1
+Grand Baie,"Grand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2","rand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2",,,1
+Grand Cayman,"Grand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2","rand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2",,,1
+Grand Turk Island,"Grand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2","rand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2",,,1
+Green Bay,"Goose Green Settlement  Goose Green,Goose Green Settlement-51.825914-58.967139","oose Green Settlement  Goose Green,Goose Green Settlement-51.825914-58.967139",,,1
+Guam,"Guam  GJao Gu-am,GUM,Guahan,Guam,Guam - US Unincorporated Organized Territory,Guam nutome,Guama,Guamas,Guw...13.478611569488931144.81834411621094",13.478611569488931144.818344116,,,1
+Guizhou Province,"Guizhou  Guizhou,Guizhou Sheng,Kuei-chou,Kuei-chou Sheng,Kweichau,Kweichow,Kweichow Province,Province de Guiz...27.0107.0",27.0107.0,,,1
+Gujarat,"Gujarat  An Ghuisearait,An Ghúisearáit,GJ,Gucerat,Gucharat,Gudzarat,Gudzarata,Gudzaratas,Gudzharat,Gudzsarat,...23.071.75",23.071.75,,,1
+Gulf of California,"Gulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875","ulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875",,,1
+Gulf of Lyons,"Gulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875","ulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875",,,1
+Gulf of Suez,"Gulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875","ulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875",,,1
+Gulf of Tadjoura,"Gulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875","ulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875",,,1
+Guyamas,"Guam  GJao Gu-am,GUM,Guahan,Guam,Guam - US Unincorporated Organized Territory,Guam nutome,Guama,Guamas,Guw...13.478611569488931144.81834411621094",13.478611569488931144.818344116,,,1
+Ha'api,"Ha‘apai  Ha'apai,Ha`apai,Ha`apai Islands Division,Ha‘apai,Ha‘apai Islands Division,Ha’apai-19.75134-174.30656","a‘apai  Ha'apai,Ha`apai,Ha`apai Islands Division,Ha‘apai,Ha‘apai Islands Division,Ha’apai-19.75134-174.30656",,,1
+Ha'api ,"Api IslandApi Island,Api islet10.6592.3333333","pi IslandApi Island,Api islet10.6592.3333333",,,1
+Halifax,"Halifax  Comitatul Halifax,Comte de Halifax,Comté de Halifax,Condado de Halifax,Condado han Halifax,Contea di...36.2575038-77.6518816",36.2575038-77.6518816,,,1
+Harare Province,"Harare  Arare,Charare,Gorad Kharareh,HRE,Harare,Hararensis Urbs,Harareo,Harare,Kharare,Salisbury,ha la lei,h...-17.82771696496470431.05337142944336",-17.82771696496470431.0533714,,,1
+Herzliyah,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Ho Ha Wan Marine Park,"Ho Chi Minh City  Cathair Ho Chi Minh,Cidade de Ho Chi Minh,Ciudad Ho Chi Minh,HCMC,HCMV,Ho Chi Minh,Ho Chi Minh City,...10.82302106.62965",10.82302106.62965,,,1
+Hokkaido Prefecture,"Hokkaido  Ezo,Hokkaido,Hokkaido-Honto,Hokkaido,Hokkaido-Honto,Hokushu,Hokushu,Jesso,Yeso,Yezo,bei hai dao,hokk...44.0143.0",44.0143.0,,,1
+Ibaraki Prefecture,"MitoMito,Mito-shi,Mitoshi,mito,mitoshi,shui hu,shui hu shi,<U+307F><U+3068>,<U+307F><U+3068><U+3057>,<U+30DF><U+30C8>,<U+30DF><U+30C8><U+30B7>,<U+6C34><U+6238>,<U+6C34><U+6238><U+5E02>36.35140.45","itoMito,Mito-shi,Mitoshi,mito,mitoshi,shui hu,shui hu shi,<U+307F><U+3068>,<U+307F><U+3068><U+3057>,<U+30DF><U+30C8>,<U+30DF><U+30C8><U+30B7>,<U+6C34><U+6238>,<U+6C34><U+6238><U+5E02>36.35140.45",,,1
+Ibiza Island,"Ibiza Town  Eivissa,IBZ,Ibica,Ibiza,Ibiza Town,Ibiza-Stadt,Ibiza-stad,Vila d'Eivissa,<U+0418><U+0431><U+0438><U+0446><U+0430>38.90883428218791.43296480178833","biza Town  Eivissa,IBZ,Ibica,Ibiza,Ibiza Town,Ibiza-Stadt,Ibiza-stad,Vila d'Eivissa,<U+0418><U+0431><U+0438><U+0446><U+0430>38.90883428218791.43296480178833",,,1
+Illeginni Atoll,"Illeginni  Illeginni Island,Illygain,Likkijjine Island,RTS,Rikijjine-to,Rikijjine-to,Rikitsujine,Rikitsujine To...9.08614221249787167.472903728485",9.08614221249787167.472903,,,1
+Illinois,"Illinois  'Ilinoe,Elenuojos,Estado de Illinois,IL,Ilinoi,Ilinois,Ilinoisa,Ilinoj,Ilinojs,Ilinojso,Ilinojus,Ili...40.0003204-89.2503681",40.0003204-89.2503681,,,1
+Imperia Province,"Imperia  Imperia,Imperija,Impéria,inperia,<U+0418><U+043C><U+043F><U+0435><U+0440><U+0438><U+044F>,<U+30A4><U+30F3><U+30DA><U+30EA><U+30A2>43.889178.03933","mperia  Imperia,Imperija,Impéria,inperia,<U+0418><U+043C><U+043F><U+0435><U+0440><U+0438><U+044F>,<U+30A4><U+30F3><U+30DA><U+30EA><U+30A2>43.889178.03933",,,1
+In Convoy OB 274,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+In the English Channel ,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+In the Gulf Stream ,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+In transit between Tinian and Leyte,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+Inner Hebrides,"Inner Mongolia  Binnen-Mongolie,Binnen-Mongolië,Indre Mongolia,Inner Mongolia,Inner Mongolia Autonomous Region,Inner...43.5114.75",43.5114.75,,,1
+Inner Islands,"Inner Mongolia  Binnen-Mongolie,Binnen-Mongolië,Indre Mongolia,Inner Mongolia,Inner Mongolia Autonomous Region,Inner...43.5114.75",43.5114.75,,,1
+Isla Providencia,"L-Isla  Isla,L-Isla35.8900986420760814.51959948640558","-Isla  Isla,L-Isla35.8900986420760814.51959948640558",,,1
+Island of Kos,"Iceland  'Aisilani,Aesland,Ai-xo-len,Ai-xo-len (Iceland),Ai-xo-len,Ai-xo-len (Iceland),Aisalan,Aiseland nutom...65.0-18.0",65.0-18.0,,,1
+Island of St. Thomas,"Iceland  'Aisilani,Aesland,Ai-xo-len,Ai-xo-len (Iceland),Ai-xo-len,Ai-xo-len (Iceland),Aisalan,Aiseland nutom...65.0-18.0",65.0-18.0,,,1
+Island of Volos,"Iceland  'Aisilani,Aesland,Ai-xo-len,Ai-xo-len (Iceland),Ai-xo-len,Ai-xo-len (Iceland),Aisalan,Aiseland nutom...65.0-18.0",65.0-18.0,,,1
+Isle of Man,"Puerto Rico  Boluchen,Borequem,Borichen,Borichena,Boricua,Borigua,Boriken,Borikén,Boringquen,Borinquen,Boriquen,B...18.2493993-66.5010052",18.2493993-66.5010052,,,1
+Isles del Rosario,"Western Isles  ELS,Eilean Siar,Western Isles,Western Isles Islands Area,na hOileain Thiar,na hOileáin Thiar57.6666667-7.1666667","estern Isles  ELS,Eilean Siar,Western Isles,Western Isles Islands Area,na hOileain Thiar,na hOileáin Thiar57.6666667-7.1666667",,,1
+Istanbul,"Istanbul  Iostanbul,Iostanbúl,Ist,Istampoul,Istanbul,Istanbul Province,Istanbul Vilayeti,Miklagard,Miklagård,P...41.035082002999728.9833068847656",41.035082002999728.98330688,,,1
+Istria,"Istria  Istarska,Istarska Zupanija,Istarska Županija,Istria,Istrien,iseuteula ju,<U+C774><U+C2A4><U+D2B8><U+B77C> <U+C8FC>45.2513.9166667","stria  Istarska,Istarska Zupanija,Istarska Županija,Istria,Istrien,iseuteula ju,<U+C774><U+C2A4><U+D2B8><U+B77C> <U+C8FC>45.2513.9166667",,,1
+Izo Islands,"IzeauxIzeaux,Izeaux-aux Bois,Izo,yi zuo,<U+0406><U+0437><U+043E>,<U+0418><U+0437><U+043E>,<U+4F0A><U+4F50>45.3347335.424859","zeauxIzeaux,Izeaux-aux Bois,Izo,yi zuo,<U+0406><U+0437><U+043E>,<U+0418><U+0437><U+043E>,<U+4F0A><U+4F50>45.3347335.424859",,,1
+Jakarta Harbour,"Jakarta  Batavia,Big Durian,Cakarta,D'akarta,Daerah Khusus Ibukota Jakarta,Djakarta,Djogkarta,Dki Jakarta,Dza...-6.214623197035775106.84513092041016",-6.214623197035775106.845130,,,1
+Jeju Province,"Jeju City  CJU,Chedzhu,Cheju,Chu-sung,Chyei Chyu,Czedzu,Czedzu,Jeju,Jeju City,Kota Jeju,Saishu,Saishu,Saisyu,Sa...33.509722126.521944",33.509722126.521944,,,1
+Johnston Atoll,"Johnston Atoll  Atol Johnston,Atoll de Johnston,Atolle Tzonston,Atollo Johnston,Atolon Johnston,Atolón Johnston,Dzho...16.7282762596585-169.534277915955",16.7282762596585-169.,,,1
+Johor,"Johor  Cohor,Dzhokhor,Dzohoras,Dzokhor,Džohoras,Gohoro,JHR,Johor,Johore,Johori osariik,State of Johor,State...2.0103.5",2.0103.5,,,1
+Kadavu Island Group,"Kadavu  Kadavu,Province de Kadavu-18.99331178.22021","adavu  Kadavu,Province de Kadavu-18.99331178.22021",,,1
+Kagawa Prefecture,"Takamatsu  Gorad Takamacu,TAK,Takamacu,Takamatsu,Takamatsu-shi,Takamatsushi,Takamatu,Takamatu-chhi,Takamatu-chh...34.333333134.05",34.333333134.05,,,1
+Kagoshima Prefecture,"Kagoshima  KOJ,Kagoshima,Kagoshima-shi,Kagoshimashi,Kagosima,Kagošima,gagosima si,kaghwshyma,kagoshima,kagoshim...31.566667130.55",31.566667130.55,,,1
+Kedah,"Kedah  KDH,Kedah,Kedahas,Kedaho,Kedakh,Queda,Quedá,State of Kedah,ji da,kada,kataha,kataram,kdah,keda,keda ...6.0100.6666667",6.0100.6666667,,,1
+Kent,Kent  49.282985967-121.752557425,ent  49.282985967-121.752557425,,,1
+Kentucky,Kentucky18.199306370219226-78.0176705841809,entucky18.199306370219226-78.0176705841809,,,1
+Kerala,"Kerala  Cearala,KL,Kerala,Keralam,Keralao,Kérala,Malabaria,State of Kerala,ekaralam,ka la la bang,kelalla ju...10.41666776.5",10.41666776.5,,,1
+Khánh Hòa Province,"T<U+1EC9>nh Khánh Hòa  Khanh Hoa,Khánh Hòa,Tinh Khanh Hoa,T<U+1EC9>nh Khánh Hòa12.3333333109.0","<U+1EC9>nh Khánh Hòa  Khanh Hoa,Khánh Hòa,Tinh Khanh Hoa,T<U+1EC9>nh Khánh Hòa12.3333333109.0",,,1
+Kochi Prefecture,"Kochi  KCZ,Kochi,Kochi-shi,Kochin,Kochishi,Koti,Kôti,Kochi-shi,Kochishi,gao zhi,gao zhi shi,kouchi,kouchish...33.55133.533333",33.55133.533333,,,1
+Kowloon Peninsula,"Kowloon  Chiu-lung,Czjulun,Kaulunas,Koulun,Kowloon,jiu long,julung,yi fa ban,<U+0426><U+0437><U+044E><U+043B><U+0443><U+043D>,<U+4E5D><U+9F8D>,<U+610F><U+6CD5><U+534A>,<U+C8FC><U+B8FD>22.3166667114.1833333","owloon  Chiu-lung,Czjulun,Kaulunas,Koulun,Kowloon,jiu long,julung,yi fa ban,<U+0426><U+0437><U+044E><U+043B><U+0443><U+043D>,<U+4E5D><U+9F8D>,<U+610F><U+6CD5><U+534A>,<U+C8FC><U+B8FD>22.3166667114.1833333",,,1
+Kumamoto Prefecture,"Kyushu  Kioesjoe,Kiousou,Kiu-chiu,Kiusiu,Kiusu,Kiusuo,Kiusuo,Kiusu,Kiú-chiu,Kiušiu,Kjushu,Kjusju,Kjusu,Kjušu...32.429441130.99099",32.429441130.99099,,,1
+Kuril Islands in the Pacific,"Kuril Islands  Bol'shaya Kuril'skaya,Bol’shaya Kuril’skaya,Chishima Retto,Chishima Retto,Chishima-retto,Chishima-re...46.166667152.0",46.166667152.0,,,1
+Kwajalein,,,,,1
+Kwajalein Atoll,"EbayeEpja,Epja,Ibae8.77478769005341167.7391880750656","bayeEpja,Epja,Ibae8.77478769005341167.7391880750656",,,1
+KwaZulu-Natal between Port Edward and Port St Johns,"KwaZulu-Natal  HaZulu-Natal,Hazolo-Natala,KwaZulu-Natal,KwaZulu-Natala,KwaZulu-Natali,Kwazulu-Natal,Natal,Province ...-29.030.0",-29.030.0,,,1
+L' Etang Salé-les-Bains,"Luxembourg  Bandar Luxembourg,Ciudad de Luxemburgo,Ciutat de Luxemburg,Dinas Lwcsembwrg,Gorad Ljuksemburg,LUX,Le...49.61166676.13",49.61166676.13,,,1
+L'Etang-Sale,L'Étang-Salé  -21.2555.3833333,'Étang-Salé  -21.2555.3833333,,,1
+L'Etang-Salé,L'Étang-Salé  -21.2555.3833333,'Étang-Salé  -21.2555.3833333,,,1
+La Saline-les-Bains,"La Paz  A Paz,Chukiyawu,Chuqi Yapu,Chuqiyapu,Ciudad La Paz,Gorad La-Pas,LPB,La Pas,La Pasas,La Paz,La-Pas,La...-16.5-68.15",-84.65,,,1
+Lagos ,"Lagos  Eko,Gorad Lagas,LOS,Lacupolis,Lagos,Lagos shaary,Lagosa,Lagosas,Lagoso,Laguosos,Laqos,Logos,la ge si...6.4540663.394673",6.4540663.394673,,,1
+Lamu Archipelago,"LamuAmu,Antiga Cidade de Lamu,Gorad Lamu,LAU,Lama,Lamu,la mu,lamu,lamw,ramu,<U+0413><U+043E><U+0440><U+0430><U+0434> <U+041B><U+0430><U+043C><U+0443>,<U+041B><U+0430><U+043C><U+0430>,<U+041B><U+0430><U+043C><U+0443>,<U+05DC><U+05D0><U+05DE><U+05D5>,<U+0644><U+0627>...-2.27168623245091440.90201377868652",-2.27168623245091440.902013778686,,,1
+Las Perlas archipelago,"Las Piedras  Las Pedras,Las Piedras,Las Piedrasas,Las Pjedras,Las-P'edras,Piedras,San Isidrio,Villa de las Piedra...-34.730198-56.219153",-90.949351,,,1
+Laucala Island,"Laucala Island Airport  LUC,NFNH-16.7481002807617-179.667007446289","aucala Island Airport  LUC,NFNH-16.7481002807617-179.667007446289",,,1
+Le Port,"Le Tampon  Le Tampon,Le-Tampon,Tampon,Village du Tampon,lw tampwn,<U+041B><U+0435> <U+0422><U+0430><U+043C><U+043F><U+043E><U+043D>,<U+041B><U+0435>-<U+0422><U+0430><U+043C><U+043F><U+043E><U+043D>,<U+0644><U+0648> <U+062A><U+0627><U+0645><U+067E><U+0648><U+0646>,<U+30EB>·<U+30BF><U+30F3><U+30DD><U+30F3>-21.27660155.517657","e Tampon  Le Tampon,Le-Tampon,Tampon,Village du Tampon,lw tampwn,<U+041B><U+0435> <U+0422><U+0430><U+043C><U+043F><U+043E><U+043D>,<U+041B><U+0435>-<U+0422><U+0430><U+043C><U+043F><U+043E><U+043D>,<U+0644><U+0648> <U+062A><U+0627><U+0645><U+067E><U+0648><U+0646>,<U+30EB>·<U+30BF><U+30F3><U+30DD><U+30F3>-21.27660155.517657",,,1
+Leyte,Leyte  Leyte11.3666667124.5,eyte  Leyte11.3666667124.5,,,1
+Leyte Island,"Leyte Island  Leyte,Leyte Island10.83267124.83537","eyte Island  Leyte,Leyte Island10.83267124.83537",,,1
+Liaoning Province,"Liaoning  Liao-ning,Liaoning,Liaoning Province,Liaoning Sheng,Province de Liaoning,liao ning,liao ning sheng,<U+8FBD>...41.25122.666667",41.25122.666667,,,1
+Liguaria,"Liguria  Li-ku-li-a,Li-kú-lî-â,Ligouria,Ligueria,Liguerje,Liguri,Liguria,Ligurie,Ligurien,Ligurija,Ligurio,Li...44.58.8333333",44.58.8333333,,,1
+Line Islands,"Line Islands  Line Islands,Lineoyane,Lineøyane,Linjeoyene,Linjeøyene1.942-157.475","ine Islands  Line Islands,Lineoyane,Lineøyane,Linjeoyene,Linjeøyene1.942-157.475",,,1
+Lomaiviti  Island Group,Lomaiviti Province  Lomaiviti Province-17.6666667178.8,omaiviti Province  Lomaiviti Province-17.6666667178.8,,,1
+Lomaiviti Province,Lomaiviti Province  Lomaiviti Province-17.6666667178.8,omaiviti Province  Lomaiviti Province-17.6666667178.8,,,1
+Lomaiviti Provine,Lomaiviti Province  Lomaiviti Province-17.6666667178.8,omaiviti Province  Lomaiviti Province-17.6666667178.8,,,1
+"Lomaloma, Lau","Lomaloma  Lomaloma,Lomo-lomo-17.289423-178.987171","omaloma  Lomaloma,Lomo-lomo-17.289423-178.987171",,,1
+Los Roques  Islands,"Los Angeles  Angelopolis,Cuidad De Los Angelos,Cuidad De los Angelos,El Pueblo de Nuestra Senora La Reina de Los ...34.0522342-118.2436849",34.0522342-118.2436849,,,1
+Los Vilos,"Los Angeles  Angelopolis,Cuidad De Los Angelos,Cuidad De los Angelos,El Pueblo de Nuestra Senora La Reina de Los ...34.0522342-118.2436849",34.0522342-118.2436849,,,1
+Lower San Juan River,"Lower Prince’s Quarter  Beneden Prinsen,Beneden Prinsen Kwartier,Lower Prince's Quarter,Lower Prince’s Quarter18.049872-63.037885","ower Prince’s Quarter  Beneden Prinsen,Beneden Prinsen Kwartier,Lower Prince's Quarter,Lower Prince’s Quarter18.049872-63.037885",,,1
+Lucayan Archipelago,Lucayan Archipelago  Bahama Archipelago24.68695-78.01941,ucayan Archipelago  Bahama Archipelago24.68695-78.01941,,,1
+Lucy,Lucy34.6528423-105.8433455,ucy34.6528423-105.8433455,,,1
+Lukovo,Lukovo  41.35971220.619409,ukovo  41.35971220.619409,,,1
+Madang (WO),"Madang  Friedrich Wilhelms Harbour,Friedrich-Wilhelmshafen,MAG,Madang,<U+041C><U+0430><U+0434><U+0430><U+043D><U+0433>-5.22152145.78695","adang  Friedrich Wilhelms Harbour,Friedrich-Wilhelmshafen,MAG,Madang,<U+041C><U+0430><U+0434><U+0430><U+043D><U+0433>-5.22152145.78695",,,1
+Madeira,"Madeira  Autonomous Region of Madeira,Madeira,Madere,Madère,Regiao Autonoma da Madeira,Região Autónoma da Mad...32.76736725923655-16.94699093169009",32.76736725923655-16.9469909,,,1
+Madeira Islands,"Madeira  Autonomous Region of Madeira,Madeira,Madere,Madère,Regiao Autonoma da Madeira,Região Autónoma da Mad...32.76736725923655-16.94699093169009",32.76736725923655-16.9469909,,,1
+Mafia Island,"Mafia Island Airport  HTMA,MFA-7.91269257456757239.66588020324707","afia Island Airport  HTMA,MFA-7.91269257456757239.66588020324707",,,1
+Magarita or Cubagua Islands,"La MargaritaLa Margarita,Magarita22.945614-82.488884","a MargaritaLa Margarita,Magarita22.945614-82.488884",,,1
+Magdalena Department,"Departamento del Magdalena  Departamento del Magdalena,Magdalena10.0-74.5","epartamento del Magdalena  Departamento del Magdalena,Magdalena10.0-74.5",,,1
+Maine,"Maine  Cenomannica,ME,Maine,Maine suyu,Majno,Mayn,Meane Shitati,Mehn,Meiin Hahoodzo,Mein,Meina,Meinas,Meins...45.5003249-69.2497714",45.5003249-69.2497714,,,1
+Majorca,"MajorcaMajorca,Mallorca39.61362311364913.02003860473633","ajorcaMajorca,Mallorca39.61362311364913.02003860473633",,,1
+Makira-Uluwa Province,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Makora-Ulawa Province,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Málaga ,"Málaga  AGP,Gorad Malaga,Malaca,Malaga,Malagae,Malago,Malaqa,Màlaga,Málaga,ma la jia,malaga,malaja,malaka,ma...36.7201559059499-4.42034482955933",36.7201559059499-4.4203448295,,,1
+Malaita Province,"Auki  AKS,Auke,Auki,Rarasu,<U+0410><U+0443><U+043A><U+0438>-8.767778160.697778","uki  AKS,Auke,Auki,Rarasu,<U+0410><U+0443><U+043A><U+0438>-8.767778160.697778",,,1
+Maldonado coast,"Maldonado  Mal'donado,Maldonadas,Maldonado,San Fernando de Maldonado,ma er duo na duo,maldonado,maldwnadw  arwg...-34.9-54.95",-89.85,,,1
+Maluku Province,"Maluku  Daerah Tingkat I Maluku,Maluku,Maluku Province,Moluccas,Muluku,Propinsi Maluka,Propinsi Maluku,Provi...-3.238462130.145273",-3.238462130.145273,,,1
+Manfredonia ,"Manfredonia  Manfredonia,Manfredonija,Manfredònia,manfuredonia,<U+041C><U+0430><U+043D><U+0444><U+0440><U+0435><U+0434><U+043E><U+043D><U+0438><U+044F>,<U+30DE><U+30F3><U+30D5><U+30EC><U+30C9><U+30FC><U+30CB><U+30A2>41.6306515.91876","anfredonia  Manfredonia,Manfredonija,Manfredònia,manfuredonia,<U+041C><U+0430><U+043D><U+0444><U+0440><U+0435><U+0434><U+043E><U+043D><U+0438><U+044F>,<U+30DE><U+30F3><U+30D5><U+30EC><U+30C9><U+30FC><U+30CB><U+30A2>41.6306515.91876",,,1
+Mangaia Island,Mangaia  -21.92601-157.91851,angaia  -21.92601-157.91851,,,1
+Manus Island,"Manus Province  Manua District,Manus,Manus Province,Provincia de Manus-2.0147.0","anus Province  Manua District,Manus,Manus Province,Provincia de Manus-2.0147.0",,,1
+Marches region,"The Marches  As Marcas,Las Marcas,Le Marche,Ma-ngi-khai,Marcas,Marchas,Marche,Marches,Marchi,Marchia Anconitana,M...43.513.25",43.513.25,,,1
+Marovo Lagoon,"Ozero MarovoOzero Marovo,<U+041E><U+0437><U+0435><U+0440><U+043E> <U+041C><U+0430><U+0440><U+043E><U+0432><U+043E>55.11564.4711111","zero MarovoOzero Marovo,<U+041E><U+0437><U+0435><U+0440><U+043E> <U+041C><U+0430><U+0440><U+043E><U+0432><U+043E>55.11564.4711111",,,1
+Marquesas,,,,,1
+Masbate,Province of Masbate  Masbate12.1666667123.5833333,rovince of Masbate  Masbate12.1666667123.5833333,,,1
+Mercury Islands,"MercuryMercury-Gemilly,Mercury-Gémilly45.67452261945116.33687973022461","ercuryMercury-Gemilly,Mercury-Gémilly45.67452261945116.33687973022461",,,1
+Merizo,"Merizo Municipality  Malesso,Merizo13.27125357122287144.67463672161102","erizo Municipality  Malesso,Merizo13.27125357122287144.67463672161102",,,1
+Mersin Province,"Mersin  Icel,Mersin,Mersina,Mersine,Merson,Mersyna,Myrte,Mêrsîn,Zephyrium,Içel,<U+039C>e<U+03C1>s<U+03AF><U+03BD><U+03B7>,<U+041C><U+0435><U+0440><U+0441><U+0438><U+043D>36.8119634.63886","ersin  Icel,Mersin,Mersina,Mersine,Merson,Mersyna,Myrte,Mêrsîn,Zephyrium,Içel,<U+039C>e<U+03C1>s<U+03AF><U+03BD><U+03B7>,<U+041C><U+0435><U+0440><U+0441><U+0438><U+043D>36.8119634.63886",,,1
+Mexico / Caribbean Sea,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Middle Caicos,"Middle East  Mezoriento,Midden-Oosten,Middle East,Moyen-Orient,Oriente Medio,Sudokcidenta Azio,alshrq alawst,<U+0627><U+0644><U+0634><U+0631>...33.13906047538835.8586883544922",33.13906047538835.858688,,,1
+Midway Atoll,"Midway Atoll  Atol Midway,Atoll de Midway,Atolle Mintgouaie,Atollo di Midway,Iles Midvay,Islas Midway,Isole Midway...28.228-177.389",28.228-177.389,,,1
+Milne Bay  Province,"Milne Bay Province  Milne Bay,Milne Bay Province-10.552621801948721150.31494140625","ilne Bay Province  Milne Bay,Milne Bay Province-10.552621801948721150.31494140625",,,1
+Mindanao,"MindanaoMindanao,Pajo9.645452123.349539","indanaoMindanao,Pajo9.645452123.349539",,,1
+Mindoro,MindoroMindoro17.562021120.355611,indoroMindoro17.562021120.355611,,,1
+Mindoro Occidental,"Mindoro  Mindoras,Mindoro,Mintoro,min dou luo,mindolo seom,mindoro,mindoro dao,myndwrw,<U+039C><U+03B9><U+03BD>t<U+03CC><U+03C1><U+03BF>,<U+041C><U+0438><U+043D><U+0434><U+043E><U+0440><U+043E>,<U+041C><U+0456><U+043D><U+0434><U+043E><U+0440>...12.9304121.0947",12.9304121.0947,,,1
+Minerva Reef,"Minerva SeamountBanco Minerva,Minerva Bank-17.03517-37.47757","inerva SeamountBanco Minerva,Minerva Bank-17.03517-37.47757",,,1
+Misamis Oriental,"OzamizBulakay,Misamis,OZC,Ozamis,Ozamis City,Ozamiz,Ozamiz City,<U+041E><U+0437><U+0430><U+043C><U+0438><U+0441>8.1481123.8405","zamizBulakay,Misamis,OZC,Ozamis,Ozamis City,Ozamiz,Ozamiz City,<U+041E><U+0437><U+0430><U+043C><U+0438><U+0441>8.1481123.8405",,,1
+Missouri,"Missouri  Estado de Missouri,Ipinle Missouri,MO,Mesuris,Met-su-li,Me<U+030D>t-sû-lî,Mikouli,Misoria,Misouri,Missori,M...38.2503112-92.5004614",38.2503112-92.5004614,,,1
+Moala Island,"Moala Island Airport  MFJ,Moala Island Airport,NFMO-18.5665274786231179.95099067688","oala Island Airport  MFJ,Moala Island Airport,NFMO-18.5665274786231179.95099067688",,,1
+Moluccas,"Maluku  Daerah Tingkat I Maluku,Maluku,Maluku Province,Moluccas,Muluku,Propinsi Maluka,Propinsi Maluku,Provi...-3.238462130.145273",-3.238462130.145273,,,1
+Moorea,Moores18.02926054501751-77.18539737886219,oores18.02926054501751-77.18539737886219,,,1
+Moray,Moray6.80068682360397880.5204788998934,oray6.80068682360397880.5204788998934,,,1
+Moro Gulf,"Moro  Moro,Moro Local Government Area8.8449354.556713","oro  Moro,Moro Local Government Area8.8449354.556713",,,1
+Mount Lebanon,"Mt Hagen  HGU,Hagen,Mount Hagen,Mt Hagen-5.85746144.23058","t Hagen  HGU,Hagen,Mount Hagen,Mt Hagen-5.85746144.23058",,,1
+Mozambique Channel,"Mozambique  Colonia de Mocambique,Colónia de Moçambique,Estado de Mocambique,Estado de Moçambique,Mazambik,Mo-da...-18.2535.0",-18.2535.0,,,1
+Muala,,,,,1
+Mugla Province,"Mugla  Eparchia Mouglon,Mkoa wa Mugla,Mkoa wa Mugla,Mugla,Mugla Province,Mugla Vilayeti,Mugla ili,Mugla pro...37.2303283876038728.355712890625",37.2303283876038728.3557128906,,,1
+Muhafazat Hadramawt,"Al Ahmadi  Ahmad,Ahmadi,Ahmedi,Al Ahmadi,Al Ahmadi,Al A<U+1E29>madi,aalaahmadi,alahmdy,<U+0627><U+0644><U+0627><U+062D><U+0645><U+062F><U+064A>,<U+0627><U+064E><U+0644><U+0623><U+064E><U+062D><U+0652><U+0645><U+064E><U+062F><U+0650><U+064A>29.076944448.0838889","l Ahmadi  Ahmad,Ahmadi,Ahmedi,Al Ahmadi,Al Ahmadi,Al A<U+1E29>madi,aalaahmadi,alahmdy,<U+0627><U+0644><U+0627><U+062D><U+0645><U+062F><U+064A>,<U+0627><U+064E><U+0644><U+0623><U+064E><U+062D><U+0652><U+0645><U+064E><U+062F><U+0650><U+064A>29.076944448.0838889",,,1
+Munxar Reef,"Il-Munxar  Il-Munxar,Munxar36.02916714.225556","l-Munxar  Il-Munxar,Munxar36.02916714.225556",,,1
+Nagasaki Prefecture,"Nagasaki  NGS,Nagasacium,Nagasaki,Nagasaki-shi,Nagasakis,Nagasakishi,Nagasako,Nagaszaki,Nangasaque,nagasaki,na...32.75129.883333",32.75129.883333,,,1
+Namonuito Atoll,"Namonuito Atoll  Aniaima,Anonima,Bunker,Bunkey,Las Hermanas,Livingstone,Los Jardines,Lutke,Magur Islands,Namonuito Gr...8.725150.0",8.725150.0,,,1
+Naples Province,"Naples  Gorad Neapal',NAP,Napels,Naples,Naplés,Napoles,Napoli,Napolo,Napols,Napoly,Nappoli,Napul,Napule,Napu...40.8521614.26811",40.8521614.26811,,,1
+Near Bougainville (North Solomons),"Near Islands  Bliihi Islands,Bliinies Islands,Blijni Islands,Blijnies Islands,Blizhnie Islands,Blizhnie ostrova,Bl...52.8005556173.1316667",52.8005556173.1316667,,,1
+"Near Dakar, Cap Vert Peninsula","Near Islands  Bliihi Islands,Bliinies Islands,Blijni Islands,Blijnies Islands,Blizhnie Islands,Blizhnie ostrova,Bl...52.8005556173.1316667",52.8005556173.1316667,,,1
+Near the Andaman & Nicobar Islands,"Near Islands  Bliihi Islands,Bliinies Islands,Blijni Islands,Blijnies Islands,Blizhnie Islands,Blizhnie ostrova,Bl...52.8005556173.1316667",52.8005556173.1316667,,,1
+Near the Fiji Islands,"Near Islands  Bliihi Islands,Bliinies Islands,Blijni Islands,Blijnies Islands,Blizhnie Islands,Blizhnie ostrova,Bl...52.8005556173.1316667",52.8005556173.1316667,,,1
+Negros ,"Island of Negros  Insula Negros,Island of Negros,Los Negros Island,Negros,Negrosas,Negroso,Nenkros,Pulo ng Negros,nege...9.82646122.90234",9.82646122.90234,,,1
+"New Britain, Bismarck Archipelago","New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,1
+New Brunswick,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,1
+"New Ireland, Bismarck Archipelago","New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,1
+New Mexico,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,1
+New Providence,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,1
+New Providence ,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,1
+New South Wales ,"New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729",40.7142691-74.0059729,,,1
+Nice & Marseilles,"Nice  Gorad Nica,NCE,Nica,Nicaea,Nicc,Nicca,Niccae,Nice,Nicea,Nico,Nikaia,Nis,Nisa,Nissa,Nissa Maritima,Ni...43.7031261041867.26608276367188",43.7031261041867.26608276367188,,,1
+Nicoya Peninsula,"Nicoya Airport  NCT,Nicoya Airport10.13948-85.44617","icoya Airport  NCT,Nicoya Airport10.13948-85.44617",,,1
+Niua ,"Niu’aNiu'a,Niu’a,niu a,<U+725B><U+814C>23.41112.732778","iu’aNiu'a,Niu’a,niu a,<U+725B><U+814C>23.41112.732778",,,1
+Norfolk,"Norfolk  County of Norfolk,NFK,Norfolk52.66666671.0","orfolk  County of Norfolk,NFK,Norfolk52.66666671.0",,,1
+Norfolk Island,"Norfolk Island  Chitsuwa cheNorfolk,Duu<U+0257>e Norfolk,Enez Norfolk,Esanga Norfok<U+025B>,GJao Norfolk,Ile Norfolk,Ile de Norfol...-29.0333333167.95",-29.0333333167.95,,,1
+North & South Carolina,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+North China,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+North Devon,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+"North of Pernambuco, Brazil","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+North Pacific coast,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+North Palawan,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+North Region,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+North Sumatra,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+Northern (Oro) Province,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,1
+Northern Bahamas,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,1
+Northern District,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,1
+Northern Java,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,1
+Northern Peloponnese,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,1
+Northern Province,"Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375",32.953368145799329.9,,,1
+Northlands,"Northland  Nordia Regiono,Northland,Northland Region,Northland Toa-khu,Northland Toa-khu,Northland eskualdea,No...-35.5174.0",-35.5174.0,,,1
+Northwest Italy,Pacific Northwest  Cascadia45.99696-118.49854,acific Northwest  Cascadia45.99696-118.49854,,,1
+Northwest of Papua New Guinea,Pacific Northwest  Cascadia45.99696-118.49854,acific Northwest  Cascadia45.99696-118.49854,,,1
+Northwest of Viti Levu,Pacific Northwest  Cascadia45.99696-118.49854,acific Northwest  Cascadia45.99696-118.49854,,,1
+Noumea,Nouméa  -22.2666667166.4666667,ouméa  -22.2666667166.4666667,,,1
+Off Cape Haitien,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off coast of Ecuador,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off coast of West Africa,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off Green Island,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off Ireland,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off Samar Island in the Gulf of Leyte,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off South American coast,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off the coast of South America,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+"Off the Coromandel Peninsula, North Island","Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off the western coast of peninsular Malaysia,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off Thessaly,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Off Vanua Levu,"Lama Stop OffLama Stop Off,Stop Off6.534904-58.018853","ama Stop OffLama Stop Off,Stop Off6.534904-58.018853",,,1
+Okinawa Prefecture,"Okinawa  Gubernio Okinavo,Maoracht Okinawa,Mkoa wa Okinawa,Okinava,Okinavas prefektura,Okinavas prefektura,Ok...26.5127.933333",26.5127.933333,,,1
+"On the Kowloon penisula, south of Sai Kung","Incheon  Chemulpo,Gorad Inchkhon,ICN,Incchon,Inch'on,Inch'on,Incheon,Incheon-si,Inchkhon,Inchkhun,Inchon,Inch...37.45646126.70515",37.45646126.70515,,,1
+Open sea,Open Bay Islands  Open Bay Island-43.8666667168.8833333,pen Bay Islands  Open Bay Island-43.8666667168.8833333,,,1
+Oslo Fjord,"Oslo  Asloa,Christiania (historical),Gorad Osla,Kristiania (historical),OSL,Ohoro,Oslas,Oslo,Oslo osh,Oslu...59.9127310.74609",59.9127310.74609,,,1
+Pacific coast,Pacific Northwest  Cascadia45.99696-118.49854,acific Northwest  Cascadia45.99696-118.49854,,,1
+Pacific Ocean,Pacific Northwest  Cascadia45.99696-118.49854,acific Northwest  Cascadia45.99696-118.49854,,,1
+Pagasitikos Gulf,"Pagasitikós KólposGulf of Pagasai,Gulf of Pagasaí,Gulf of Volo,Gulf of Volos,Pagasatikos Kolpos,Pagasitikos Kolpos,Pag...39.2523.0",39.2523.0,,,1
+Pamplemousses ,"Pamplemousses District  Pamplemousses,Pamplemousses District-20.095833357.5597222","amplemousses District  Pamplemousses,Pamplemousses District-20.095833357.5597222",,,1
+PANAMA,"Panama  Orileede Panama,Oríl<U+1EB9>´ède Panama,Pa-na-ma,Panama,Panama nutome,Panamaa,Panamaen,Panamaja,Panamas,Pan...9.0-80.0",9.0-80.0,,,1
+Panama Bay (Pacific Ocean),"Panama  Orileede Panama,Oríl<U+1EB9>´ède Panama,Pa-na-ma,Panama,Panama nutome,Panamaa,Panamaen,Panamaja,Panamas,Pan...9.0-80.0",9.0-80.0,,,1
+Panama City,"Panama  Orileede Panama,Oríl<U+1EB9>´ède Panama,Pa-na-ma,Panama,Panama nutome,Panamaa,Panamaen,Panamaja,Panamas,Pan...9.0-80.0",9.0-80.0,,,1
+Paraiba,"Paraíba  Estado da Paraiba,Estado da Paraíba,Estado de Paraiba,Estado de Paraíba,Estado do Paraiba,Estado do ...-7.25-36.5",-43.75,,,1
+Pearl Islands,"Ponce  La Ciudad Senorial,La Ciudad de las Quenepas,La Perla del Sur,PSE,Ponce,Ponce Senorial,Ponse,Ponse,P...18.01031-66.62398",18.01031-66.62398,,,1
+Pennsylvania,"Pennsylvania  Commonwealth of Pennsylvania,Keystone State,PA,Penekelewinia,Pennsilfaani,Pennsilvani,Pennsilvania,P...40.2724534393745-76.9056701660156",40.2724534393745-76.905,,,1
+"Peter the Great Bay, Khasan, Primorsky Krai (Far East)","St Peter Port  GCI,Gorad Sent-Pitehr-Port,Saint Peter Port,Saint Pierre Port,Saint-Pierre-Port,Sanktapetrurbo,Sejnt...49.45981231002438-2.535266876220703",49.45981231002438-2.53,,,1
+Phang nga Province,"Ð<U+1EC9>nh Phan Xi Phang  Dinh Phan Xi Phang,Fan Si Pan,Phan Si Pan,Phan Xi Pang,Phang Xi Pang,Phang Xi Pang,Ð<U+1EC9>nh Phan Xi Phan...22.303433103.774936",22.303433103.7749,,,1
+Phuket,"Phuket  Bhuket,Changwat Phuket,Muang Thalang,Phuket,Pucket,Puket,canghwad phuket,phuket,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E20><U+0E39><U+0E40><U+0E01><U+0E47><U+0E15>,<U+0E20><U+0E39><U+0E40><U+0E01><U+0E47><U+0E15>7.9715298.35098","huket  Bhuket,Changwat Phuket,Muang Thalang,Phuket,Pucket,Puket,canghwad phuket,phuket,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E20><U+0E39><U+0E40><U+0E01><U+0E47><U+0E15>,<U+0E20><U+0E39><U+0E40><U+0E01><U+0E47><U+0E15>7.9715298.35098",,,1
+Pinas Bay,"Las Piñas  City of Las Pinas,City of Las Piñas,Las Pinas,Las Piñas14.4505556120.9827778","as Piñas  City of Las Pinas,City of Las Piñas,Las Pinas,Las Piñas14.4505556120.9827778",,,1
+Piraeus,"PiraeusPeiraios,Piraeus,<U+03A0>e<U+03B9><U+03C1>a<U+03B9><U+03CE><U+03C2>37.94702815922201523.645029294783967","iraeusPeiraios,Piraeus,<U+03A0>e<U+03B9><U+03C1>a<U+03B9><U+03CE><U+03C2>37.94702815922201523.645029294783967",,,1
+Port Louis Province,"Port Moresby  Gorad Port-Morsbi,POM,Po Moresbi,Port Moresby,Port Moresmpi,Port Morsbi,Port Morsbis,Port-Moresbo,Po...-9.47723147.15089",-9.47723147.15089,,,1
+Port Shelter,"Port Moresby  Gorad Port-Morsbi,POM,Po Moresbi,Port Moresby,Port Moresmpi,Port Morsbi,Port Morsbis,Port-Moresbo,Po...-9.47723147.15089",-9.47723147.15089,,,1
+Porto Seguro,"Porto  OPO,Oporto,Porto,Portu,Portus Cale,bo tu,bwrtw,poruto,pwrtw,<U+03A0><U+03BF><U+03C1>t<U+03BF>,<U+03A0><U+03CC><U+03C1>t<U+03BF>,<U+041F><U+043E><U+0440><U+0442><U+043E>,<U+041F><U+043E><U+0440><U+0442><U+0443>,<U+05E4><U+05D5><U+05E8><U+05D8><U+05D5>,<U+0628><U+0648><U+0631><U+062A><U+0648>,<U+067E><U+0648><U+0631><U+062A>...41.149606-8.610993",41.149606-8.610993,,,1
+Primorje-Gorski Kotar County,"Rijeka  Estado libre de Fiume,Fiume,Fkumen,Flumen Sancti Viti,RJK,Reka,Rieka,Rijeka,Rijeko,Reka,Sankt Veit a...45.3267314.44241",45.3267314.44241,,,1
+Primorsky Krai,"Primorskiy (Maritime) Kray  Krai De Primorsky,Krai de Primorie,Kraï de Primorie,Maritime Krai,Maritime Territory,Primorje,Primor...45.0135.0",45.0135.0,,,1
+Provence,Provence  46.90123939514166.684152841567993,rovence  46.90123939514166.684152841567993,,,1
+Providenciales,,,,,1
+Puntarenas Province,"Puntarenas  JAP,Pountarenas,Puntarenas,Puntarenasas,peng ta lei na si,puntalenaseu,puntarenasu,pwntarynas,pwntrn...9.97624732116729-84.8383569717407",9.97624732116729-84.83835,,,1
+Queaon,"Quezon  Lalawigan ng Quezon,Province of Tayabas,Quezon,Tayabas14.6666667121.5","uezon  Lalawigan ng Quezon,Province of Tayabas,Quezon,Tayabas14.6666667121.5",,,1
+Queensland ,"Queensland  Kvinslend,QLD,Queensland,Shtat Kvinslend,State of Queensland,<U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>,<U+0428><U+0442><U+0430><U+0442> <U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>-20.0145.0","ueensland  Kvinslend,QLD,Queensland,Shtat Kvinslend,State of Queensland,<U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>,<U+0428><U+0442><U+0430><U+0442> <U+041A><U+0432><U+0438><U+043D><U+0441><U+043B><U+0435><U+043D><U+0434>-20.0145.0",,,1
+Quezon,"Quezon  Lalawigan ng Quezon,Province of Tayabas,Quezon,Tayabas14.6666667121.5","uezon  Lalawigan ng Quezon,Province of Tayabas,Quezon,Tayabas14.6666667121.5",,,1
+Quinta Roo,"Región de Valparaíso  Quinta Region,Quinta Región,Region de Aconcagua,Region de Valparaiso,Región de Aconcagua,Región de V...-32.75-71.3333333",-104.08333,,,1
+Ralik Chain,"Ralik Chain  Groupe de Ralik,Ralic,Ralick Chain,Ralick Gruppe,Ralik Chain,Ralik-Kette,Rarikku,Rarikku Chen,Rarikk...8.0167.0",8.0167.0,,,1
+Rangiroa,Rangiroa  -14.95916-147.64664,angiroa  -14.95916-147.64664,,,1
+Ratak ,"Ratak RidgeEastern Ridge,Radak Ridge,Ratak Ridge10.0170.0","atak RidgeEastern Ridge,Radak Ridge,Ratak Ridge10.0170.0",,,1
+Rayong Province,"Rayong  Rajong,Rayaung,Rayohng,Rayong,layong,luo yong shi,raywng,rayxng,thesbal nkhr rayxng,<U+0420><U+0430><U+0439><U+043E><U+043D><U+0433>,<U+0631><U+0627><U+06CC><U+0648><U+0646><U+06AF>,<U+0E23><U+0E30>...12.6809540209817101.257982254028",12.6809540209817101.257982254,,,1
+Red Sea Protectorate,Red River Delta  21.03498105.8455,ed River Delta  21.03498105.8455,,,1
+Reggio Calabria Province,"Reggio Calabria  REG,Redzho-di-Kalabrija,Reggio Calabria,Reggio de Calabre,Reggio de Calabria,Reggio de Calàbria,Regg...38.11046715.661294",38.11046715.661294,,,1
+Riau Province,"Riau Islands  Kepulauan Riau,Provinsi Kepulauan Riau,Riau Islands,Riau-oyane,Riau-oyene,Riau-øyane,Riau-øyene0.63333107.01868","iau Islands  Kepulauan Riau,Provinsi Kepulauan Riau,Riau Islands,Riau-oyane,Riau-oyene,Riau-øyane,Riau-øyene0.63333107.01868",,,1
+Rigo subdistrict,"Rigo  Rigo,Rigo District-9.75147.8333333","igo  Rigo,Rigo District-9.75147.8333333",,,1
+Rio Grande Do Sul,"Rio de Janeiro  Ciutat de Rio de Janeiro,Gorad Rya-deh-Zhanehjra,RIO,Rio,Rio De Janeiro,Rio d Janeiro,Rio de Janeiro...-22.90642-43.18223",-66.08865,,,1
+Rio San Juan,"Rio de Janeiro  Ciutat de Rio de Janeiro,Gorad Rya-deh-Zhanehjra,RIO,Rio,Rio De Janeiro,Rio d Janeiro,Rio de Janeiro...-22.90642-43.18223",-66.08865,,,1
+Rivers State,"Rivers State  Rivers,Rivers State4.7497422534755476.827659606933594","ivers State  Rivers,Rivers State4.7497422534755476.827659606933594",,,1
+Rocha ,"Rocha  Ciudad de Rocha,Roca,Rocha,Roca,locha,luo qia,rocha,rwcha,<U+0420><U+043E><U+0447><U+0430>,<U+054C><U+0578><U+0579><U+0561>,<U+0631><U+0648><U+0686><U+0627>,<U+0631><U+0648><U+0686><U+0627><U+060C> <U+06CC><U+0648><U+0631><U+0627><U+06AF><U+0648><U+0626><U+06D2>,<U+10E0><U+10DD><U+10E9><U+10D0>,<U+30ED><U+30C1><U+30E3>,<U+7F85><U+6070>,...-34.4833333-54.3333333",-88.8166666,,,1
+Rodrigues,"Rodrigues  Ile Rodrigues,Rodrigues,Île Rodrigues-19.70163.416","odrigues  Ile Rodrigues,Rodrigues,Île Rodrigues-19.70163.416",,,1
+Rombion Province,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Romblon Province,"Romblon Tugdan Airport  Paliparan ng Tugdan,Paluparan it Tugdan,RPVU,Romblon Tugdan Airport,TBH12.31195122.08008","omblon Tugdan Airport  Paliparan ng Tugdan,Paluparan it Tugdan,RPVU,Romblon Tugdan Airport,TBH12.31195122.08008",,,1
+Roncador Bank,Roncador Barrio18.2602363-66.74871,oncador Barrio18.2602363-66.74871,,,1
+Ryukyu,,,,,1
+Sago Prefecture,"Sago  Sagbe,Sagbé,Sago5.266996-5.916115","ago  Sagbe,Sagbé,Sago5.266996-5.916115",,,1
+Saint-Andre,Saint Andrew  Saint Andrew12.1166667-61.65,aint Andrew  Saint Andrew12.1166667-61.65,,,1
+Saint-Louis,"Saint Louis  Saint Louis,St Louis,sheng lu yi qu,<U+8056><U+8DEF><U+6613><U+5340>-4.633333355.4333333","aint Louis  Saint Louis,St Louis,sheng lu yi qu,<U+8056><U+8DEF><U+6613><U+5340>-4.633333355.4333333",,,1
+Saint-Paul ,Saint-Paul  Saint-Paul-21.00960755.271336,aint-Paul  Saint-Paul-21.00960755.271336,,,1
+Saint Gilles ,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+Saint Leu,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+Sainte-Marie,"St Mary  Saint Mary,Sainte Mathie,Sainte-Marie,St Mary,St. Mary,St. Mary's,St. Mary’s49.2358333-2.1722222","t Mary  Saint Mary,Sainte Mathie,Sainte-Marie,St Mary,St. Mary,St. Mary's,St. Mary’s49.2358333-2.1722222",,,1
+Sainte-Suzanne,"Sainte-Suzanne  Sainte-Suzanne,Sent Sizan,Sent Sizàn19.5-72.0333333","ainte-Suzanne  Sainte-Suzanne,Sent Sizan,Sent Sizàn19.5-72.0333333",,,1
+Saipan,"Saipan  Saipan,saipan,<U+C0AC><U+C774><U+D310>15.16847145.74081","aipan  Saipan,saipan,<U+C0AC><U+C774><U+D310>15.16847145.74081",,,1
+Salerno,"Provincia di Salerno  Provincia di Salerno,SA,Salerne,Salerno40.4515.2666667","rovincia di Salerno  Provincia di Salerno,SA,Salerne,Salerno40.4515.2666667",,,1
+Salerno Province,"Salerno  QSR,Salernas,Salerne,Salerno,Salernu,Salernum,Salierno,salyrnw,sareruno,<U+0421><U+0430><U+043B><U+0435><U+0440><U+043D><U+043E>,<U+0633><U+0627><U+0644><U+064A><U+0631><U+0646><U+0648>,<U+30B5><U+30EC><U+30EB><U+30CE>40.67545499371246414.793277245858185","alerno  QSR,Salernas,Salerne,Salerno,Salernu,Salernum,Salierno,salyrnw,sareruno,<U+0421><U+0430><U+043B><U+0435><U+0440><U+043D><U+043E>,<U+0633><U+0627><U+0644><U+064A><U+0631><U+0646><U+0648>,<U+30B5><U+30EC><U+30EB><U+30CE>40.67545499371246414.793277245858185",,,1
+Salinas Bay,"Salinas  SAL,Salinas18.0174642-66.2537789","alinas  SAL,Salinas18.0174642-66.2537789",,,1
+Samaná Province,"Samaná  AZS,Distrito de Samana,Provincia de Samana,Provincia de Samaná,Samana,Samana Province,Samaná,Samaná ...19.25-69.45",19.25-69.45,,,1
+San Andres and Providencia Archipelago,"San José  Gorad San-Khaseh,SJO,San Chose,San Chose,San Hose,San Jose,San Jose de Costa Rica,San Jose i Costa R...9.9333333-84.0833333",9.9333333-84.0833333,,,1
+San Andrés archipelago,"San José  Gorad San-Khaseh,SJO,San Chose,San Chose,San Hose,San Jose,San Jose de Costa Rica,San Jose i Costa R...9.9333333-84.0833333",9.9333333-84.0833333,,,1
+San Blas,"San José  Gorad San-Khaseh,SJO,San Chose,San Chose,San Hose,San Jose,San Jose de Costa Rica,San Jose i Costa R...9.9333333-84.0833333",9.9333333-84.0833333,,,1
+San Blas coast,"San José  Gorad San-Khaseh,SJO,San Chose,San Chose,San Hose,San Jose,San Jose de Costa Rica,San Jose i Costa R...9.9333333-84.0833333",9.9333333-84.0833333,,,1
+San Carlos,"San José  Gorad San-Khaseh,SJO,San Chose,San Chose,San Hose,San Jose,San Jose de Costa Rica,San Jose i Costa R...9.9333333-84.0833333",9.9333333-84.0833333,,,1
+Sandaun Province,"West Sepik Province  Sandaun,Sandaun Province,West Sepih District,West Sepik,West Sepik Province-3.5142.0","est Sepik Province  Sandaun,Sandaun Province,West Sepih District,West Sepik,West Sepik Province-3.5142.0",,,1
+Sanma Province,"Sanma Province  Sanma,Sanma Province,Santo/Malo-15.3333333166.75","anma Province  Sanma,Sanma Province,Santo/Malo-15.3333333166.75",,,1
+Santa Catarina State,"Santa Ana  Cihuatehuahcan,Gorad Santa-Ana,Santa Ana,Santa-Ana,Santaana,sanata-ana,santaana,sheng an na,S<U+03AC><U+03BD>ta <U+0386><U+03BD>...13.9941667-89.5597222",13.9941667-89.5597222,,,1
+Santa Cruz Island,"Santa Ana  Cihuatehuahcan,Gorad Santa-Ana,Santa Ana,Santa-Ana,Santaana,sanata-ana,santaana,sheng an na,S<U+03AC><U+03BD>ta <U+0386><U+03BD>...13.9941667-89.5597222",13.9941667-89.5597222,,,1
+Santa Elena,"Santa Ana  Cihuatehuahcan,Gorad Santa-Ana,Santa Ana,Santa-Ana,Santaana,sanata-ana,santaana,sheng an na,S<U+03AC><U+03BD>ta <U+0386><U+03BD>...13.9941667-89.5597222",13.9941667-89.5597222,,,1
+Santa Isabel Province,"Santa Ana  Cihuatehuahcan,Gorad Santa-Ana,Santa Ana,Santa-Ana,Santaana,sanata-ana,santaana,sheng an na,S<U+03AC><U+03BD>ta <U+0386><U+03BD>...13.9941667-89.5597222",13.9941667-89.5597222,,,1
+Santiago Island,"Santiago  Ciles Santjagas,CiudadSantiago,SCL,Sanctiacobi,Sant'jago,Santiago,Santiago de Chile,Santiago de Xile...-33.456937736669424-70.64826965332031",-104.1051377,,,1
+Santo Domingo,"Santo Domingo  Ciudad Trujillo,SDQ,Saint Domingue,Santo Domingo,Santo Domingo City,Santo Domingo de Guzman,Santo Do...18.47186-69.89232",18.47186-69.89232,,,1
+Sants-Montjic,Sants-Montjuïc41.349980339875062.1449511890511386,ants-Montjuïc41.349980339875062.1449511890511386,,,1
+Savona,"Provincia di Savona  Provincia di Savona,SV,Savona,Savone44.38.2666667","rovincia di Savona  Provincia di Savona,SV,Savona,Savone44.38.2666667",,,1
+Sepang,Sepang  2.75101.6666667,epang  2.75101.6666667,,,1
+Sfax,"Gouvernorat de Sfax  Gouvernorat de Sfax,Safaqis,Sfax,Wilayat Safaqis,Wilayat Safaqis,Safaqis34.7510.4166667","ouvernorat de Sfax  Gouvernorat de Sfax,Safaqis,Sfax,Wilayat Safaqis,Wilayat Safaqis,Safaqis34.7510.4166667",,,1
+Shanghai,"Shanghai  Municipalite de Shanghai,Municipalité de Shanghai,Shang-hai Shih,Shanghai,Shanghai Municipality,Shan...31.166667121.416667",31.166667121.416667,,,1
+"Sharjah, ","Sharjah  Al Sharjah,Ash 'Mariqah,Ash Shariqa,Ash Shariqah,Ash Shariqa,Ash Shariqah,Ash ’Mariqah,Ash-Shariqah ...25.33737455.412056",25.33737455.412056,,,1
+Sharon,"Charron  Charron,Sharon,Sharron,sha er long,<U+0428><U+0430><U+0440><U+043E><U+043D>,<U+0428><U+0430><U+0440><U+0440><U+043E><U+043D>,<U+6C99><U+5C14><U+9F99>46.2942-1.1053","harron  Charron,Sharon,Sharron,sha er long,<U+0428><U+0430><U+0440><U+043E><U+043D>,<U+0428><U+0430><U+0440><U+0440><U+043E><U+043D>,<U+6C99><U+5C14><U+9F99>46.2942-1.1053",,,1
+Shat-Al-Arab River,"Shatt al ArabArvand Rud,Arvand Rud,Basra River,Basra Rud,River Shatt al `Arab,Shat ul Arab,Shatt al `Arab,Shatt e...29.94035788481329548.59596252441406",29.94035788481329548.595,,,1
+Shatt-el-Arab River,"Shatt al ArabArvand Rud,Arvand Rud,Basra River,Basra Rud,River Shatt al `Arab,Shat ul Arab,Shatt al `Arab,Shatt e...29.94035788481329548.59596252441406",29.94035788481329548.595,,,1
+Shefa Province,"Shefa Province  Shefa,Shefa Province-17.5894168.36731","hefa Province  Shefa,Shefa Province-17.5894168.36731",,,1
+Shizuoka Prefecture,"Shizuoka  FSZ,Gorad Sidzuoka,Lungsod ng Shizuoka,Shidzuoka,Shizuoka,Shizuoka-shi,Shizuokashi,Siduoka,Sidzuok,S...34.983333138.383333",34.983333138.383333,,,1
+Simpson Bay,"Fort Simpson Airport  Aeroport de Fort Simpson,Aeropuerto de Fort Simpson,Aéroport de Fort Simpson,CYFS,Flughafen Fort Sim...61.760153-121.236525",61.760153-121.2,,,1
+Singapore Harbor,"Singapore  SIN,Sin-ka-po,Singapore,Singapore City,Singapour,Singapur,Singapura,Sinkapoure,Sîn-kâ-po,Tumasik,cin...1.28966883937733103.850069046021",1.28966883937733103.850069,,,1
+Skagerrak arm of the North Sea,"Skagerrak  Skagerack,Skagerak,Sleeve57.759.0","kagerrak  Skagerack,Skagerak,Sleeve57.759.0",,,1
+Slovenia,"Slovenia  An tSlovein,An tSlóvéin,Eslobenia,Eslobenya,Eslovenia,Eslovenia - Slovenija,Eslovenya,Eslovènia,Eslo...46.08333315.0",46.08333315.0,,,1
+Socotra Islands,"Soqatra  Socotra,Soqatra,Soqatra Governorate12.5022853.82065","oqatra  Socotra,Soqatra,Soqatra Governorate12.5022853.82065",,,1
+Sofala Province,"Beira  BEW,Beira,Bejra,bei la,beila,beira,byra  mwzambyk,byyra  mwzmbyq,<U+039C>p<U+03AD><U+03B9><U+03C1>a,<U+0411><U+0435><U+0438><U+0440><U+0430>,<U+0411><U+0435><U+0439><U+0440><U+0430>,<U+0628><U+06CC><U+0626><U+0631><U+0627><U+060C> <U+0645><U+0648><U+0632><U+0645><U+0628><U+06CC><U+0642>,<U+0628>...-19.843611134.8388889",-19.843611134.8388889,,,1
+"Somewhere between Philadelphia and Hiogo, Japan",St. Somewhere AirportSt. Somewhere Airport35.0239698-89.2037498,t. Somewhere AirportSt. Somewhere Airport35.0239698-89.2037498,,,1
+Sonora,"Sonora  Estado de Sonora,SON,Sonora,Sonora osariik,altar  sonora,sonora zhou,suo nuo la zhou,<U+0421><U+043E><U+043D><U+043E><U+0440><U+0430>,<U+30BD><U+30CE><U+30E9><U+5DDE>,<U+7D22><U+8AFE><U+62C9>...29.666667-110.5",29.666667-110.5,,,1
+South Atlantic Ocean,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South Carolina ,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South Ch'ungch'ong Province,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South China Sea 200 miles from Hong Kong,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South Chungcheong Province,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+"South Coast, East New Britain","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+"South Island, near Karitane north of Dunedin","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South Island?,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South Korea,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South of the Equator ,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South Pacific Ocean,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+South shore ,"South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+"South Sinai, Gulf of Aqaba","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","outh  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921",,,1
+Southern Cyprus,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+Southern District,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+Southern Japan,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+Southern Province,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+Southern Thailand,"Southern Asia  Asia Meridional,Asia del Sur,Asia meridionale,Asie du Sud,Juzhnaja Azija,Pietu Azija,Pietu Azija,Piv...21.28937435586042478.662109375",21.28937435586042478.6,,,1
+Southwest coast,"Sud-Ouest  Southwest,Sud-Ouest,Sud-Ouest Region10.5-3.2","ud-Ouest  Southwest,Sud-Ouest,Sud-Ouest Region10.5-3.2",,,1
+St Helena,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+St John's,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+St. Anne,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+St. Catherine,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+St. Georges ,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+St. Mary's Parish,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+St. Mary Parish,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+St. Thomas Bay,"St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",59.9386330.31413,,,1
+Strait of Malacca,"Strait of Malacca  Detroit de Malacca,Détroit de Malacca,Malacca Strait,Malakka Strait,Selat Melaka,Straat Malaka,Straa...5.0218699.16466",5.0218699.16466,,,1
+Strait of Messina,"Strait of Malacca  Detroit de Malacca,Détroit de Malacca,Malacca Strait,Malakka Strait,Selat Melaka,Straat Malaka,Straa...5.0218699.16466",5.0218699.16466,,,1
+Sucre,"Sucre  Municipio de Sucre,Sucre8.8333333-74.75","ucre  Municipio de Sucre,Sucre8.8333333-74.75",,,1
+Suez,"Suez  As Suways,El Suez,Mohafazat El Sweis,Muhafazat as Suways,Mu<U+1E29>afaz¸at as Suways,Suez,Suez Governorate,...29.732.3",29.732.3,,,1
+Suez Canal,"Suez  Al Qulzum,As Suways,Clysma,El Seweis,El Suweis,El-Qulzum,Es Suweis,Klysma,Souez,Suais,Suec,Suecas,Su...29.97371432.526267",29.97371432.526267,,,1
+Sumatra,,,,,1
+Surigao del Norte,"Surigao CityCiudad ti Surigao,Dakbayan sa Surigao,Lungsod ng Surigao,SUG,Serigao Siti,Surigao,Surigao City,Surig...9.789125.495",9.789125.495,,,1
+Syracuse,"Syracuse  Provincia di Siracusa,SR,Siracusa,Syracuse,Syrakus37.0880488595226915.27923583984375","yracuse  Provincia di Siracusa,SR,Siracusa,Syracuse,Syrakus37.0880488595226915.27923583984375",,,1
+Tabasco,"Tabasco  Estado de Tabasco,Estat de Tabasco,TAB,Tabasco,ta ba si ke zhou,tabaskw,tabasuko zhou,<U+062A><U+0627><U+0628><U+0627><U+0633><U+0643><U+0648>,<U+30BF><U+30D0><U+30B9><U+30B3><U+5DDE>,...18.0-92.6666667",18.0-92.6666667,,,1
+Tabuk Province,"Tabuk  Gabouk,TUU,Tabouk,Tabuk,Tabukas,Tabuk,Taebuk,Tebuek,Tebuk,Tebük,Täbuk,ta bu ke,tabukeu,tabukk,tabuku...28.39980436.571505",28.39980436.571505,,,1
+Tafea Province,"Tafea Province  Tafea,Tafea Province-19.50948169.34849","afea Province  Tafea,Tafea Province-19.50948169.34849",,,1
+Tahiti,"Îles du Vent  Circonscription administrative des Iles du Vent,Circonscription administrative des Îles du Vent,Tahi...-17.5-149.5",-167,,,1
+Taipei Hsien,"Taipei  GJai Bac,Kota Taipei,Pan Kiao,Pan-ch'iao,Pan-ch'iao-chen,Pan-ch'iao-chieh,Pan-ch’iao,Pan-ch’iao-chen...25.047763121.531846",25.047763121.531846,,,1
+Taranto,"TarantoComune di Taranto,Gorad Taranta,Tarantas,Taranto,Tarantu,Tarent,Tarente,Tarento,Tarentum,Tàranto,Tàr...40.41702217.240102",40.41702217.240102,,,1
+Taranto province,"Taranto  TAR,Taranto,Tarde,Tarent,Tarente,Tarento,Tarento - Taranto,Tarentum,Tàrent,taranto,tarantw,<U+0422><U+0430><U+0440><U+0430><U+043D><U+0442><U+043E>,<U+062A>...40.4643817.24707",40.4643817.24707,,,1
+Tavenui,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Tel Aviv,"Tel Aviv  Lungsod ng Tel Aviv-Yafo,TLV,Tehl'-Aviu,Tel Avevs,Tel Aviv,Tel Aviv Yaffo,Tel Aviv Yafo,Tel Aviv-Jaf...32.08088334.780572",32.08088334.780572,,,1
+"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)","Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Teramo,"Teramo  Comune di Teramo,Gorad Cerama,Interamnium Praetutiorum,Teramas,Teramo,Teramu,Téramo,tai la mo,te ra ...42.66494413.717894",42.66494413.717894,,,1
+Territory of Cocos (Keeling) Islands,"Lakshadweep  LD,Laccadives,Lakkadivane,Lakkadivene,Lakshadweep,Laquedives,Minicoy and Amindivi Islands  Union Ter...10.9389672.28665",10.9389672.28665,,,1
+Thessaly,"Thessaly  Tessaglia,Thessalia,Thessalie,Thessalien,Thessaly,tesallia ju,Tessa<U+03BB><U+03AF>a,<U+D14C><U+C0B4><U+B9AC><U+C544> <U+C8FC>39.402244340292821.983642578125","hessaly  Tessaglia,Thessalia,Thessalie,Thessalien,Thessaly,tesallia ju,Tessa<U+03BB><U+03AF>a,<U+D14C><U+C0B4><U+B9AC><U+C544> <U+C8FC>39.402244340292821.983642578125",,,1
+Tiburon Peninsula,"Montaña El TiburónMontana El Tiburon,Montana de El Tiburon,Montaña El Tiburón,Montaña de El Tiburon,Sierra del Tiburon...15.6-87.5166667",15.6-87.5166667,,,1
+Toamasina Province,"Toamasina  TMM,Tamatave,Toamasina,Tuamasina,toamasina,to~uamashina,tu a ma xi na,twamasyna,<U+03A4><U+03BF>aµas<U+03AF><U+03BD>a,<U+0422><U+043E><U+0430><U+043C><U+0430><U+0441><U+0438><U+043D><U+0430>,...-18.14919578392498849.40234184265137",-18.14919578392498849.4023,,,1
+Tokyo Bay,"Tokyo  Edo,TYO,Tochiu,Tocio,Tokija,Tokijas,Tokio,Tokió,Tokjo,Tokyo,Toquio,Toquio - dong jing,Toquio - <U+6771><U+4EAC>,Tò...35.6895139.69171",35.6895139.69171,,,1
+Tokyo Prefecture,"Tokyo  Edo,TYO,Tochiu,Tocio,Tokija,Tokijas,Tokio,Tokió,Tokjo,Tokyo,Toquio,Toquio - dong jing,Toquio - <U+6771><U+4EAC>,Tò...35.6895139.69171",35.6895139.69171,,,1
+Tongatapu,"Tongatapu  Tongatapu,Tongatapu Island Division-21.133333-175.2","ongatapu  Tongatapu,Tongatapu Island Division-21.133333-175.2",,,1
+Transvaal,,,,,1
+Trelawney Province,Trelawney  Trelawney-17.533333330.45,relawney  Trelawney-17.533333330.45,,,1
+Trieste,"Provincia di Trieste  Provincia di Trieste,TS,Triest,Trieste45.71313.761164","rovincia di Trieste  Provincia di Trieste,TS,Triest,Trieste45.71313.761164",,,1
+Trois-Bassins,"Les Trois-Bassins  Les Trois-Bassins,Trois-Bassins-21.155.3","es Trois-Bassins  Les Trois-Bassins,Trois-Bassins-21.155.3",,,1
+Turtle Bogue,"Green Turtle Cay DistrictGreen Turtle Cay,Green Turtle Cay District26.833333-77.5","reen Turtle Cay DistrictGreen Turtle Cay,Green Turtle Cay District26.833333-77.5",,,1
+Tyrrenian Sea,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Umm al Qaywayan Province,"Umm Salal Mu<U+1E29>ammad  Umm Salal Mohammad,Umm Salal Muhammad,Umm Ses Salal,Umm Silal Mohammed,Umm Slal Mohammed,Umm es Sala...25.41523951.406474",25.41523951.40647,,,1
+United Arab Emirates,"Cameroon  Ca-mo-run,Ca-mo-run (Cameroon),Ca-mo-run,Ca-mo-run (Cameroon),Camaroes,Camarun,Camarões,Camarún,Came...6.012.5",6.012.5,,,1
+"Unknown, treated at Wick, SCOTLAND","AF name unknownAF name unknown,Gora Bayg-Sar31.136944466.7030556","F name unknownAF name unknown,Gora Bayg-Sar31.136944466.7030556",,,1
+Upolo,"Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0",23.0-102.0,,,1
+Valencia ,"Valencia  Balenzia,Gorad Valensija,Pa-lun-si-a,Pâ-lùn-sî-â,VLC,Valantsa,Valence,Valencia,Valencia - Valencia,V...39.4697524227712-0.377386808395386",39.4697524227712-0.37738680,,,1
+Valpariso Province,"Valparaiso  VPS,Val'paraiso,Valparaiso,Valparajso,Valpariso,bhyalapyariso,wa er pa lai suo,walparaysw  flwryda,<U+0412>...30.5085309-86.5027282",30.5085309-86.5027282,,,1
+Vancouver,Vancouver49.24861049345748-123.10784044343818,ancouver49.24861049345748-123.10784044343818,,,1
+Viscayan Sea,,,,,1
+Viti Levu group,"Fiji  Bidji,Feeje,Fichi,Fici,Ficiyuaens,Ficiyuäns,FidIi,Fidi,Fidji,Fidjieyjar,Fidj·i,Fidschi,Fidsi,Fidsí,F...-18.0178.0",-18.0178.0,,,1
+Wakaya Island,"Wakaya Island AirportKAY,NFNW-17.62964179.01053","akaya Island AirportKAY,NFNW-17.62964179.01053",,,1
+Wake Island,"Raleigh  Gorad Roli,RDU,Ralei,Raleigh,Rali,Roles,Roli,Rolis,Roles,Wake Court House,lolli,luo li,ra li,raley,r...35.772096-78.6386145",35.772096-78.6386145,,,1
+Wake Island (EnenKio),"Raleigh  Gorad Roli,RDU,Ralei,Raleigh,Rali,Roles,Roli,Rolis,Roles,Wake Court House,lolli,luo li,ra li,raley,r...35.772096-78.6386145",35.772096-78.6386145,,,1
+Walkers Cay,Walkers Wood18.31938611116124-77.07082127611426,alkers Wood18.31938611116124-77.07082127611426,,,1
+Wallis and Futuna,"Wallis and Futuna  'Uvea mo Futuna,Ilhas Wallis e Futuna,Kepulauan Wallis dan Futuna,Nisoi Ouallis kai Foutouna,Oileain...-13.3-176.2",-189.5,,,1
+West Africa,"West  Far West,Western United States51.52603957655882-131.1607270082519","est  Far West,Western United States51.52603957655882-131.1607270082519",,,1
+West coast,"West  Far West,Western United States51.52603957655882-131.1607270082519","est  Far West,Western United States51.52603957655882-131.1607270082519",,,1
+West of Ceylon (Sri  Lanka),"West  Far West,Western United States51.52603957655882-131.1607270082519","est  Far West,Western United States51.52603957655882-131.1607270082519",,,1
+Western Banks,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,1
+Western Caroline Islands (North Pacific Ocean),"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,1
+Western District,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,1
+Western Luzon Island,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,1
+Western Papuan Gulf,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,1
+Western Viscayas,"Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875",25.83944940206318543.24,,,1
+Woodlark Islands,Woodlark Basin-10.166667153.333333,oodlark Basin-10.166667153.333333,,,1
+Worcestershire,"Worcestershire  County of Worcestershire,WOR,Worcester,Worcestershire,Worcs52.1666667-2.1666667","orcestershire  County of Worcestershire,WOR,Worcester,Worcestershire,Worcs52.1666667-2.1666667",,,1
+Ysabel Island,"Gizo  GZO,Ghizo,Gizo,Gizo Government Station,gizo,<U+0413><U+0438><U+0437><U+043E>,<U+30AE><U+30BE>-8.103028156.841864","izo  GZO,Ghizo,Gizo,Gizo Government Station,gizo,<U+0413><U+0438><U+0437><U+043E>,<U+30AE><U+30BE>-8.103028156.841864",,,1
+Yucatan Channel,"Yucatán  Estado de Yucatan,Estado de Yucatán,Estat de Yucatan,Estat de Yucatán,Iucata,Iucatã,Jukatan,Jukatani...20.75-88.833333",20.75-88.833333,,,1
+Zambesi River,"Zambezi  BBZ,Balovale,Rio Zambeze,Sambesi,Sambesí,Zambesi,Zambeze,Zambezi,Zambeze,Zambèze,Zambézi,zan bi xi h...-13.54323223.104665",-13.54323223.104665,,,1
