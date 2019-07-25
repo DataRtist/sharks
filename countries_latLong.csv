@@ -1,0 +1,213 @@
+"","country","str","LatLong_raw","Freq"
+"1"," PHILIPPINES","Sarou7.91.1666667","",1
+"2"," TONGA","Sarou7.91.1666667","",3
+"3","ADMIRALTY ISLANDS","Admiralty Peak  Admiralty Peak-54.2197222-36.8330556","",1
+"4","AFRICA","África18.559593953133042-69.40351957690885","",1
+"5","ALGERIA","Algeria  'Aisilia,'Alekelia,Aildiria,Al Jaza'ir,Al Jaza’ir,Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash S...28.03.0",".03.0",1
+"6","AMERICAN SAMOA","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",3
+"7","ANDAMAN / NICOBAR ISLANDAS","Port Blair  Gorad Port-Blehr,IXZ,Port Blair,Port Bler,Port Bleras,Port-Blehr,Port-Bler,Portus Blairensis,bu lai ...11.6661392.74635",".11.6661392.74635",1
+"8","ANDAMAN ISLANDS","Port Blair  Gorad Port-Blehr,IXZ,Port Blair,Port Bler,Port Bleras,Port-Blehr,Port-Bler,Portus Blairensis,bu lai ...11.6661392.74635",".11.6661392.74635",1
+"9","ANGOLA","Angola  'Enikola,Africa Ocidental Portuguesa,An'nkola,Ang-go-la,Ang-go-la (Angola),Angola,Angola nutome,Ango...-12.518.5",".518.5",1
+"10","ANTIGUA","Antigua  28.3543557466028-13.9172393443046","",2
+"11","ARGENTINA","Argentina  'Asenitina,A Can GJinh (Argentina),Ac-hen-ti-na,Agy<U+025B>ntina,Ajantin,Ajentina,Alijantine,An Airgintin,A...-34.0-64.0","-34.0-64.0",1
+"12","ARUBA","Aruba  'Alupa,Aroba,Arobà,Aroumpa,Aruba,Aruba nutome,Arubae,Arubha,Arubo,Aruuba,Arúba,Arûba,Orileede Aruba,...12.5-69.9666667","-69.9666667",1
+"13","ASIA?","","",1
+"14","ATLANTIC OCEAN","South Atlantic Ocean  Atlantic Ocean,Oceano Atlantico Sur,Océano Atlántico Sur-45.0-15.0","",17
+"15","AUSTRALIA","Australia  'Aositelelia,Ahitereiria,An Astrail,An Astráil,Aostralia,Astralia,Austraalia,Austrailae,Australi,Aus...-25.0135.0","-25.0135.0",1364
+"16","AZORES","Azores  Acorerne,Acores,Asorane,Asorene,Autonomous Region of the Azores,Azoren,Azorene,Azorerna,Azorerne,Azo...37.808467864990234-25.4746615615758","808467864990234-25.4746615615758",5
+"17","BAHAMAS","Bahamas  Ba-ha-ma,Ba-ha-ma (Bahamas),Bagama Adalary,Bagami,Bagams'ki Ostrovi,Bagamskia astravy,Bagamskie ostr...25.04081549894912-77.3712158203125",".04081549894912-77.3712158203125",120
+"18","BAHREIN","Bahrain  Al Bahrayn,Al Ba<U+1E29>rayn,BAH,Ba-ren,Baareeni,Bachrain,Bachrein,Baharan,Bahareni,Bahareyini,Baharina,Bah...26.03333350.55",".03333350.55",1
+"19","BANGLADESH","Bangladesh  An Bhanglaideis,An Bhanglaidéis,Baangilaadish,Baengladesc,Banagaladesa,Bang-la-get,Bang-la-get (Bang...24.090.0",".24.090.0",1
+"20","BARBADOS","Barbados  Baabados,Baarbadoos,Babadosi,Bac-ba-got,Barabada,Barabadosi,Barabâda,Barbada,Barbadas,Barbade,Barbad...13.16453-59.55165","3.16453-59.55165",6
+"21","BAY OF BENGAL","Montego Bay  Bahia Montego,Bahía Montego,MBJ,Mantica Bahia,Montego,Montego Bay,Montego Bejus,Montego Bejus,Monteg...18.47116-77.91883","..18.47116-77.91883",1
+"22","BELIZE","Belize  An Bheilis,An Bheilís,Balize,Be-li-xe,Beilise,Beles,Belezos,Belice,Belice - Belize,Belici,Beliis,Bel...17.25-88.75","25-88.75",3
+"23","BERMUDA","Bermuda  BDA,Barmuda,Beirmiuda,Beirmiúda,Bemuda,Beremuda,Beremûda,Berimuda,Bermid,Bermioda,Bermoudes,Bermud a...32.33022-64.74003",".33022-64.74003",16
+"24","Between PORTUGAL & INDIA","Lac In Between47.27450708393-74.913497515954","",1
+"25","BRAZIL","Brazil  An Bhrasail,An Bhrasaíl,Ba Tay (Bra-xin),Ba Tây (Bra-xin),Baraasiil,Beresiil,Berezili,Birazil,Bra-xi...-10.0-55.0",".0-55.0",114
+"26","BRITISH ISLES","British West Indies  BWI,British West Indies18.0-68.0","",1
+"27","BRITISH NEW GUINEA","British West Indies  BWI,British West Indies18.0-68.0","",1
+"28","BRITISH VIRGIN ISLANDS","British West Indies  BWI,British West Indies18.0-68.0","",1
+"29","BRITISH WEST INDIES","British West Indies  BWI,British West Indies18.0-68.0","",1
+"30","BURMA","Myanmar  Barmanie,Bimani,Birimaniya,Birma,Birma (Myanmar),Birmania,Birmania (Myanmar),Birmania/Myanmar,Birman...21.096.0",".096.0",4
+"31","CANADA","Canada  Ca-na-da,Ca-na-da,Canada,Canada (Gia Na GJai),Canada (Gia Nã Ð<U+1EA1>i),Canadà,Canadá,Ceanada,Kanada,Kanad...60.10867046303597-113.642578125","10867046303597-113.642578125",12
+"32","CAPE VERDE","Cape Town  Altepetl In Cabo,Ar Chab,CPT,Cape Toun,Cape Town,Cidade do Cabo,Cita del Cap,Citati du Capu,Citati d...-33.92583918.423218","-33.92583918.423218",3
+"33","CARIBBEAN SEA","Caribbean  Caraibe,Caraibi,Caraïbe,Caribbean,Caribe,Karibi,Karibik,Kariby,alkaryby,karibu de fang,<U+041A><U+0430><U+0440><U+0438><U+0431><U+0438>,<U+041A><U+0430><U+0440><U+0438><U+0431><U+044B>...20.385825381874263-72.333984375","20.385825381874263-72.333984375",8
+"34","CAYMAN ISLANDS","Cayman Islands  'Otumotu Keimeni,Awon Erekusu Kaiman,Azua Ngunde  Kaimaeni,Bama Gun,Bisanga bya Kayima,Bisanga bya K...19.5-80.6666667"," K...19.5-80.6666667",2
+"35","CENTRAL PACIFIC","Central Africa  Africa Central,Africa centrale,Afrique centrale,Central Africa,Central'na Afrika,Central'naja Afrika...-2.0210651187669924.697265625","ka...-2.0210651187669924.697265625",2
+"36","CEYLON","Sri Lanka  Ceilan,Ceilán,Cejlono,Ceylon,Democratic Socialist Republic of Sri Lanka,Dominion of Ceylon,Ilankaic ...7.7580.75","7.7580.75",3
+"37","CEYLON (SRI LANKA)","Sri Lanka  Ceylan,Ceylon,Lanka,Sri Lanka,Taprobane7.6063280.71648","",1
+"38","CHILE","Chile  An t-Sile,An tSile,Cayile,Chi-le,Chi-le (Chile),Chi-lê,Chi-lê (Chile),Chiilii,Chile,Chili,Chilia,Chi...-30.0-71.0","0-71.0",8
+"39","CHINA","China  Althydulydveldid Kina,Alþýðulýðveldið Kína,An tSin,An tSín,Caina,Caina  Sin,Cayina,Chaina,China,Chin...35.0105.0","105.0",9
+"40","Coast of AFRICA","Gold Coast  City of Gold Coast,Costa Dorada,Gold,Gold Coast,Gold Koust,OOL,gorudokosuto,huang jin hai an,<U+0413><U+043E><U+043B><U+0434> <U+041A><U+043E>...-28.00029153.430878",".-28.00029153.430878",1
+"41","COLOMBIA","Colombia  An Choloim,An Cholóim,Co-lom-bi-a,Co-lom-bi-a (Colombia),Coloimbia,Colombia,Colombie,Colombié,Columb...4.0-73.25",".0-73.25",1
+"42","COLUMBIA","Colombia  An Choloim,An Cholóim,Co-lom-bi-a,Co-lom-bi-a (Colombia),Coloimbia,Colombia,Colombie,Colombié,Columb...4.0-73.25",".0-73.25",9
+"43","COMOROS","Comoros  Al Qumur,Bizinga by'eKomoro,Co-mo,Co-mo (Comoros),Comor-szigetek,Comoras,Comore,Comore-eilande,Comor...-12.23332589158509344.445533752441406","2.23332589158509344.445533752441406",1
+"44","COOK ISLANDS","ChicagoCHI,Cekaga,Chi-ka-ko,Chi-kâ-kô,Chicago,Chicagu,Chikago,Cikaga,Cikago,Cikaqo,E-Chicago,Gorad Chykaga,...41.850033-87.6500523","50033-87.6500523",1
+"45","COSTA RICA","Ivory Coast  Aibari Kwas,Aibori Kot,Akte Elephantodontos,Akte Elephantostou,An Costa Eabhair,An Cósta Eabhair,Aod...8.0-5.5","..8.0-5.5",17
+"46","CRETE","Crete  Creta,Crete,Crète,Kreeta,Kreta,Kriti,an Chreit,an Chréit,keuliti ju,<U+039A><U+03C1><U+03AE>t<U+03B7>,<U+D06C><U+B9AC><U+D2F0> <U+C8FC>35.155845702265424.89501953125","25",2
+"47","CROATIA","Croatia  An Chroit,An Chróit,Chorvatsko,Chorvátsko,Chorwacja,Chorwatska,Cravuazie,Cro-a-ti-a,Cro-a-ti-a (Croa...45.166666715.5",".166666715.5",34
+"48","CUBA","Cuba  Ciwba,Cu Ba,Cu-ba,Cuba,Cubba,Cúba,Isla Juana,Kiba,Kioba,Kiobà,Kiuba,Kiumba,Kiupa,Kouba,Kuba,Kuba nut...22.0-79.5","79.5",46
+"49","CURACAO","Curaçao  CUR,Country of Curacao,Country of Curaçao,Curacao,Curazao,Curaçao,Kjurasao,Korsou,Kourasao,Kòrsou,Pa...12.166667-68.966667",".166667-68.966667",1
+"50","CYPRUS","Cyprus  An Chipir,Chip,Chipre,Chipre - Kypros,Chipre - <U+039A><U+03CD>p<U+03C1><U+03BF><U+03C2>,Chipro,Chypre,Cipar,Ciper,Cipra,Cipri,Cipro,Ci...35.033.0","033.0",1
+"51","DIEGO GARCIA","San Diego  Davis' Folly,Didacopolis,Gorad San-Dyega,Graytown,Lungsod ng San Diego,New San Diego,SAN,San Diegas,...32.71571-117.16472","32.71571-117.16472",1
+"52","DJIBOUTI","Djibouti  Afars and Issas,Chibuti,Ciboti,Cibutaen,Cibuti,Cibutän,Cote Francaise des Somalis,Cîbûtî,Côte França...11.83333342.5","1.83333342.5",1
+"53","DOMINICAN REPUBLIC","Dominican House of Studies  Dominican Home of Studies,Dominican House of Studies38.931427-76.9988062","",7
+"54","ECUADOR","Ecuador  'Ekuetoa,E-cu-a-go,E-qu-a-go (Ecuador),Eacuador,Eacuadór,Ecuador,Ecwador,Ehkvador,Ekoatera,Ekouador,...-1.25-78.25",".25-78.25",9
+"55","EGYPT","Egypt  'Isipite,AEgypten,Aegyptus,Agypten,Ai Cap,Ai C<U+1EAD>p,Aigyptos,Aikupito,Al Iqlim al Janubi,Al Iqlim al Mi...27.030.0","30.0",41
+"56","EGYPT ","Egypt  'Isipite,AEgypten,Aegyptus,Agypten,Ai Cap,Ai C<U+1EAD>p,Aigyptos,Aikupito,Al Iqlim al Janubi,Al Iqlim al Mi...27.030.0","30.0",2
+"57","EGYPT / ISRAEL","Egypt  'Isipite,AEgypten,Aegyptus,Agypten,Ai Cap,Ai C<U+1EAD>p,Aigyptos,Aikupito,Al Iqlim al Janubi,Al Iqlim al Mi...27.030.0","30.0",1
+"58","EL SALVADOR","Earth  Aarde,Earth,Er shary,Erde,Foeld,Föld,Ge,Globe,Globo,Jorden,La terdi,Lurra,Maa,Monde,Mondo,Mundo,Mund...0.00.0",".0",4
+"59","ENGLAND","England  'Ingilani,AEnglound,Anghiltera,Anghiltèra,Anglaterra,Anglatèrra,Anglete,Angleterre,Angletè,Angli,Ang...52.1604545577471-0.703125",".1604545577471-0.703125",23
+"60","EQUATORIAL GUINEA / CAMEROON","Equatorial Guinea  'Ekueta Kini,AEkvatorial Guinea,AEkvatorialguinea,AEquatoriaal-Guinea,AEquatorialguinea,An Ghuine Mh...1.710.5","ne Mh...1.710.5",1
+"61","FALKLAND ISLANDS","Falkland TroughFalkland Chasm,Malvinas Chasm,Malvinas Trough-53.0-54.0","",1
+"62","FEDERATED STATES OF MICRONESIA","Russia  Conaidhm na Ruise,Cónaidhm na Rúise,Den russiske foderasjon,Den russiske føderasjon,Errusia,Federati...60.0100.0","0100.0",1
+"63","Fiji","Fiji  Bidji,Feeje,Fichi,Fici,Ficiyuaens,Ficiyuäns,FidIi,Fidi,Fidji,Fidjieyjar,Fidj·i,Fidschi,Fidsi,Fidsí,F...-18.0178.0","178.0",3
+"64","FIJI","Fiji  Bidji,Feeje,Fichi,Fici,Ficiyuaens,Ficiyuäns,FidIi,Fidi,Fidji,Fidjieyjar,Fidj·i,Fidschi,Fidsi,Fidsí,F...-18.0178.0","178.0",62
+"65","FRANCE","France  An Fhrainc,An Fhraing,Bro-C'hall,Bufalansa,Falanise,Falanise,Falansia,Faláns<U+025B>,Farani,Faransa,Faransi...46.02.0","02.0",13
+"66","FRENCH POLYNESIA","French Southern Territories  Anyiehe Franseme nutome,Criocha Deisceartacha na Fraince,Críocha Deisceartacha na Fraince,De franske...-43.067.0","ince,De franske...-43.067.0",26
+"67","GABON","Gabon  An Ghabuin,An Ghabúin,El Gabon,Ga-bong,Ga-bong (Gabon),Ga-bông,Ga-bông (Gabon),Gaaboon,Gabao,Gabhoni...-1.011.75","11.75",1
+"68","GEORGIA","Georgia  A Chairtbheil,An tSeoirsia,Cheorchia,Djiordjiya,Dzordzija,Gah-lu-gek-a,Geolgia,Georgaen,Georgia,Geor...41.99998143.499905",".99998143.499905",1
+"69","GHANA","Ghana  Gaana,Gana,Gana - Ghana,Ganaa,Ganaea,Ganaen,Ganao,Gane,Ganäa,Ganän,Ganë,Gha-na,Gha-na (Ghana),Ghana,...8.1-1.2","1.2",1
+"70","GRAND CAYMAN","Grand Gedeh County  Grand Gedeh,Grand Gedeh County,Grand Jide County5.966667-8.2","",1
+"71","GREECE","Greece  A Ghreig,A Ghrèig,An Ghreig,An Ghréig,Bugereeki/Buyonaani,Ellada,Ellas,Elliniki Dhimokratia,Elliniki...39.022.0","022.0",24
+"72","GREENLAND","Greenland  An Ghraonlainn,Bang GJao,Bang Ð<U+1EA3>o,Gorolande,Gorolânde,Gorwendland,Gowelande,Graenland,Greenland,Gree...72.0-40.0","72.0-40.0",1
+"73","GRENADA","Grenada  Colony of Grenada,GND,Garnaad,Gelenad<U+025B>,Gerenada,Giranaadaa,Giriinaada,Girnada,Granada,Granada - Gren...12.1166667-61.6666667",".1166667-61.6666667",4
+"74","GUAM","Guam  GJao Gu-am,GUM,Guahan,Guam,Guam - US Unincorporated Organized Territory,Guam nutome,Guama,Guamas,Guw...13.478611569488931144.81834411621094","8611569488931144.81834411621094",4
+"75","GUATEMALA","Guatemala  Cuauhtemallan,Cuauhtemallan,Goa-te-ma-la,Goa-tê-ma-la,Goatemala,Goatemalà,Gouatemala,Guatamala,Guate...15.5-90.25","15.5-90.25",1
+"76","GUINEA","Guinea  An Ghuine,Franzosisch-Guinea,Französisch-Guinea,French Guinea,Ghi-ne,Ghi-ne (Guinea),Ghi-nê,Ghi-nê (...10.833333-10.666667","833333-10.666667",3
+"77","GULF OF ADEN","Gulf Province  Gulf,Gulf District,Gulf Province-7.724600166486452145.08544921875","",1
+"78","GUYANA","Guyana  An Ghuain,An Ghuáin,British Guiana,Co-operative Republic of Guyana,Gajana,Gajana,Gayana,Gayâna,Giana...5.0-59.0","-59.0",3
+"79","HAITI","Haiti  Aite,Aiti,Ayiti,Gaici,Gaiti,Ha-i-ti,Ha-i-ti (Haiti),Haiiti,Haiti,Haiti - Haiti,Haiti nutome,Haitia,H...19.07582-72.29616","7582-72.29616",3
+"80","HONDURAS","Honduras  Ganduras,Gonduras,Hon-gu-rat,Hon-gu-rat (Honduras),Hondiorasy,Hondouras,Hondourasse,Honduraen,Hondur...15.0-86.5","5.0-86.5",4
+"81","HONG KONG","Changwat Mae Hong Son  Changwat Mae Hong Son,Mae Hong Son,Mae Hong Sorn,Mae Rong Son,Mae Rong Sorn,Maehongsorn,Mao Hong Son...18.7597.9166667"," Hong Son...18.7597.9166667",24
+"82","ICELAND","Iceland  'Aisilani,Aesland,Ai-xo-len,Ai-xo-len (Iceland),Ai-xo-len,Ai-xo-len (Iceland),Aisalan,Aiseland nutom...65.0-18.0",".0-18.0",2
+"83","INDIA","India  'Inia,'Initia,An GJo,An India,Barat,Barato,Bharat,Bharato,Buyindi,Ehnehtkhehg,End,Ende,Ennde,Enndo,E...22.079.0","79.0",40
+"84","INDIAN OCEAN","Southern Asia  Hindio,India,Southern Asia,Subcontinente Indio22.207749178410876.97021484375","",7
+"85","INDIAN OCEAN?","Southern Asia  Hindio,India,Southern Asia,Subcontinente Indio22.207749178410876.97021484375","",1
+"86","INDONESIA","Indonesia  'Initonesia,An Indineis,An Indinéis,Dutch East Indies,Endonezi,Endonezya,Enndonesii,Enndonezii,In-go...-5.0120.0","-5.0120.0",23
+"87","IRAN","Iran  'Iulaani,An Iarain,An Iaráin,Den Islamiske Republik Iran,Ehron,Empire of Iran,Eran,Eron,I-ran,Iiraan...32.053.0","3.0",29
+"88","IRAN / IRAQ","Iran  'Iulaani,An Iarain,An Iaráin,Den Islamiske Republik Iran,Ehron,Empire of Iran,Eran,Eron,I-ran,Iiraan...32.053.0","3.0",1
+"89","IRAQ","Iraq  'Iulaaki,Al Jumhuriyah al `Iraqiyah,Al Jumhuriyah al ‘Iraqiyah,Al `Iraq,Al ‘Iraq,An Iaraic,An Iaráic...33.044.0","4.0",12
+"90","IRELAND","Ireland  'Aealani,Aereland,Ai-len,Aialan,Airija,Ayalan,Ayalandi,Ayrlaand,Cong hoa Ireland,C<U+1ED9>ng hòa Ireland,De...53.0-8.0",".0-8.0",2
+"91","ISRAEL","Israel  'Isileli,Dawlat Isra'il,Dawlat Isra’il,Eretz Yisrael,Erez Yisra'el,Ere<U+1E95> Yisra’el,I-xra-en,Iisrael,Io...31.534.75","534.75",7
+"92","ITALY","Italy  'Itali,'Itaria,An Eadailt,An Iodail,An Iodáil,Etalie,Itaalia,Itaalje,Itaglia,Itali,Italia,Italia (Y)...42.833333312.8333333","33333312.8333333",72
+"93","ITALY / CROATIA","Italy  'Itali,'Itaria,An Eadailt,An Iodail,An Iodáil,Etalie,Itaalia,Itaalje,Itaglia,Itali,Italia,Italia (Y)...42.833333312.8333333","33333312.8333333",1
+"94","JAMAICA","Jamaica  Camayka,Camekeaen,Camekeän,Chamaica,D'amajka,Djamaika,Dzamaika nutome,Dzhamajka,Gamajka,Giamaica,Gia...18.166667-77.25",".166667-77.25",28
+"95","JAPAN","Japan  An Iapan,An tSeapain,An tSeapáin,Aponia,Bina'adaaltzózí Diné'i' Bikéyah,Caponia,Chapan,Chapon,Chapón...35.6853569043379139.753088951111","853569043379139.753088951111",34
+"96","JAVA","","",1
+"97","JOHNSTON ISLAND","Johnston Atoll  Atol Johnston,Atoll de Johnston,Atolle Tzonston,Atollo Johnston,Atolon Johnston,Atolón Johnston,Dzho...16.7282762596585-169.534277915955","ho...16.7282762596585-169.534277915955",2
+"98","KENYA","Kenya  A Cheinia,An Cheinia,An Chéinia,Cenia,Chenia,Jamhuri ya Kenya,Ke-ni-a,Ke-ni-a (Kenya),Keenia,Keeniya...1.038.0","8.0",10
+"99","KIRIBATI","Kiribati  Ciribeas,Gilbert Islands,Karibati,Khiribati,Ki-ri-ba-ti,Kilipasi,Kiribari,Kiribas,Kiribasi,Kiribat,K...1.421172.984",".421172.984",6
+"100","KOREA","South Korea  An Choire Theas,An Chóiré Theas,Anaafo Koria,Anyiehe Korea nutome,Caoli,Chosen,Choson,Choson,Chyosyo...36.5127.75","..36.5127.75",1
+"101","KUWAIT","Kuwait  Al Kuwait,Al Kuwayt,Al Kuweit,Ciwait,Co-oet,Coweit,Cuait,Cubhait,Cuvaitum,Cuáit,Cô-oét,Dawlat al Kuw...29.547.75","547.75",1
+"102","LEBANON","Lebanon  Al Jumhuriyah al Lubnaniyah,Al Jumhuriyah al Lubnaniyah,An Liobain,An Liobáin,Etat du Grand Liban,La...33.83333335.833333",".83333335.833333",3
+"103","LIBERIA","Liberia  An Libeir,An Libéir,Laberiya,Laeberia,Laipelia,Laybeeriya,Li-be-ri-a,Li-bê-ri-a,Libeeria,Libeiria,Li...6.5-9.5","5-9.5",3
+"104","LIBYA","Libya  Al Jamahiriyah al 'Arabiyah al Libiyah ash Sha'biyah al Ishtirakiyah,Al Jamahiriyah al ‘Arabiyah al ...28.017.0","17.0",6
+"105","MADAGASCAR","Madagascar  Bukini,Democratic Republic of Madagascar,Grande-Ile,Grande-Terre,Grande-Île,Ile Rouge,La Grand Ile d...-20.047.0",".-20.047.0",8
+"106","MALAYSIA","Malaysia  An Mhalaeisia,Federation of Malaya,Federation of Malaysia,Ma Lai (Ma-lay-xi-a),Ma-lay-xi-a,Malaezia,...2.5112.5",".5112.5",5
+"107","MALDIVE ISLANDS","Maldives  Bizinga by'eMalidive,Dhivehi Raajje,Dhivehi Raajjeyge Jumhooriyyaa,Insulae Maldivae,Maaldiqeen,Madiv...3.273.0",".273.0",1
+"108","MALDIVES","Maldives  Bizinga by'eMalidive,Dhivehi Raajje,Dhivehi Raajjeyge Jumhooriyyaa,Insulae Maldivae,Maaldiqeen,Madiv...3.273.0",".273.0",1
+"109","MALTA","Malta  Insula Malta,Isla de Malta,MLA,Maalda,Mal'ta,Malita,Malite,Malit<U+025B>,Malta,Malta Island,Malta nutome,Ma...35.91666714.433333","1666714.433333",5
+"110","MARSHALL ISLANDS","Boaz  Boaz,bo a si,bo'aja,boazu,bwaz,<U+0411><U+043E><U+0430><U+0437>,<U+0628><U+0648><U+0627><U+0632>,<U+092C><U+094B><U+0906><U+091C>,<U+30DC><U+30A2><U+30BA>,<U+6CE2><U+963F><U+65AF>34.2006503-86.1663655","",13
+"111","MARTINIQUE","Martinique  La Martinique,Maertiniki,Marcinika,Maritiniiki,Maritiniki,Martainic,Martainíc,Martinica,Martinik,Mar...14.6666667-61.0",".14.6666667-61.0",3
+"112","MAURITIUS","Mauritius  Ile Maurice,Ile de France,Isle de France,Izinga rya Morise,MRU,Maorisy,Maritius,Maulitiusi,Maurice,M...-20.357.5833333","-20.357.5833333",10
+"113","MAYOTTE","Mayotte  Collectivite Territoriale de Mayotte,Collectivité Territoriale de Mayotte,Departement Mayotte,Maeyot...-12.833333345.1666667","2.833333345.1666667",1
+"114","MEDITERRANEAN SEA","Mediterranean Region  Akdeniz Bolgesi,Akdeniz Bölgesi36.78713134.220013","",2
+"115","MEXICO","Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0","0-102.0",93
+"116","MEXICO ","Mexico  Bek-se-ko,Be<U+030D>k-se-ko,Estados Unidos Mexicanos,IMekisikho,IMekisiko,Maegsaego,Maexikaen,Makasiko,Maxi...23.0-102.0","0-102.0",1
+"117","MICRONESIA","Micronesia  An Mhicrineis,An Mhicrinéis,Awon Ipinle Asepapo ile Mikronesia,Dewlete Mikronezyaye Federali,Dewlete...6.924158.162",".6.924158.162",3
+"118","MID ATLANTIC OCEAN","Mid Western  Mid Western,jungseobu gaebal jigu,madhya-pascimancala vikasa ksetra,<U+092E><U+0927><U+094D><U+092F>-<U+092A><U+0936><U+094D><U+091A><U+093F><U+092E><U+093E><U+091E><U+094D><U+091A><U+0932> <U+0935><U+093F><U+0915><U+093E><U+0938> <U+0915><U+094D><U+0937><U+0947><U+0924><U+094D><U+0930>,<U+C911>...29.059771002186282.313346862793","..29.059771002186282.313346862793",5
+"119","MONACO","Monaco  Manaka,Manako,Mo-na-co,Monaakoo,Monaco,Monaco - Monaco,Monacó,Monacô,Monakaen,Monakas,Monakho,Monako...43.7314140137697.41903305053711","7314140137697.41903305053711",1
+"120","MONTENEGRO","Montenegro  Am Monadh Neagrach,Bgyf<U+04C0>yc<U+04C0>ej,Carnogorska,Carnogórska,Cerna Hora,Cernogoriya,Cernoqoriya,ChIegIermeg...42.7519.25",".42.7519.25",3
+"121","MOZAMBIQUE","Mozambique  Colonia de Mocambique,Colónia de Moçambique,Estado de Mocambique,Estado de Moçambique,Mazambik,Mo-da...-18.2535.0",".-18.2535.0",45
+"122","NAMIBIA","Namibia  An Namaib,Na-mi-bi-a (Namibia),Nam-mi-bi-a,Namibhiya,Namibi,Namibia,Namibia nutome,Namibie,Namibien,...-22.017.0","2.017.0",2
+"123","NETHERLANDS ANTILLES","Netherlands  Alankomaat,An Isiltir,An Ísiltír,Bas Payis,Belanda,ENetherlands,Gollandii,Gollandija,Ha Lan,Herbeher...52.255.75","..52.255.75",1
+"124","NEVIS","","",1
+"125","NEW BRITAIN","New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729","0.7142691-74.0059729",6
+"126","NEW CALEDONIA","New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729","0.7142691-74.0059729",55
+"127","NEW GUINEA","New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729","0.7142691-74.0059729",10
+"128","NEW ZEALAND","New York  Aebura,Bandar Raya New York,Big Apple,Cathair Nua-Eabhrac,City of New York,Eabhraig Nuadh,Efrog Newy...40.7142691-74.0059729","0.7142691-74.0059729",132
+"129","NICARAGUA","Nicaragua  Nekaraguwa,Ni-ca-ra-goa,Ni-ca-ra-goa (Nicaragua),Nicanahuac,Nicaragoa,Nicaragua,Nicaraguaduk<U+0254>,Nicara...13.0-85.0","13.0-85.0",6
+"130","NICARAGUA ","Nicaragua  Nekaraguwa,Ni-ca-ra-goa,Ni-ca-ra-goa (Nicaragua),Nicanahuac,Nicaragoa,Nicaragua,Nicaraguaduk<U+0254>,Nicara...13.0-85.0","13.0-85.0",1
+"131","NIGERIA","Nigeria  An Nigeir,An Nigéir,Federal Republic of Nigeria,Federation of Nigeria,INigeria,Naegyeria,Naigeria,Na...10.08.0",".08.0",4
+"132","NORTH ATLANTIC OCEAN","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",4
+"133","NORTH ATLANTIC OCEAN ","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",1
+"134","NORTH PACIFIC OCEAN","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",7
+"135","NORTH SEA","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",1
+"136","NORTHERN ARABIAN SEA","Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375","ca,...32.953368145799329.9755859375",1
+"137","NORTHERN MARIANA ISLANDS","Northern Africa  Africa del Norte,Afrique du Nord,Noord-Afrika,Nordafrica,Nordafrika,Norte de Africa,Norte de África,...32.953368145799329.9755859375","ca,...32.953368145799329.9755859375",1
+"138","NORWAY","Norway  An Iorua,Kingdom of Norway,Kongeriget Norge,Kongeriket Noreg,Kongeriket Norge,Na Uy,Narvegia,Nirribh...62.010.0","010.0",2
+"139","OCEAN","Ocean  Departement de Kribi,Département de Kribi,Kribi,Ocean2.7510.25","",1
+"140","OKINAWA","Okinawa  Gubernio Okinavo,Maoracht Okinawa,Mkoa wa Okinawa,Okinava,Okinavas prefektura,Okinavas prefektura,Ok...26.5127.933333",".5127.933333",6
+"141","PACIFIC OCEAN","Pacific Northwest  Cascadia45.99696-118.49854","",17
+"142","PACIFIC OCEAN ","Pacific Northwest  Cascadia45.99696-118.49854","",2
+"143","PALAU","Palau  Belau,Belauo,Belavia,Belauo,Beluu er a Belau,Orileede Paalu,Oríl<U+1EB9>´ède Paalu,Pala,Palao,Palaos,Palaou...7.503134.621","3134.621",5
+"144","PALESTINIAN TERRITORIES","Palestine  De palaestinensiske omrader,De palæstinensiske områder,Falastiin Daanka galbeed iyo Qasa,Filistin Bo...31.921570015932435.2032852172852","31.921570015932435.2032852172852",1
+"145","PANAMA","Panama  Orileede Panama,Oríl<U+1EB9>´ède Panama,Pa-na-ma,Panama,Panama nutome,Panamaa,Panamaen,Panamaja,Panamas,Pan...9.0-80.0","-80.0",32
+"146","PAPUA NEW GUINEA","Papua New Guinea  Independent State of Papua New Guinea,Nua-Ghuine Phapua,Nugini Papua Nugini,Orileede Paapu ti Giini,...-6.0147.0","ini,...-6.0147.0",134
+"147","PARAGUAY","Paraguay  El Paraguay,Orileede Paraguye,Oríl<U+1EB9>´ède Paraguye,Pa-ra-goay,Pa-ra-goay (Paraguay),Palagwei,Palakuei,...-23.333333-58.0","23.333333-58.0",1
+"148","PERSIAN GULF","Persian Gulf  1- khlyj fars,1- <U+062E><U+0644><U+064A><U+062C> <U+0641><U+0627><U+0631><U+0633>,Arabian Gulf,Bahr Faris,Golfo Persico,Golfo Pérsico,Golfo di Persia,Gulf ...27.051.0","...27.051.0",4
+"149","PERU","Peru  El Peru,El Perú,Incatlan,Incatlan,Orileede Peru,Oríl<U+1EB9>´ède Peru,Pe-ru,Pearu,Pearù,Pehru,Peiriu,Peiriú...-10.0-75.25","-75.25",1
+"150","PHILIPPINES","Philippines  Amazinga ya Filipine,Bizinga bya Firipino,Commonwealth of the Philippines,Felipines,Filibiin,Filipai...13.0122.0","..13.0122.0",61
+"151","PORTUGAL","Portugal  An Phortaingeil,An Phortaingéil,Bo GJao Nha,Bortuqaal,B<U+1ED3> Ðào Nha,Feringgi,Lusitania,Mputulugeshi,Ori...39.694502-8.130573","9.694502-8.130573",3
+"152","PUERTO RICO","Puerto Plata  POP,Port Plata,Puerto Plata,San Antonio de Guerra,San Felipe de Puerto Plata,San-Felipe-de-Puehrto-P...19.79343728023457-70.6883955001831","...19.79343728023457-70.6883955001831",1
+"153","RED SEA","Red River Delta  21.03498105.8455","",1
+"154","RED SEA / INDIAN OCEAN","Red River Delta  21.03498105.8455","",1
+"155","RED SEA?","Red River Delta  21.03498105.8455","",1
+"156","REUNION","Réunion  Amazinga ya Reyiniyo,Illa de la Reunio,Illa de la Reunió,La Reunion,La Réunion,Larenion,Lenyo,Leyuny...-21.155.6","1.155.6",60
+"157","REUNION ISLAND","Réunion  Amazinga ya Reyiniyo,Illa de la Reunio,Illa de la Reunió,La Reunion,La Réunion,Larenion,Lenyo,Leyuny...-21.155.6","1.155.6",3
+"158","ROATAN","Roatán  16.3409845-86.537628","",1
+"159","RUSSIA","Russia  Conaidhm na Ruise,Cónaidhm na Rúise,Den russiske foderasjon,Den russiske føderasjon,Errusia,Federati...60.0100.0","0100.0",4
+"160","SAMOA","Samoa  Bagimsiz Samoa Devleti,Bagimsiz Samoa Devleti,Ha'amoa,Hamoa,Ha<U+02BB>amoa,Hamoa,Independent State of Samoa...-13.8-172.133333","8-172.133333",9
+"161","SAN DOMINGO","San José  Gorad San-Khaseh,SJO,San Chose,San Chose,San Hose,San Jose,San Jose de Costa Rica,San Jose i Costa R...9.9333333-84.0833333",".9333333-84.0833333",1
+"162","SAUDI ARABIA","Saudi Arabia  A Rap Saudi,A-rap Xe-ut,A-rap Xe-ut  (Saudi Arabia),A-r<U+1EAD>p Xê-út,Al Mamlakah al `Arabiyah as Su`udiya...25.045.0","...25.045.0",5
+"163","SCOTLAND","Scotland  Alba,Albain,Caledonia,Ecosse,Escocia,Escòcia,Escócia,Schotland,Schottland,Scotland,Scozia,Shotlandij...56.0-4.0","6.0-4.0",8
+"164","SENEGAL","Senegal  An tSeineagail,An tSeineagáil,Orileede Senega,Oríl<U+1EB9>´ède S<U+1EB9>n<U+1EB9>ga,Republic of Senegal,Republique du Sen...14.5-14.25",".5-14.25",11
+"165","Seychelles","Seychelles  'Otumotu Seiseli,Amazinga ya Seyisheli,Colony of the Seychelles,Ilhas Seychelles,Insulae Seisellense...-4.583333355.6666667",".-4.583333355.6666667",1
+"166","SEYCHELLES","Seychelles  'Otumotu Seiseli,Amazinga ya Seyisheli,Colony of the Seychelles,Ilhas Seychelles,Insulae Seisellense...-4.583333355.6666667",".-4.583333355.6666667",7
+"167","Sierra Leone","Santa Cruz  Ciudad Santa Cruz,Ciudad de Santa Cruz de la Sierra,SRZ,Santa Cruz,Santa Cruz da Serra,Santa Cruz de...-17.786285577789773-63.18117141723633",".-17.786285577789773-63.18117141723633",1
+"168","SIERRA LEONE","Santa Cruz  Ciudad Santa Cruz,Ciudad de Santa Cruz de la Sierra,SRZ,Santa Cruz,Santa Cruz da Serra,Santa Cruz de...-17.786285577789773-63.18117141723633",".-17.786285577789773-63.18117141723633",8
+"169","SINGAPORE","Singapore  Cingapura,Orileede Singapo,Oríl<U+1EB9>´ède Singapo,Republic of Singapore,Sigapoa,Singaboor,Singaepuru,Sing...1.3666667103.8","1.3666667103.8",6
+"170","SLOVENIA","Slovenia  An tSlovein,An tSlóvéin,Eslobenia,Eslobenya,Eslovenia,Eslovenia - Slovenija,Eslovenya,Eslovènia,Eslo...46.08333315.0","6.08333315.0",1
+"171","SOLOMON ISLANDS","Solomon Islands  'Otumotu Solomone,Adeye Solomoni,Adeyê Solomoni,Amazinga ya Salumoni,Awon Erekusu Solomoni,Bisanga S...-8.0159.0","a S...-8.0159.0",30
+"172","SOLOMON ISLANDS / VANUATU","Solomon Islands  'Otumotu Solomone,Adeye Solomoni,Adeyê Solomoni,Amazinga ya Salumoni,Awon Erekusu Solomoni,Bisanga S...-8.0159.0","a S...-8.0159.0",1
+"173","SOMALIA","Somalia  An tSomail,An tSomáil,As Sumal,As Sumal,Federal Republic of Somalia,ISomalia,ISomaliya,Jamhuuriyada ...6.048.0","048.0",6
+"174","SOUTH AFRICA","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",582
+"175","SOUTH ATLANTIC OCEAN","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",12
+"176","SOUTH CHINA SEA","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",1
+"177","SOUTH KOREA","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",8
+"178","SOUTH PACIFIC OCEAN","South  Dixie,Dixieland,Southern United States33.458762686596614-90.1508149085921","",2
+"179","SOUTHWEST PACIFIC OCEAN","Sud-Ouest  Southwest,Sud-Ouest,Sud-Ouest Region10.5-3.2","",2
+"180","SPAIN","Spain  An Spainn,An Spàinn,An Spáinn,Caxtillan,Esipanye,Esipa<U+0272>i,Espaan,Espaañ,Espagne,Espaina,Espainia,Espa...40.0-4.0","-4.0",44
+"181","SRI LANKA","Sri Jayewardenepura Kotte  DWO,Kolompo,Kotte,New Capital Territory,Shri-Dzhajavardenepura-Kotte,Sri Dzajavardenepura,Sri Jayava...6.8829779.90708","ra,Sri Jayava...6.8829779.90708",14
+"182","ST HELENA, British overseas territory","St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",",...59.9386330.31413",2
+"183","ST. MAARTIN","St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",",...59.9386330.31413",1
+"184","ST. MARTIN","St Petersburg  Agia Petroupole,Betuyrbukh,LED,Leningrad,Leningrado,Lungsod ng Sankt-Peterburg,Peterburg,Peterburgo,...59.9386330.31413",",...59.9386330.31413",1
+"185","SUDAN","Sudan  An tSudain,An tSúdáin,Anglo-Egyptian Sudan,As Sudan,As Sudan,El Sudan,Es Sudan el Inglizi el Masri,E...16.030.0","30.0",4
+"186","SUDAN?","Sudan  An tSudain,An tSúdáin,Anglo-Egyptian Sudan,As Sudan,As Sudan,El Sudan,Es Sudan el Inglizi el Masri,E...16.030.0","30.0",1
+"187","SWEDEN","Sweden  An tSualainn,Isvec,Isvetzia,Iswidhan,Kingdom of Sweden,Konungariket Sverige,Orileede Swidini,Oríl<U+1EB9>´è...62.015.0","015.0",1
+"188","SYRIA","Syria  Al Iqlim as Suri,Al Iqlim ash Shamali,Al Iqlim as Suri,Al Iqlim ash Shamali,Al Jumhuriyah al `Arabiy...35.038.0","38.0",1
+"189","TAIWAN","Taiwan  An Teavain,An Téaváin,Chinska republika,Chung-fa Min-koet,Chung-hua Min-kuo,Chunwa Republika,Chûng-f...24.0121.0","0121.0",9
+"190","TANZANIA","Tanzania  An Tansain,An Tansáin,Orileede Tansania,Oríl<U+1EB9>´ède Tan<U+1E63>ania,Republica Xunida de Tanzania,República Xu...-6.035.0","6.035.0",8
+"191","TASMAN SEA","Tasman  Tasman-41.2173.05","",1
+"192","THAILAND","Thailand  An Tealainn,An Téalainn,Gwlad Thai,Kingdom of Thailand,Muang-Thai,Orileede Tailandi,Oríl<U+1EB9>´ède Tailan...15.5101.0","5.5101.0",8
+"193","THE BALKANS","The Valley  De Balei,El Valle,Gorad Vali,La-Valo,The Valley,Vali,Valis,Valley,Valli,bare,d wly,deobaelli,dy wyly...18.2170409282136-63.0578327178955",".18.2170409282136-63.0578327178955",1
+"194","TOBAGO","Tobago  Tobago11.25-60.6666667","",2
+"195","TONGA","Tonga  Bahasa Tonga,Igitonga,Kingdom of Tonga,Orileede Tonga,Oríl<U+1EB9>´ède Tonga,Pule`anga Fakatu`i `o Tonga,Pu...-20.0-175.0","0-175.0",15
+"196","TRINIDAD & TOBAGO","Trinidad  Enez Trinidad,Illa Trinidad,Illa de Trinitat,Insula Trinitatis,Isla Trinidad,La Trinite,POS,Trianaid...10.46114-61.25702","0.46114-61.25702",3
+"197","TUNISIA","Tunisia  Al Jumhuriyah at Tunisiyah,Al Jumhuriyah at Tunisiyah,Al Mamlakah at Tunusiyah,Al Mamlakah at Tunusi...34.09.0",".09.0",3
+"198","TURKEY","Turkey  An Tuirc,Durka,Orileede Tooki,Oríl<U+1EB9>´ède T<U+1ECD><U+1ECD>ki,Republic of Turkey,Thekhi,Tho Nhi Ky,Th<U+1ED5> Nhi K<U+1EF3>,Tierke...39.035.0","035.0",12
+"199","TURKS & CAICOS","Turks and Caicos Islands  'Otumotu Teki mo Keikosi,Amazinga ya Turkisi na Cayikosi,Azua Turku na Kaiki,Bisanga bya Turki mpe K...21.7333333-71.5833333"," Turki mpe K...21.7333333-71.5833333",5
+"200","TUVALU","Tuvalu  Orileede Tufalu,Oríl<U+1EB9>´ède Tufalu,Thuvalu,Toubalou,Touvalou,Tovalo,Tovalò,Tu-va-lu,Tubalu,Tubaru,Tubh...-8.517193709237803179.14478302001953","517193709237803179.14478302001953",1
+"201","UNITED ARAB EMIRATES","Cameroon  Ca-mo-run,Ca-mo-run (Cameroon),Ca-mo-run,Ca-mo-run (Cameroon),Camaroes,Camarun,Camarões,Camarún,Came...6.012.5",".012.5",2
+"202","UNITED ARAB EMIRATES (UAE)","Cameroon  Ca-mo-run,Ca-mo-run (Cameroon),Ca-mo-run,Ca-mo-run (Cameroon),Camaroes,Camarun,Camarões,Camarún,Came...6.012.5",".012.5",2
+"203","UNITED KINGDOM","Cameroon  Ca-mo-run,Ca-mo-run (Cameroon),Ca-mo-run,Ca-mo-run (Cameroon),Camaroes,Camarun,Camarões,Camarún,Came...6.012.5",".012.5",11
+"204","URUGUAY","Uruguay  'Ulukuei,Banda Oriental,Irigwe,Irigwei,Oriental Republic of Uruguay,Orileede Nruguayi,Orogoay,Oríl<U+1EB9>´...-33.0-56.0","3.0-56.0",4
+"205","USA","United States  ABD,ALeaa-Oko ti Amerika,Ameerika UEhendriigid,Ameerika Ühendriigid,Amelika,America,Amerihka Ovttast...39.76-98.5","t...39.76-98.5",2292
+"206","VANUATU","Vanuatu  Banouatou,Banuwatu,Condominium des Nouvelles-Hebrides,Condominium des Nouvelles-Hébrides,New Hebride...-16.0167.0","6.0167.0",14
+"207","VENEZUELA","Venezuela  A Bheiniseala,Beneswela,Benezouela,Benezuela,Benezuwela,Biniswila,Bolivarian Republic of Venezuela,E...8.0-66.0","8.0-66.0",11
+"208","VIETNAM","Vietnam  Bhiet-Nam,Bietnam,Biyetinam,Cong Hoa Xa Hoi Chu Nghia Viet Nam,Công Hòa Xã H<U+1ED9>i Ch<U+1EE7> Nghia Vi<U+1EC7>t Nam,Fi...16.1666667107.8333333",".1666667107.8333333",15
+"209","WEST INDIES","West  Far West,Western United States51.52603957655882-131.1607270082519","",2
+"210","WESTERN SAMOA","Western Asia  Asia Occidental,Asia occidentale,Asie de l'Ouest,Sudoeste Asiatico,Sudoeste Asiático,Vorderasien,Wes...25.83944940206318543.2421875","...25.83944940206318543.2421875",1
+"211","YEMEN","Yemen  Al Jumhuriyah al Yamaniyah,Al Jumhuriyah al Yamaniyah,Al Yaman,Eimin,Emehn,Emen,Iemen,Iemen - alymn,...15.547.5","47.5",2
+"212","YEMEN ","Yemen  Al Jumhuriyah al Yamaniyah,Al Jumhuriyah al Yamaniyah,Al Yaman,Eimin,Emehn,Emen,Iemen,Iemen - alymn,...15.547.5","47.5",7
